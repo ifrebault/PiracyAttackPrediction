@@ -1,52 +1,56 @@
 Activity;Area;Count;Fortnight;Month;Type
-1.0;A;0;1.0;1.0;Carrier
-1.0;B;0;1.0;1.0;Carrier
-1.0;C;0;1.0;1.0;Carrier
-1.0;D;0;1.0;1.0;Carrier
-1.0;E;0;1.0;1.0;Carrier
-1.0;F;0;1.0;1.0;Carrier
-1.0;G;0;1.0;1.0;Carrier
-1.0;I;0;1.0;1.0;Carrier
-1.0;J;0;1.0;1.0;Carrier
-1.0;K;0;1.0;1.0;Carrier
-1.0;L;0;1.0;1.0;Carrier
-1.0;M;0;1.0;1.0;Carrier
-1.0;A;0;2.0;1.0;Carrier
-1.0;B;0;2.0;1.0;Carrier
-1.0;C;0;2.0;1.0;Carrier
-1.0;D;0;2.0;1.0;Carrier
-1.0;E;0;2.0;1.0;Carrier
-1.0;F;0;2.0;1.0;Carrier
-1.0;G;0;2.0;1.0;Carrier
-1.0;I;0;2.0;1.0;Carrier
-1.0;J;0;2.0;1.0;Carrier
-1.0;K;0;2.0;1.0;Carrier
-1.0;L;0;2.0;1.0;Carrier
-1.0;M;0;2.0;1.0;Carrier
-2.0;A;0;1.0;1.0;Carrier
-2.0;B;1;1.0;1.0;Carrier
-2.0;C;0;1.0;1.0;Carrier
-2.0;D;0;1.0;1.0;Carrier
-2.0;E;1;1.0;1.0;Carrier
-2.0;F;0;1.0;1.0;Carrier
-2.0;G;0;1.0;1.0;Carrier
-2.0;I;1;1.0;1.0;Carrier
-2.0;J;3;1.0;1.0;Carrier
-2.0;K;1;1.0;1.0;Carrier
-2.0;L;2;1.0;1.0;Carrier
-2.0;M;0;1.0;1.0;Carrier
-2.0;A;0;2.0;1.0;Carrier
-2.0;B;0;2.0;1.0;Carrier
-2.0;C;1;2.0;1.0;Carrier
-2.0;D;0;2.0;1.0;Carrier
-2.0;E;1;2.0;1.0;Carrier
-2.0;F;0;2.0;1.0;Carrier
-2.0;G;0;2.0;1.0;Carrier
-2.0;I;1;2.0;1.0;Carrier
-2.0;J;0;2.0;1.0;Carrier
-2.0;K;0;2.0;1.0;Carrier
-2.0;L;0;2.0;1.0;Carrier
-2.0;M;0;2.0;1.0;Carrier
+1.0;A;0;1.0;1.0;Vehicle Carrier
+1.0;B;0;1.0;1.0;Vehicle Carrier
+1.0;C;0;1.0;1.0;Vehicle Carrier
+1.0;D;0;1.0;1.0;Vehicle Carrier
+1.0;E;0;1.0;1.0;Vehicle Carrier
+1.0;F;0;1.0;1.0;Vehicle Carrier
+1.0;G;0;1.0;1.0;Vehicle Carrier
+1.0;H;0;1.0;1.0;Vehicle Carrier
+1.0;I;0;1.0;1.0;Vehicle Carrier
+1.0;J;0;1.0;1.0;Vehicle Carrier
+1.0;K;0;1.0;1.0;Vehicle Carrier
+1.0;L;0;1.0;1.0;Vehicle Carrier
+1.0;M;0;1.0;1.0;Vehicle Carrier
+1.0;A;0;2.0;1.0;Vehicle Carrier
+1.0;B;0;2.0;1.0;Vehicle Carrier
+1.0;C;0;2.0;1.0;Vehicle Carrier
+1.0;D;0;2.0;1.0;Vehicle Carrier
+1.0;E;0;2.0;1.0;Vehicle Carrier
+1.0;F;0;2.0;1.0;Vehicle Carrier
+1.0;G;0;2.0;1.0;Vehicle Carrier
+1.0;H;0;2.0;1.0;Vehicle Carrier
+1.0;I;0;2.0;1.0;Vehicle Carrier
+1.0;J;0;2.0;1.0;Vehicle Carrier
+1.0;K;0;2.0;1.0;Vehicle Carrier
+1.0;L;0;2.0;1.0;Vehicle Carrier
+1.0;M;0;2.0;1.0;Vehicle Carrier
+2.0;A;0;1.0;1.0;Vehicle Carrier
+2.0;B;1;1.0;1.0;Vehicle Carrier
+2.0;C;0;1.0;1.0;Vehicle Carrier
+2.0;D;0;1.0;1.0;Vehicle Carrier
+2.0;E;1;1.0;1.0;Vehicle Carrier
+2.0;F;0;1.0;1.0;Vehicle Carrier
+2.0;G;0;1.0;1.0;Vehicle Carrier
+2.0;H;1;1.0;1.0;Vehicle Carrier
+2.0;I;3;1.0;1.0;Vehicle Carrier
+2.0;J;3;1.0;1.0;Vehicle Carrier
+2.0;K;3;1.0;1.0;Vehicle Carrier
+2.0;L;2;1.0;1.0;Vehicle Carrier
+2.0;M;0;1.0;1.0;Vehicle Carrier
+2.0;A;0;2.0;1.0;Vehicle Carrier
+2.0;B;0;2.0;1.0;Vehicle Carrier
+2.0;C;1;2.0;1.0;Vehicle Carrier
+2.0;D;0;2.0;1.0;Vehicle Carrier
+2.0;E;1;2.0;1.0;Vehicle Carrier
+2.0;F;0;2.0;1.0;Vehicle Carrier
+2.0;G;0;2.0;1.0;Vehicle Carrier
+2.0;H;1;2.0;1.0;Vehicle Carrier
+2.0;I;0;2.0;1.0;Vehicle Carrier
+2.0;J;1;2.0;1.0;Tanker
+2.0;K;0;2.0;1.0;Tanker
+2.0;L;1;2.0;1.0;Tanker
+2.0;M;0;2.0;1.0;Tanker
 1.0;A;0;1.0;1.0;Tanker
 1.0;B;0;1.0;1.0;Tanker
 1.0;C;0;1.0;1.0;Tanker
@@ -54,6 +58,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;1.0;Tanker
 1.0;F;0;1.0;1.0;Tanker
 1.0;G;0;1.0;1.0;Tanker
+1.0;H;0;1.0;1.0;Tanker
 1.0;I;0;1.0;1.0;Tanker
 1.0;J;0;1.0;1.0;Tanker
 1.0;K;0;1.0;1.0;Tanker
@@ -66,6 +71,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;1.0;Tanker
 1.0;F;0;2.0;1.0;Tanker
 1.0;G;0;2.0;1.0;Tanker
+1.0;H;0;2.0;1.0;Tanker
 1.0;I;0;2.0;1.0;Tanker
 1.0;J;0;2.0;1.0;Tanker
 1.0;K;0;2.0;1.0;Tanker
@@ -78,7 +84,8 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;1;1.0;1.0;Tanker
 2.0;F;1;1.0;1.0;Tanker
 2.0;G;1;1.0;1.0;Tanker
-2.0;I;5;1.0;1.0;Tanker
+2.0;H;3;1.0;1.0;Tanker
+2.0;I;2;1.0;1.0;Tanker
 2.0;J;0;1.0;1.0;Tanker
 2.0;K;1;1.0;1.0;Tanker
 2.0;L;0;1.0;1.0;Tanker
@@ -88,13 +95,66 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;C;0;2.0;1.0;Tanker
 2.0;D;0;2.0;1.0;Tanker
 2.0;E;0;2.0;1.0;Tanker
-2.0;F;1;2.0;1.0;Tanker
-2.0;G;0;2.0;1.0;Tanker
-2.0;I;2;2.0;1.0;Tanker
-2.0;J;1;2.0;1.0;Tanker
-2.0;K;0;2.0;1.0;Tanker
-2.0;L;1;2.0;1.0;Tanker
-2.0;M;0;2.0;1.0;Tanker
+2.0;F;0;2.0;1.0;Offshore Exploitation
+2.0;G;0;2.0;1.0;Offshore Exploitation
+2.0;H;0;2.0;1.0;Offshore Exploitation
+2.0;I;0;2.0;1.0;Offshore Exploitation
+2.0;J;0;2.0;1.0;Offshore Exploitation
+2.0;K;0;2.0;1.0;Offshore Exploitation
+2.0;L;1;2.0;1.0;Offshore Exploitation
+2.0;M;0;2.0;1.0;Offshore Exploitation
+1.0;A;0;1.0;1.0;Offshore Exploitation
+1.0;B;0;1.0;1.0;Offshore Exploitation
+1.0;C;0;1.0;1.0;Offshore Exploitation
+1.0;D;0;1.0;1.0;Offshore Exploitation
+1.0;E;0;1.0;1.0;Offshore Exploitation
+1.0;F;0;1.0;1.0;Offshore Exploitation
+1.0;G;0;1.0;1.0;Offshore Exploitation
+1.0;H;0;1.0;1.0;Offshore Exploitation
+1.0;I;0;1.0;1.0;Offshore Exploitation
+1.0;J;0;1.0;1.0;Offshore Exploitation
+1.0;K;0;1.0;1.0;Offshore Exploitation
+1.0;L;0;1.0;1.0;Offshore Exploitation
+1.0;M;0;1.0;1.0;Offshore Exploitation
+1.0;A;0;2.0;1.0;Offshore Exploitation
+1.0;B;0;2.0;1.0;Offshore Exploitation
+1.0;C;0;2.0;1.0;Offshore Exploitation
+1.0;D;0;2.0;1.0;Offshore Exploitation
+1.0;E;0;2.0;1.0;Offshore Exploitation
+1.0;F;0;2.0;1.0;Offshore Exploitation
+1.0;G;0;2.0;1.0;Offshore Exploitation
+1.0;H;0;2.0;1.0;Offshore Exploitation
+1.0;I;0;2.0;1.0;Offshore Exploitation
+1.0;J;0;2.0;1.0;Offshore Exploitation
+1.0;K;0;2.0;1.0;Offshore Exploitation
+1.0;L;0;2.0;1.0;Offshore Exploitation
+1.0;M;0;2.0;1.0;Offshore Exploitation
+2.0;A;0;1.0;1.0;Offshore Exploitation
+2.0;B;0;1.0;1.0;Offshore Exploitation
+2.0;C;0;1.0;1.0;Offshore Exploitation
+2.0;D;0;1.0;1.0;Offshore Exploitation
+2.0;E;0;1.0;1.0;Offshore Exploitation
+2.0;F;1;1.0;1.0;Offshore Exploitation
+2.0;G;0;1.0;1.0;Offshore Exploitation
+2.0;H;0;1.0;1.0;Offshore Exploitation
+2.0;I;0;1.0;1.0;Offshore Exploitation
+2.0;J;0;1.0;1.0;Offshore Exploitation
+2.0;K;0;1.0;1.0;Offshore Exploitation
+2.0;L;0;1.0;1.0;Offshore Exploitation
+2.0;M;0;1.0;1.0;Offshore Exploitation
+2.0;A;0;2.0;1.0;Offshore Exploitation
+2.0;B;0;2.0;1.0;Other
+2.0;C;0;2.0;1.0;Other
+2.0;D;0;2.0;1.0;Other
+2.0;E;0;2.0;1.0;Other
+2.0;F;0;2.0;1.0;Other
+2.0;G;0;2.0;1.0;Other
+2.0;H;0;2.0;1.0;Other
+2.0;I;0;2.0;1.0;Other
+2.0;J;0;2.0;1.0;Other
+2.0;K;0;2.0;1.0;Other
+2.0;L;0;2.0;1.0;Other
+2.0;M;0;2.0;1.0;Other
 1.0;A;0;1.0;1.0;Other
 1.0;B;0;1.0;1.0;Other
 1.0;C;0;1.0;1.0;Other
@@ -102,6 +162,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;1.0;Other
 1.0;F;0;1.0;1.0;Other
 1.0;G;0;1.0;1.0;Other
+1.0;H;0;1.0;1.0;Other
 1.0;I;0;1.0;1.0;Other
 1.0;J;0;1.0;1.0;Other
 1.0;K;0;1.0;1.0;Other
@@ -114,6 +175,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;1.0;Other
 1.0;F;0;2.0;1.0;Other
 1.0;G;0;2.0;1.0;Other
+1.0;H;0;2.0;1.0;Other
 1.0;I;0;2.0;1.0;Other
 1.0;J;0;2.0;1.0;Other
 1.0;K;0;2.0;1.0;Other
@@ -124,169 +186,27 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;C;0;1.0;1.0;Other
 2.0;D;0;1.0;1.0;Other
 2.0;E;0;1.0;1.0;Other
-2.0;F;2;1.0;1.0;Other
+2.0;F;1;1.0;1.0;Other
 2.0;G;0;1.0;1.0;Other
+2.0;H;0;1.0;1.0;Other
 2.0;I;0;1.0;1.0;Other
 2.0;J;0;1.0;1.0;Other
-2.0;K;1;1.0;1.0;Other
-2.0;L;0;1.0;1.0;Other
-2.0;M;0;1.0;1.0;Other
-2.0;A;0;2.0;1.0;Other
-2.0;B;0;2.0;1.0;Other
-2.0;C;0;2.0;1.0;Other
-2.0;D;0;2.0;1.0;Other
-2.0;E;0;2.0;1.0;Other
-2.0;F;0;2.0;1.0;Other
-2.0;G;0;2.0;1.0;Other
-2.0;I;0;2.0;1.0;Other
-2.0;J;0;2.0;1.0;Other
-2.0;K;0;2.0;1.0;Other
-2.0;L;0;2.0;1.0;Other
-2.0;M;0;2.0;1.0;Other
-1.0;A;0;1.0;1.0;Cargo
-1.0;B;0;1.0;1.0;Cargo
-1.0;C;0;1.0;1.0;Cargo
-1.0;D;0;1.0;1.0;Cargo
-1.0;E;0;1.0;1.0;Cargo
-1.0;F;0;1.0;1.0;Cargo
-1.0;G;0;1.0;1.0;Cargo
-1.0;I;0;1.0;1.0;Cargo
-1.0;J;0;1.0;1.0;Cargo
-1.0;K;0;1.0;1.0;Cargo
-1.0;L;0;1.0;1.0;Cargo
-1.0;M;0;1.0;1.0;Cargo
-1.0;A;0;2.0;1.0;Cargo
-1.0;B;0;2.0;1.0;Cargo
-1.0;C;0;2.0;1.0;Cargo
-1.0;D;0;2.0;1.0;Cargo
-1.0;E;0;2.0;1.0;Cargo
-1.0;F;0;2.0;1.0;Cargo
-1.0;G;0;2.0;1.0;Cargo
-1.0;I;0;2.0;1.0;Cargo
-1.0;J;0;2.0;1.0;Cargo
-1.0;K;0;2.0;1.0;Cargo
-1.0;L;0;2.0;1.0;Cargo
-1.0;M;0;2.0;1.0;Cargo
-2.0;A;0;1.0;1.0;Cargo
-2.0;B;0;1.0;1.0;Cargo
-2.0;C;0;1.0;1.0;Cargo
-2.0;D;0;1.0;1.0;Cargo
-2.0;E;0;1.0;1.0;Cargo
-2.0;F;0;1.0;1.0;Cargo
-2.0;G;0;1.0;1.0;Cargo
-2.0;I;3;1.0;1.0;Cargo
-2.0;J;0;1.0;1.0;Cargo
-2.0;K;1;1.0;1.0;Cargo
-2.0;L;0;1.0;1.0;Cargo
-2.0;M;0;1.0;1.0;Cargo
-2.0;A;0;2.0;1.0;Cargo
-2.0;B;0;2.0;1.0;Cargo
-2.0;C;0;2.0;1.0;Cargo
-2.0;D;0;2.0;1.0;Cargo
-2.0;E;0;2.0;1.0;Cargo
-2.0;F;0;2.0;1.0;Cargo
-2.0;G;0;2.0;1.0;Cargo
-2.0;I;0;2.0;1.0;Cargo
-2.0;J;0;2.0;1.0;Cargo
-2.0;K;0;2.0;1.0;Cargo
-2.0;L;0;2.0;1.0;Cargo
-2.0;M;0;2.0;1.0;Cargo
-1.0;A;0;1.0;1.0;Ro-Ro
-1.0;B;0;1.0;1.0;Ro-Ro
-1.0;C;0;1.0;1.0;Ro-Ro
-1.0;D;0;1.0;1.0;Ro-Ro
-1.0;E;0;1.0;1.0;Ro-Ro
-1.0;F;0;1.0;1.0;Ro-Ro
-1.0;G;0;1.0;1.0;Ro-Ro
-1.0;I;0;1.0;1.0;Ro-Ro
-1.0;J;0;1.0;1.0;Ro-Ro
-1.0;K;0;1.0;1.0;Ro-Ro
-1.0;L;0;1.0;1.0;Ro-Ro
-1.0;M;0;1.0;1.0;Ro-Ro
-1.0;A;0;2.0;1.0;Ro-Ro
-1.0;B;0;2.0;1.0;Ro-Ro
-1.0;C;0;2.0;1.0;Ro-Ro
-1.0;D;0;2.0;1.0;Ro-Ro
-1.0;E;0;2.0;1.0;Ro-Ro
-1.0;F;0;2.0;1.0;Ro-Ro
-1.0;G;0;2.0;1.0;Ro-Ro
-1.0;I;0;2.0;1.0;Ro-Ro
-1.0;J;0;2.0;1.0;Ro-Ro
-1.0;K;0;2.0;1.0;Ro-Ro
-1.0;L;0;2.0;1.0;Ro-Ro
-1.0;M;0;2.0;1.0;Ro-Ro
-2.0;A;0;1.0;1.0;Ro-Ro
-2.0;B;0;1.0;1.0;Ro-Ro
-2.0;C;0;1.0;1.0;Ro-Ro
-2.0;D;0;1.0;1.0;Ro-Ro
-2.0;E;0;1.0;1.0;Ro-Ro
-2.0;F;0;1.0;1.0;Ro-Ro
-2.0;G;0;1.0;1.0;Ro-Ro
-2.0;I;0;1.0;1.0;Ro-Ro
-2.0;J;0;1.0;1.0;Ro-Ro
-2.0;K;1;1.0;1.0;Ro-Ro
-2.0;L;0;1.0;1.0;Ro-Ro
-2.0;M;0;1.0;1.0;Ro-Ro
-2.0;A;0;2.0;1.0;Ro-Ro
-2.0;B;0;2.0;1.0;Ro-Ro
-2.0;C;0;2.0;1.0;Ro-Ro
-2.0;D;0;2.0;1.0;Ro-Ro
-2.0;E;0;2.0;1.0;Ro-Ro
-2.0;F;0;2.0;1.0;Ro-Ro
-2.0;G;0;2.0;1.0;Ro-Ro
-2.0;I;0;2.0;1.0;Ro-Ro
-2.0;J;0;2.0;1.0;Ro-Ro
-2.0;K;0;2.0;1.0;Ro-Ro
-2.0;L;0;2.0;1.0;Ro-Ro
-2.0;M;0;2.0;1.0;Ro-Ro
-1.0;A;0;1.0;1.0;Vessel
-1.0;B;0;1.0;1.0;Vessel
-1.0;C;0;1.0;1.0;Vessel
-1.0;D;0;1.0;1.0;Vessel
-1.0;E;0;1.0;1.0;Vessel
-1.0;F;0;1.0;1.0;Vessel
-1.0;G;0;1.0;1.0;Vessel
-1.0;I;0;1.0;1.0;Vessel
-1.0;J;0;1.0;1.0;Vessel
-1.0;K;0;1.0;1.0;Vessel
-1.0;L;0;1.0;1.0;Vessel
-1.0;M;0;1.0;1.0;Vessel
-1.0;A;0;2.0;1.0;Vessel
-1.0;B;0;2.0;1.0;Vessel
-1.0;C;0;2.0;1.0;Vessel
-1.0;D;0;2.0;1.0;Vessel
-1.0;E;0;2.0;1.0;Vessel
-1.0;F;0;2.0;1.0;Vessel
-1.0;G;0;2.0;1.0;Vessel
-1.0;I;0;2.0;1.0;Vessel
-1.0;J;0;2.0;1.0;Vessel
-1.0;K;0;2.0;1.0;Vessel
-1.0;L;0;2.0;1.0;Vessel
-1.0;M;0;2.0;1.0;Vessel
-2.0;A;0;1.0;1.0;Vessel
-2.0;B;0;1.0;1.0;Vessel
-2.0;C;0;1.0;1.0;Vessel
-2.0;D;0;1.0;1.0;Vessel
-2.0;E;0;1.0;1.0;Vessel
-2.0;F;0;1.0;1.0;Vessel
-2.0;G;0;1.0;1.0;Vessel
-2.0;I;0;1.0;1.0;Vessel
-2.0;J;0;1.0;1.0;Vessel
-2.0;K;0;1.0;1.0;Vessel
-2.0;L;0;1.0;1.0;Vessel
-2.0;M;0;1.0;1.0;Vessel
-2.0;A;0;2.0;1.0;Vessel
-2.0;B;0;2.0;1.0;Vessel
-2.0;C;0;2.0;1.0;Vessel
-2.0;D;0;2.0;1.0;Vessel
-2.0;E;0;2.0;1.0;Vessel
-2.0;F;0;2.0;1.0;Vessel
-2.0;G;0;2.0;1.0;Vessel
-2.0;I;0;2.0;1.0;Vessel
-2.0;J;0;2.0;1.0;Vessel
-2.0;K;0;2.0;1.0;Vessel
-2.0;L;1;2.0;1.0;Vessel
-2.0;M;0;2.0;1.0;Vessel
+2.0;K;0;1.0;1.0;Tug
+2.0;L;0;1.0;1.0;Tug
+2.0;M;0;1.0;1.0;Tug
+2.0;A;0;2.0;1.0;Tug
+2.0;B;0;2.0;1.0;Tug
+2.0;C;0;2.0;1.0;Tug
+2.0;D;0;2.0;1.0;Tug
+2.0;E;0;2.0;1.0;Tug
+2.0;F;0;2.0;1.0;Tug
+2.0;G;0;2.0;1.0;Tug
+2.0;H;0;2.0;1.0;Tug
+2.0;I;0;2.0;1.0;Tug
+2.0;J;0;2.0;1.0;Tug
+2.0;K;0;2.0;1.0;Tug
+2.0;L;0;2.0;1.0;Tug
+2.0;M;0;2.0;1.0;Tug
 1.0;A;0;1.0;1.0;Tug
 1.0;B;0;1.0;1.0;Tug
 1.0;C;0;1.0;1.0;Tug
@@ -294,6 +214,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;1.0;Tug
 1.0;F;0;1.0;1.0;Tug
 1.0;G;0;1.0;1.0;Tug
+1.0;H;0;1.0;1.0;Tug
 1.0;I;0;1.0;1.0;Tug
 1.0;J;0;1.0;1.0;Tug
 1.0;K;0;1.0;1.0;Tug
@@ -306,6 +227,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;1.0;Tug
 1.0;F;0;2.0;1.0;Tug
 1.0;G;0;2.0;1.0;Tug
+1.0;H;0;2.0;1.0;Tug
 1.0;I;0;2.0;1.0;Tug
 1.0;J;0;2.0;1.0;Tug
 1.0;K;0;2.0;1.0;Tug
@@ -317,55 +239,60 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;D;0;1.0;1.0;Tug
 2.0;E;0;1.0;1.0;Tug
 2.0;F;0;1.0;1.0;Tug
-2.0;G;0;1.0;1.0;Tug
-2.0;I;0;1.0;1.0;Tug
-2.0;J;0;1.0;1.0;Tug
-2.0;K;0;1.0;1.0;Tug
-2.0;L;0;1.0;1.0;Tug
-2.0;M;0;1.0;1.0;Tug
-2.0;A;0;2.0;1.0;Tug
-2.0;B;0;2.0;1.0;Tug
-2.0;C;0;2.0;1.0;Tug
-2.0;D;0;2.0;1.0;Tug
-2.0;E;0;2.0;1.0;Tug
-2.0;F;0;2.0;1.0;Tug
-2.0;G;0;2.0;1.0;Tug
-2.0;I;0;2.0;1.0;Tug
-2.0;J;0;2.0;1.0;Tug
-2.0;K;0;2.0;1.0;Tug
-2.0;L;0;2.0;1.0;Tug
-2.0;M;0;2.0;1.0;Tug
-1.0;A;0;1.0;1.0;Barge
-1.0;B;0;1.0;1.0;Barge
-1.0;C;0;1.0;1.0;Barge
-1.0;D;0;1.0;1.0;Barge
-1.0;E;0;1.0;1.0;Barge
-1.0;F;0;1.0;1.0;Barge
-1.0;G;0;1.0;1.0;Barge
-1.0;I;0;1.0;1.0;Barge
-1.0;J;0;1.0;1.0;Barge
-1.0;K;0;1.0;1.0;Barge
-1.0;L;0;1.0;1.0;Barge
-1.0;M;0;1.0;1.0;Barge
-1.0;A;0;2.0;1.0;Barge
-1.0;B;0;2.0;1.0;Barge
-1.0;C;0;2.0;1.0;Barge
-1.0;D;0;2.0;1.0;Barge
-1.0;E;0;2.0;1.0;Barge
-1.0;F;0;2.0;1.0;Barge
-1.0;G;0;2.0;1.0;Barge
-1.0;I;0;2.0;1.0;Barge
-1.0;J;0;2.0;1.0;Barge
-1.0;K;0;2.0;1.0;Barge
-1.0;L;0;2.0;1.0;Barge
-1.0;M;0;2.0;1.0;Barge
-2.0;A;0;1.0;1.0;Barge
-2.0;B;0;1.0;1.0;Barge
+2.0;G;0;1.0;1.0;Vessel
+2.0;H;0;1.0;1.0;Vessel
+2.0;I;0;1.0;1.0;Vessel
+2.0;J;0;1.0;1.0;Vessel
+2.0;K;0;1.0;1.0;Vessel
+2.0;L;0;1.0;1.0;Vessel
+2.0;M;0;1.0;1.0;Vessel
+2.0;A;0;2.0;1.0;Vessel
+2.0;B;0;2.0;1.0;Vessel
+2.0;C;0;2.0;1.0;Vessel
+2.0;D;0;2.0;1.0;Vessel
+2.0;E;0;2.0;1.0;Vessel
+2.0;F;0;2.0;1.0;Vessel
+2.0;G;0;2.0;1.0;Vessel
+2.0;H;0;2.0;1.0;Vessel
+2.0;I;0;2.0;1.0;Vessel
+2.0;J;0;2.0;1.0;Vessel
+2.0;K;0;2.0;1.0;Vessel
+2.0;L;0;2.0;1.0;Vessel
+2.0;M;0;2.0;1.0;Vessel
+1.0;A;0;1.0;1.0;Vessel
+1.0;B;0;1.0;1.0;Vessel
+1.0;C;0;1.0;1.0;Vessel
+1.0;D;0;1.0;1.0;Vessel
+1.0;E;0;1.0;1.0;Vessel
+1.0;F;0;1.0;1.0;Vessel
+1.0;G;0;1.0;1.0;Vessel
+1.0;H;0;1.0;1.0;Vessel
+1.0;I;0;1.0;1.0;Vessel
+1.0;J;0;1.0;1.0;Vessel
+1.0;K;0;1.0;1.0;Vessel
+1.0;L;0;1.0;1.0;Vessel
+1.0;M;0;1.0;1.0;Vessel
+1.0;A;0;2.0;1.0;Vessel
+1.0;B;0;2.0;1.0;Vessel
+1.0;C;0;2.0;1.0;Vessel
+1.0;D;0;2.0;1.0;Vessel
+1.0;E;0;2.0;1.0;Vessel
+1.0;F;0;2.0;1.0;Vessel
+1.0;G;0;2.0;1.0;Vessel
+1.0;H;0;2.0;1.0;Vessel
+1.0;I;0;2.0;1.0;Vessel
+1.0;J;0;2.0;1.0;Vessel
+1.0;K;0;2.0;1.0;Vessel
+1.0;L;0;2.0;1.0;Vessel
+1.0;M;0;2.0;1.0;Vessel
+2.0;A;0;1.0;1.0;Vessel
+2.0;B;0;1.0;1.0;Vessel
 2.0;C;0;1.0;1.0;Barge
 2.0;D;0;1.0;1.0;Barge
 2.0;E;0;1.0;1.0;Barge
 2.0;F;0;1.0;1.0;Barge
 2.0;G;0;1.0;1.0;Barge
+2.0;H;0;1.0;1.0;Barge
 2.0;I;0;1.0;1.0;Barge
 2.0;J;0;1.0;1.0;Barge
 2.0;K;0;1.0;1.0;Barge
@@ -378,78 +305,85 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;1.0;Barge
 2.0;F;0;2.0;1.0;Barge
 2.0;G;0;2.0;1.0;Barge
+2.0;H;0;2.0;1.0;Barge
 2.0;I;0;2.0;1.0;Barge
 2.0;J;0;2.0;1.0;Barge
 2.0;K;0;2.0;1.0;Barge
 2.0;L;0;2.0;1.0;Barge
 2.0;M;0;2.0;1.0;Barge
-1.0;A;0;1.0;2.0;Carrier
-1.0;B;0;1.0;2.0;Carrier
-1.0;C;0;1.0;2.0;Carrier
-1.0;D;0;1.0;2.0;Carrier
-1.0;E;0;1.0;2.0;Carrier
-1.0;F;0;1.0;2.0;Carrier
-1.0;G;0;1.0;2.0;Carrier
-1.0;I;0;1.0;2.0;Carrier
-1.0;J;0;1.0;2.0;Carrier
-1.0;K;0;1.0;2.0;Carrier
-1.0;L;0;1.0;2.0;Carrier
-1.0;M;0;1.0;2.0;Carrier
-1.0;A;0;2.0;2.0;Carrier
-1.0;B;0;2.0;2.0;Carrier
-1.0;C;0;2.0;2.0;Carrier
-1.0;D;0;2.0;2.0;Carrier
-1.0;E;0;2.0;2.0;Carrier
-1.0;F;0;2.0;2.0;Carrier
-1.0;G;0;2.0;2.0;Carrier
-1.0;I;0;2.0;2.0;Carrier
-1.0;J;0;2.0;2.0;Carrier
-1.0;K;0;2.0;2.0;Carrier
-1.0;L;0;2.0;2.0;Carrier
-1.0;M;0;2.0;2.0;Carrier
-2.0;A;0;1.0;2.0;Carrier
-2.0;B;0;1.0;2.0;Carrier
-2.0;C;1;1.0;2.0;Carrier
-2.0;D;0;1.0;2.0;Carrier
-2.0;E;0;1.0;2.0;Carrier
-2.0;F;0;1.0;2.0;Carrier
-2.0;G;0;1.0;2.0;Carrier
-2.0;I;2;1.0;2.0;Carrier
-2.0;J;0;1.0;2.0;Carrier
-2.0;K;0;1.0;2.0;Carrier
-2.0;L;0;1.0;2.0;Carrier
-2.0;M;1;1.0;2.0;Carrier
-2.0;A;0;2.0;2.0;Carrier
-2.0;B;0;2.0;2.0;Carrier
-2.0;C;0;2.0;2.0;Carrier
-2.0;D;0;2.0;2.0;Carrier
-2.0;E;3;2.0;2.0;Carrier
-2.0;F;0;2.0;2.0;Carrier
-2.0;G;0;2.0;2.0;Carrier
-2.0;I;2;2.0;2.0;Carrier
-2.0;J;0;2.0;2.0;Carrier
-2.0;K;0;2.0;2.0;Carrier
-2.0;L;0;2.0;2.0;Carrier
-2.0;M;0;2.0;2.0;Carrier
-1.0;A;0;1.0;2.0;Tanker
-1.0;B;0;1.0;2.0;Tanker
-1.0;C;0;1.0;2.0;Tanker
-1.0;D;0;1.0;2.0;Tanker
-1.0;E;0;1.0;2.0;Tanker
-1.0;F;0;1.0;2.0;Tanker
-1.0;G;0;1.0;2.0;Tanker
-1.0;I;0;1.0;2.0;Tanker
-1.0;J;0;1.0;2.0;Tanker
-1.0;K;0;1.0;2.0;Tanker
-1.0;L;0;1.0;2.0;Tanker
-1.0;M;0;1.0;2.0;Tanker
-1.0;A;0;2.0;2.0;Tanker
-1.0;B;0;2.0;2.0;Tanker
-1.0;C;0;2.0;2.0;Tanker
-1.0;D;0;2.0;2.0;Tanker
-1.0;E;0;2.0;2.0;Tanker
-1.0;F;0;2.0;2.0;Tanker
-1.0;G;0;2.0;2.0;Tanker
+1.0;A;0;1.0;1.0;Barge
+1.0;B;0;1.0;1.0;Barge
+1.0;C;0;1.0;1.0;Barge
+1.0;D;0;1.0;1.0;Barge
+1.0;E;0;1.0;1.0;Barge
+1.0;F;0;1.0;1.0;Barge
+1.0;G;0;1.0;1.0;Barge
+1.0;H;0;1.0;1.0;Barge
+1.0;I;0;1.0;1.0;Barge
+1.0;J;0;1.0;1.0;Barge
+1.0;K;0;1.0;1.0;Barge
+1.0;L;0;1.0;1.0;Barge
+1.0;M;0;1.0;1.0;Barge
+1.0;A;0;2.0;1.0;Barge
+1.0;B;0;2.0;1.0;Barge
+1.0;C;0;2.0;1.0;Barge
+1.0;D;0;2.0;1.0;Barge
+1.0;E;0;2.0;1.0;Barge
+1.0;F;0;2.0;1.0;Barge
+1.0;G;0;2.0;1.0;Barge
+1.0;H;0;2.0;1.0;Barge
+1.0;I;0;2.0;1.0;Barge
+1.0;J;0;2.0;1.0;Barge
+1.0;K;0;2.0;1.0;Barge
+1.0;L;0;2.0;1.0;Vehicle Carrier
+1.0;M;0;2.0;1.0;Vehicle Carrier
+2.0;A;0;1.0;1.0;Vehicle Carrier
+2.0;B;1;1.0;1.0;Vehicle Carrier
+2.0;C;0;1.0;1.0;Vehicle Carrier
+2.0;D;0;1.0;1.0;Vehicle Carrier
+2.0;E;1;1.0;1.0;Vehicle Carrier
+2.0;F;0;1.0;1.0;Vehicle Carrier
+2.0;G;0;1.0;1.0;Vehicle Carrier
+2.0;H;1;1.0;1.0;Vehicle Carrier
+2.0;I;3;1.0;1.0;Vehicle Carrier
+2.0;J;3;1.0;1.0;Vehicle Carrier
+2.0;K;3;1.0;1.0;Vehicle Carrier
+2.0;L;2;1.0;1.0;Vehicle Carrier
+2.0;M;0;1.0;1.0;Vehicle Carrier
+2.0;A;0;2.0;1.0;Vehicle Carrier
+2.0;B;0;2.0;1.0;Vehicle Carrier
+2.0;C;1;2.0;1.0;Vehicle Carrier
+2.0;D;0;2.0;1.0;Vehicle Carrier
+2.0;E;1;2.0;1.0;Vehicle Carrier
+2.0;F;0;2.0;1.0;Vehicle Carrier
+2.0;G;0;2.0;1.0;Vehicle Carrier
+2.0;H;1;2.0;1.0;Vehicle Carrier
+2.0;I;0;2.0;1.0;Vehicle Carrier
+2.0;J;0;2.0;1.0;Vehicle Carrier
+2.0;K;0;2.0;1.0;Vehicle Carrier
+2.0;L;0;2.0;1.0;Vehicle Carrier
+2.0;M;0;2.0;1.0;Vehicle Carrier
+1.0;A;0;1.0;2.0;Vehicle Carrier
+1.0;B;0;1.0;2.0;Vehicle Carrier
+1.0;C;0;1.0;2.0;Vehicle Carrier
+1.0;D;0;1.0;2.0;Vehicle Carrier
+1.0;E;0;1.0;2.0;Vehicle Carrier
+1.0;F;0;1.0;2.0;Vehicle Carrier
+1.0;G;0;1.0;2.0;Vehicle Carrier
+1.0;H;0;1.0;2.0;Vehicle Carrier
+1.0;I;0;1.0;2.0;Vehicle Carrier
+1.0;J;0;1.0;2.0;Vehicle Carrier
+1.0;K;0;1.0;2.0;Vehicle Carrier
+1.0;L;0;1.0;2.0;Vehicle Carrier
+1.0;M;0;1.0;2.0;Vehicle Carrier
+1.0;A;0;2.0;2.0;Vehicle Carrier
+1.0;B;0;2.0;2.0;Vehicle Carrier
+1.0;C;0;2.0;2.0;Vehicle Carrier
+1.0;D;0;2.0;2.0;Vehicle Carrier
+1.0;E;0;2.0;2.0;Vehicle Carrier
+1.0;F;0;2.0;2.0;Vehicle Carrier
+1.0;G;0;2.0;2.0;Vehicle Carrier
+1.0;H;0;2.0;2.0;Tanker
 1.0;I;0;2.0;2.0;Tanker
 1.0;J;0;2.0;2.0;Tanker
 1.0;K;0;2.0;2.0;Tanker
@@ -462,7 +396,8 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;2.0;Tanker
 2.0;F;0;1.0;2.0;Tanker
 2.0;G;0;1.0;2.0;Tanker
-2.0;I;2;1.0;2.0;Tanker
+2.0;H;1;1.0;2.0;Tanker
+2.0;I;1;1.0;2.0;Tanker
 2.0;J;0;1.0;2.0;Tanker
 2.0;K;1;1.0;2.0;Tanker
 2.0;L;1;1.0;2.0;Tanker
@@ -474,22 +409,76 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;2.0;Tanker
 2.0;F;0;2.0;2.0;Tanker
 2.0;G;0;2.0;2.0;Tanker
+2.0;H;0;2.0;2.0;Tanker
 2.0;I;0;2.0;2.0;Tanker
 2.0;J;2;2.0;2.0;Tanker
 2.0;K;0;2.0;2.0;Tanker
 2.0;L;1;2.0;2.0;Tanker
 2.0;M;0;2.0;2.0;Tanker
-1.0;A;0;1.0;2.0;Other
-1.0;B;0;1.0;2.0;Other
-1.0;C;0;1.0;2.0;Other
-1.0;D;0;1.0;2.0;Other
-1.0;E;0;1.0;2.0;Other
-1.0;F;0;1.0;2.0;Other
-1.0;G;0;1.0;2.0;Other
-1.0;I;0;1.0;2.0;Other
-1.0;J;0;1.0;2.0;Other
-1.0;K;0;1.0;2.0;Other
-1.0;L;0;1.0;2.0;Other
+1.0;A;0;1.0;2.0;Tanker
+1.0;B;0;1.0;2.0;Tanker
+1.0;C;0;1.0;2.0;Tanker
+1.0;D;0;1.0;2.0;Tanker
+1.0;E;0;1.0;2.0;Tanker
+1.0;F;0;1.0;2.0;Tanker
+1.0;G;0;1.0;2.0;Tanker
+1.0;H;0;1.0;2.0;Tanker
+1.0;I;0;1.0;2.0;Tanker
+1.0;J;0;1.0;2.0;Tanker
+1.0;K;0;1.0;2.0;Tanker
+1.0;L;0;1.0;2.0;Tanker
+1.0;M;0;1.0;2.0;Tanker
+1.0;A;0;2.0;2.0;Tanker
+1.0;B;0;2.0;2.0;Tanker
+1.0;C;0;2.0;2.0;Tanker
+1.0;D;0;2.0;2.0;Offshore Exploitation
+1.0;E;0;2.0;2.0;Offshore Exploitation
+1.0;F;0;2.0;2.0;Offshore Exploitation
+1.0;G;0;2.0;2.0;Offshore Exploitation
+1.0;H;0;2.0;2.0;Offshore Exploitation
+1.0;I;0;2.0;2.0;Offshore Exploitation
+1.0;J;0;2.0;2.0;Offshore Exploitation
+1.0;K;0;2.0;2.0;Offshore Exploitation
+1.0;L;0;2.0;2.0;Offshore Exploitation
+1.0;M;0;2.0;2.0;Offshore Exploitation
+2.0;A;0;1.0;2.0;Offshore Exploitation
+2.0;B;0;1.0;2.0;Offshore Exploitation
+2.0;C;0;1.0;2.0;Offshore Exploitation
+2.0;D;0;1.0;2.0;Offshore Exploitation
+2.0;E;0;1.0;2.0;Offshore Exploitation
+2.0;F;0;1.0;2.0;Offshore Exploitation
+2.0;G;0;1.0;2.0;Offshore Exploitation
+2.0;H;0;1.0;2.0;Offshore Exploitation
+2.0;I;0;1.0;2.0;Offshore Exploitation
+2.0;J;0;1.0;2.0;Offshore Exploitation
+2.0;K;0;1.0;2.0;Offshore Exploitation
+2.0;L;0;1.0;2.0;Offshore Exploitation
+2.0;M;0;1.0;2.0;Offshore Exploitation
+2.0;A;0;2.0;2.0;Offshore Exploitation
+2.0;B;0;2.0;2.0;Offshore Exploitation
+2.0;C;0;2.0;2.0;Offshore Exploitation
+2.0;D;0;2.0;2.0;Offshore Exploitation
+2.0;E;0;2.0;2.0;Offshore Exploitation
+2.0;F;0;2.0;2.0;Offshore Exploitation
+2.0;G;0;2.0;2.0;Offshore Exploitation
+2.0;H;0;2.0;2.0;Offshore Exploitation
+2.0;I;0;2.0;2.0;Offshore Exploitation
+2.0;J;0;2.0;2.0;Offshore Exploitation
+2.0;K;0;2.0;2.0;Offshore Exploitation
+2.0;L;0;2.0;2.0;Offshore Exploitation
+2.0;M;0;2.0;2.0;Offshore Exploitation
+1.0;A;0;1.0;2.0;Offshore Exploitation
+1.0;B;0;1.0;2.0;Offshore Exploitation
+1.0;C;0;1.0;2.0;Offshore Exploitation
+1.0;D;0;1.0;2.0;Offshore Exploitation
+1.0;E;0;1.0;2.0;Offshore Exploitation
+1.0;F;0;1.0;2.0;Offshore Exploitation
+1.0;G;0;1.0;2.0;Offshore Exploitation
+1.0;H;0;1.0;2.0;Offshore Exploitation
+1.0;I;0;1.0;2.0;Offshore Exploitation
+1.0;J;0;1.0;2.0;Offshore Exploitation
+1.0;K;0;1.0;2.0;Offshore Exploitation
+1.0;L;0;1.0;2.0;Offshore Exploitation
 1.0;M;0;1.0;2.0;Other
 1.0;A;0;2.0;2.0;Other
 1.0;B;0;2.0;2.0;Other
@@ -498,6 +487,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;2.0;Other
 1.0;F;0;2.0;2.0;Other
 1.0;G;0;2.0;2.0;Other
+1.0;H;0;2.0;2.0;Other
 1.0;I;0;2.0;2.0;Other
 1.0;J;0;2.0;2.0;Other
 1.0;K;0;2.0;2.0;Other
@@ -510,6 +500,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;2.0;Other
 2.0;F;0;1.0;2.0;Other
 2.0;G;0;1.0;2.0;Other
+2.0;H;0;1.0;2.0;Other
 2.0;I;0;1.0;2.0;Other
 2.0;J;0;1.0;2.0;Other
 2.0;K;0;1.0;2.0;Other
@@ -522,162 +513,20 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;2.0;Other
 2.0;F;0;2.0;2.0;Other
 2.0;G;0;2.0;2.0;Other
+2.0;H;0;2.0;2.0;Other
 2.0;I;0;2.0;2.0;Other
 2.0;J;0;2.0;2.0;Other
 2.0;K;0;2.0;2.0;Other
 2.0;L;1;2.0;2.0;Other
 2.0;M;0;2.0;2.0;Other
-1.0;A;0;1.0;2.0;Cargo
-1.0;B;0;1.0;2.0;Cargo
-1.0;C;0;1.0;2.0;Cargo
-1.0;D;0;1.0;2.0;Cargo
-1.0;E;0;1.0;2.0;Cargo
-1.0;F;0;1.0;2.0;Cargo
-1.0;G;0;1.0;2.0;Cargo
-1.0;I;0;1.0;2.0;Cargo
-1.0;J;0;1.0;2.0;Cargo
-1.0;K;0;1.0;2.0;Cargo
-1.0;L;0;1.0;2.0;Cargo
-1.0;M;0;1.0;2.0;Cargo
-1.0;A;0;2.0;2.0;Cargo
-1.0;B;0;2.0;2.0;Cargo
-1.0;C;0;2.0;2.0;Cargo
-1.0;D;0;2.0;2.0;Cargo
-1.0;E;0;2.0;2.0;Cargo
-1.0;F;0;2.0;2.0;Cargo
-1.0;G;0;2.0;2.0;Cargo
-1.0;I;0;2.0;2.0;Cargo
-1.0;J;0;2.0;2.0;Cargo
-1.0;K;0;2.0;2.0;Cargo
-1.0;L;0;2.0;2.0;Cargo
-1.0;M;0;2.0;2.0;Cargo
-2.0;A;0;1.0;2.0;Cargo
-2.0;B;0;1.0;2.0;Cargo
-2.0;C;0;1.0;2.0;Cargo
-2.0;D;1;1.0;2.0;Cargo
-2.0;E;1;1.0;2.0;Cargo
-2.0;F;0;1.0;2.0;Cargo
-2.0;G;0;1.0;2.0;Cargo
-2.0;I;1;1.0;2.0;Cargo
-2.0;J;0;1.0;2.0;Cargo
-2.0;K;0;1.0;2.0;Cargo
-2.0;L;0;1.0;2.0;Cargo
-2.0;M;0;1.0;2.0;Cargo
-2.0;A;0;2.0;2.0;Cargo
-2.0;B;0;2.0;2.0;Cargo
-2.0;C;0;2.0;2.0;Cargo
-2.0;D;0;2.0;2.0;Cargo
-2.0;E;0;2.0;2.0;Cargo
-2.0;F;0;2.0;2.0;Cargo
-2.0;G;0;2.0;2.0;Cargo
-2.0;I;0;2.0;2.0;Cargo
-2.0;J;0;2.0;2.0;Cargo
-2.0;K;0;2.0;2.0;Cargo
-2.0;L;1;2.0;2.0;Cargo
-2.0;M;0;2.0;2.0;Cargo
-1.0;A;0;1.0;2.0;Ro-Ro
-1.0;B;0;1.0;2.0;Ro-Ro
-1.0;C;0;1.0;2.0;Ro-Ro
-1.0;D;0;1.0;2.0;Ro-Ro
-1.0;E;0;1.0;2.0;Ro-Ro
-1.0;F;0;1.0;2.0;Ro-Ro
-1.0;G;0;1.0;2.0;Ro-Ro
-1.0;I;0;1.0;2.0;Ro-Ro
-1.0;J;0;1.0;2.0;Ro-Ro
-1.0;K;0;1.0;2.0;Ro-Ro
-1.0;L;0;1.0;2.0;Ro-Ro
-1.0;M;0;1.0;2.0;Ro-Ro
-1.0;A;0;2.0;2.0;Ro-Ro
-1.0;B;0;2.0;2.0;Ro-Ro
-1.0;C;0;2.0;2.0;Ro-Ro
-1.0;D;0;2.0;2.0;Ro-Ro
-1.0;E;0;2.0;2.0;Ro-Ro
-1.0;F;0;2.0;2.0;Ro-Ro
-1.0;G;0;2.0;2.0;Ro-Ro
-1.0;I;0;2.0;2.0;Ro-Ro
-1.0;J;0;2.0;2.0;Ro-Ro
-1.0;K;0;2.0;2.0;Ro-Ro
-1.0;L;0;2.0;2.0;Ro-Ro
-1.0;M;0;2.0;2.0;Ro-Ro
-2.0;A;0;1.0;2.0;Ro-Ro
-2.0;B;0;1.0;2.0;Ro-Ro
-2.0;C;0;1.0;2.0;Ro-Ro
-2.0;D;0;1.0;2.0;Ro-Ro
-2.0;E;0;1.0;2.0;Ro-Ro
-2.0;F;0;1.0;2.0;Ro-Ro
-2.0;G;0;1.0;2.0;Ro-Ro
-2.0;I;0;1.0;2.0;Ro-Ro
-2.0;J;0;1.0;2.0;Ro-Ro
-2.0;K;0;1.0;2.0;Ro-Ro
-2.0;L;0;1.0;2.0;Ro-Ro
-2.0;M;0;1.0;2.0;Ro-Ro
-2.0;A;0;2.0;2.0;Ro-Ro
-2.0;B;0;2.0;2.0;Ro-Ro
-2.0;C;0;2.0;2.0;Ro-Ro
-2.0;D;0;2.0;2.0;Ro-Ro
-2.0;E;0;2.0;2.0;Ro-Ro
-2.0;F;0;2.0;2.0;Ro-Ro
-2.0;G;0;2.0;2.0;Ro-Ro
-2.0;I;0;2.0;2.0;Ro-Ro
-2.0;J;0;2.0;2.0;Ro-Ro
-2.0;K;0;2.0;2.0;Ro-Ro
-2.0;L;0;2.0;2.0;Ro-Ro
-2.0;M;0;2.0;2.0;Ro-Ro
-1.0;A;0;1.0;2.0;Vessel
-1.0;B;0;1.0;2.0;Vessel
-1.0;C;0;1.0;2.0;Vessel
-1.0;D;0;1.0;2.0;Vessel
-1.0;E;0;1.0;2.0;Vessel
-1.0;F;0;1.0;2.0;Vessel
-1.0;G;0;1.0;2.0;Vessel
-1.0;I;0;1.0;2.0;Vessel
-1.0;J;0;1.0;2.0;Vessel
-1.0;K;0;1.0;2.0;Vessel
-1.0;L;0;1.0;2.0;Vessel
-1.0;M;0;1.0;2.0;Vessel
-1.0;A;0;2.0;2.0;Vessel
-1.0;B;0;2.0;2.0;Vessel
-1.0;C;0;2.0;2.0;Vessel
-1.0;D;0;2.0;2.0;Vessel
-1.0;E;0;2.0;2.0;Vessel
-1.0;F;0;2.0;2.0;Vessel
-1.0;G;0;2.0;2.0;Vessel
-1.0;I;0;2.0;2.0;Vessel
-1.0;J;0;2.0;2.0;Vessel
-1.0;K;0;2.0;2.0;Vessel
-1.0;L;0;2.0;2.0;Vessel
-1.0;M;0;2.0;2.0;Vessel
-2.0;A;0;1.0;2.0;Vessel
-2.0;B;0;1.0;2.0;Vessel
-2.0;C;0;1.0;2.0;Vessel
-2.0;D;0;1.0;2.0;Vessel
-2.0;E;0;1.0;2.0;Vessel
-2.0;F;0;1.0;2.0;Vessel
-2.0;G;0;1.0;2.0;Vessel
-2.0;I;0;1.0;2.0;Vessel
-2.0;J;0;1.0;2.0;Vessel
-2.0;K;0;1.0;2.0;Vessel
-2.0;L;0;1.0;2.0;Vessel
-2.0;M;1;1.0;2.0;Vessel
-2.0;A;0;2.0;2.0;Vessel
-2.0;B;0;2.0;2.0;Vessel
-2.0;C;0;2.0;2.0;Vessel
-2.0;D;0;2.0;2.0;Vessel
-2.0;E;0;2.0;2.0;Vessel
-2.0;F;0;2.0;2.0;Vessel
-2.0;G;0;2.0;2.0;Vessel
-2.0;I;0;2.0;2.0;Vessel
-2.0;J;0;2.0;2.0;Vessel
-2.0;K;0;2.0;2.0;Vessel
-2.0;L;0;2.0;2.0;Vessel
-2.0;M;0;2.0;2.0;Vessel
-1.0;A;0;1.0;2.0;Tug
-1.0;B;0;1.0;2.0;Tug
-1.0;C;0;1.0;2.0;Tug
-1.0;D;0;1.0;2.0;Tug
-1.0;E;0;1.0;2.0;Tug
-1.0;F;0;1.0;2.0;Tug
-1.0;G;0;1.0;2.0;Tug
+1.0;A;0;1.0;2.0;Other
+1.0;B;0;1.0;2.0;Other
+1.0;C;0;1.0;2.0;Other
+1.0;D;0;1.0;2.0;Other
+1.0;E;0;1.0;2.0;Other
+1.0;F;0;1.0;2.0;Other
+1.0;G;0;1.0;2.0;Other
+1.0;H;0;1.0;2.0;Other
 1.0;I;0;1.0;2.0;Tug
 1.0;J;0;1.0;2.0;Tug
 1.0;K;0;1.0;2.0;Tug
@@ -690,6 +539,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;2.0;Tug
 1.0;F;0;2.0;2.0;Tug
 1.0;G;0;2.0;2.0;Tug
+1.0;H;0;2.0;2.0;Tug
 1.0;I;0;2.0;2.0;Tug
 1.0;J;0;2.0;2.0;Tug
 1.0;K;0;2.0;2.0;Tug
@@ -702,6 +552,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;2.0;Tug
 2.0;F;0;1.0;2.0;Tug
 2.0;G;0;1.0;2.0;Tug
+2.0;H;0;1.0;2.0;Tug
 2.0;I;0;1.0;2.0;Tug
 2.0;J;0;1.0;2.0;Tug
 2.0;K;1;1.0;2.0;Tug
@@ -714,11 +565,64 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;2.0;Tug
 2.0;F;0;2.0;2.0;Tug
 2.0;G;0;2.0;2.0;Tug
+2.0;H;0;2.0;2.0;Tug
 2.0;I;0;2.0;2.0;Tug
 2.0;J;0;2.0;2.0;Tug
 2.0;K;0;2.0;2.0;Tug
 2.0;L;0;2.0;2.0;Tug
 2.0;M;0;2.0;2.0;Tug
+1.0;A;0;1.0;2.0;Tug
+1.0;B;0;1.0;2.0;Tug
+1.0;C;0;1.0;2.0;Tug
+1.0;D;0;1.0;2.0;Tug
+1.0;E;0;1.0;2.0;Vessel
+1.0;F;0;1.0;2.0;Vessel
+1.0;G;0;1.0;2.0;Vessel
+1.0;H;0;1.0;2.0;Vessel
+1.0;I;0;1.0;2.0;Vessel
+1.0;J;0;1.0;2.0;Vessel
+1.0;K;0;1.0;2.0;Vessel
+1.0;L;0;1.0;2.0;Vessel
+1.0;M;0;1.0;2.0;Vessel
+1.0;A;0;2.0;2.0;Vessel
+1.0;B;0;2.0;2.0;Vessel
+1.0;C;0;2.0;2.0;Vessel
+1.0;D;0;2.0;2.0;Vessel
+1.0;E;0;2.0;2.0;Vessel
+1.0;F;0;2.0;2.0;Vessel
+1.0;G;0;2.0;2.0;Vessel
+1.0;H;0;2.0;2.0;Vessel
+1.0;I;0;2.0;2.0;Vessel
+1.0;J;0;2.0;2.0;Vessel
+1.0;K;0;2.0;2.0;Vessel
+1.0;L;0;2.0;2.0;Vessel
+1.0;M;0;2.0;2.0;Vessel
+2.0;A;0;1.0;2.0;Vessel
+2.0;B;0;1.0;2.0;Vessel
+2.0;C;0;1.0;2.0;Vessel
+2.0;D;0;1.0;2.0;Vessel
+2.0;E;0;1.0;2.0;Vessel
+2.0;F;0;1.0;2.0;Vessel
+2.0;G;0;1.0;2.0;Vessel
+2.0;H;0;1.0;2.0;Vessel
+2.0;I;0;1.0;2.0;Vessel
+2.0;J;0;1.0;2.0;Vessel
+2.0;K;0;1.0;2.0;Vessel
+2.0;L;0;1.0;2.0;Vessel
+2.0;M;1;1.0;2.0;Vessel
+2.0;A;0;2.0;2.0;Vessel
+2.0;B;0;2.0;2.0;Vessel
+2.0;C;0;2.0;2.0;Vessel
+2.0;D;0;2.0;2.0;Vessel
+2.0;E;0;2.0;2.0;Vessel
+2.0;F;0;2.0;2.0;Vessel
+2.0;G;0;2.0;2.0;Vessel
+2.0;H;0;2.0;2.0;Vessel
+2.0;I;0;2.0;2.0;Vessel
+2.0;J;0;2.0;2.0;Vessel
+2.0;K;0;2.0;2.0;Vessel
+2.0;L;0;2.0;2.0;Vessel
+2.0;M;0;2.0;2.0;Vessel
 1.0;A;0;1.0;2.0;Barge
 1.0;B;0;1.0;2.0;Barge
 1.0;C;0;1.0;2.0;Barge
@@ -726,6 +630,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;2.0;Barge
 1.0;F;0;1.0;2.0;Barge
 1.0;G;0;1.0;2.0;Barge
+1.0;H;0;1.0;2.0;Barge
 1.0;I;0;1.0;2.0;Barge
 1.0;J;0;1.0;2.0;Barge
 1.0;K;0;1.0;2.0;Barge
@@ -738,6 +643,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;2.0;Barge
 1.0;F;0;2.0;2.0;Barge
 1.0;G;0;2.0;2.0;Barge
+1.0;H;0;2.0;2.0;Barge
 1.0;I;0;2.0;2.0;Barge
 1.0;J;0;2.0;2.0;Barge
 1.0;K;0;2.0;2.0;Barge
@@ -750,6 +656,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;2.0;Barge
 2.0;F;0;1.0;2.0;Barge
 2.0;G;0;1.0;2.0;Barge
+2.0;H;0;1.0;2.0;Barge
 2.0;I;0;1.0;2.0;Barge
 2.0;J;0;1.0;2.0;Barge
 2.0;K;0;1.0;2.0;Barge
@@ -762,59 +669,64 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;2.0;Barge
 2.0;F;0;2.0;2.0;Barge
 2.0;G;0;2.0;2.0;Barge
+2.0;H;0;2.0;2.0;Barge
 2.0;I;0;2.0;2.0;Barge
-2.0;J;0;2.0;2.0;Barge
-2.0;K;0;2.0;2.0;Barge
-2.0;L;0;2.0;2.0;Barge
-2.0;M;0;2.0;2.0;Barge
-1.0;A;0;1.0;3.0;Carrier
-1.0;B;0;1.0;3.0;Carrier
-1.0;C;0;1.0;3.0;Carrier
-1.0;D;0;1.0;3.0;Carrier
-1.0;E;0;1.0;3.0;Carrier
-1.0;F;0;1.0;3.0;Carrier
-1.0;G;0;1.0;3.0;Carrier
-1.0;I;0;1.0;3.0;Carrier
-1.0;J;0;1.0;3.0;Carrier
-1.0;K;0;1.0;3.0;Carrier
-1.0;L;0;1.0;3.0;Carrier
-1.0;M;0;1.0;3.0;Carrier
-1.0;A;0;2.0;3.0;Carrier
-1.0;B;0;2.0;3.0;Carrier
-1.0;C;0;2.0;3.0;Carrier
-1.0;D;0;2.0;3.0;Carrier
-1.0;E;0;2.0;3.0;Carrier
-1.0;F;0;2.0;3.0;Carrier
-1.0;G;0;2.0;3.0;Carrier
-1.0;I;0;2.0;3.0;Carrier
-1.0;J;0;2.0;3.0;Carrier
-1.0;K;0;2.0;3.0;Carrier
-1.0;L;0;2.0;3.0;Carrier
-1.0;M;0;2.0;3.0;Carrier
-2.0;A;0;1.0;3.0;Carrier
-2.0;B;0;1.0;3.0;Carrier
-2.0;C;1;1.0;3.0;Carrier
-2.0;D;0;1.0;3.0;Carrier
-2.0;E;1;1.0;3.0;Carrier
-2.0;F;0;1.0;3.0;Carrier
-2.0;G;0;1.0;3.0;Carrier
-2.0;I;1;1.0;3.0;Carrier
-2.0;J;1;1.0;3.0;Carrier
-2.0;K;0;1.0;3.0;Carrier
-2.0;L;0;1.0;3.0;Carrier
-2.0;M;0;1.0;3.0;Carrier
-2.0;A;0;2.0;3.0;Carrier
-2.0;B;0;2.0;3.0;Carrier
-2.0;C;1;2.0;3.0;Carrier
-2.0;D;1;2.0;3.0;Carrier
-2.0;E;0;2.0;3.0;Carrier
-2.0;F;0;2.0;3.0;Carrier
-2.0;G;0;2.0;3.0;Carrier
-2.0;I;2;2.0;3.0;Carrier
-2.0;J;0;2.0;3.0;Carrier
-2.0;K;0;2.0;3.0;Carrier
-2.0;L;0;2.0;3.0;Carrier
-2.0;M;0;2.0;3.0;Carrier
+2.0;J;0;2.0;2.0;Vehicle Carrier
+2.0;K;0;2.0;2.0;Vehicle Carrier
+2.0;L;1;2.0;2.0;Vehicle Carrier
+2.0;M;0;2.0;2.0;Vehicle Carrier
+1.0;A;0;1.0;2.0;Vehicle Carrier
+1.0;B;0;1.0;2.0;Vehicle Carrier
+1.0;C;0;1.0;2.0;Vehicle Carrier
+1.0;D;0;1.0;2.0;Vehicle Carrier
+1.0;E;0;1.0;2.0;Vehicle Carrier
+1.0;F;0;1.0;2.0;Vehicle Carrier
+1.0;G;0;1.0;2.0;Vehicle Carrier
+1.0;H;0;1.0;2.0;Vehicle Carrier
+1.0;I;0;1.0;2.0;Vehicle Carrier
+1.0;J;0;1.0;2.0;Vehicle Carrier
+1.0;K;0;1.0;2.0;Vehicle Carrier
+1.0;L;0;1.0;2.0;Vehicle Carrier
+1.0;M;0;1.0;2.0;Vehicle Carrier
+1.0;A;0;2.0;2.0;Vehicle Carrier
+1.0;B;0;2.0;2.0;Vehicle Carrier
+1.0;C;0;2.0;2.0;Vehicle Carrier
+1.0;D;0;2.0;2.0;Vehicle Carrier
+1.0;E;0;2.0;2.0;Vehicle Carrier
+1.0;F;0;2.0;2.0;Vehicle Carrier
+1.0;G;0;2.0;2.0;Vehicle Carrier
+1.0;H;0;2.0;2.0;Vehicle Carrier
+1.0;I;0;2.0;2.0;Vehicle Carrier
+1.0;J;0;2.0;2.0;Vehicle Carrier
+1.0;K;0;2.0;2.0;Vehicle Carrier
+1.0;L;0;2.0;2.0;Vehicle Carrier
+1.0;M;0;2.0;2.0;Vehicle Carrier
+2.0;A;0;1.0;2.0;Vehicle Carrier
+2.0;B;0;1.0;2.0;Vehicle Carrier
+2.0;C;1;1.0;2.0;Vehicle Carrier
+2.0;D;1;1.0;2.0;Vehicle Carrier
+2.0;E;1;1.0;2.0;Vehicle Carrier
+2.0;F;0;1.0;2.0;Vehicle Carrier
+2.0;G;0;1.0;2.0;Vehicle Carrier
+2.0;H;1;1.0;2.0;Vehicle Carrier
+2.0;I;2;1.0;2.0;Vehicle Carrier
+2.0;J;0;1.0;2.0;Vehicle Carrier
+2.0;K;0;1.0;2.0;Vehicle Carrier
+2.0;L;0;1.0;2.0;Vehicle Carrier
+2.0;M;1;1.0;2.0;Vehicle Carrier
+2.0;A;0;2.0;2.0;Vehicle Carrier
+2.0;B;0;2.0;2.0;Vehicle Carrier
+2.0;C;0;2.0;2.0;Vehicle Carrier
+2.0;D;0;2.0;2.0;Vehicle Carrier
+2.0;E;3;2.0;2.0;Vehicle Carrier
+2.0;F;0;2.0;2.0;Tanker
+2.0;G;0;2.0;2.0;Tanker
+2.0;H;0;2.0;2.0;Tanker
+2.0;I;0;2.0;2.0;Tanker
+2.0;J;2;2.0;2.0;Tanker
+2.0;K;0;2.0;2.0;Tanker
+2.0;L;1;2.0;2.0;Tanker
+2.0;M;0;2.0;2.0;Tanker
 1.0;A;0;1.0;3.0;Tanker
 1.0;B;0;1.0;3.0;Tanker
 1.0;C;0;1.0;3.0;Tanker
@@ -822,6 +734,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;3.0;Tanker
 1.0;F;0;1.0;3.0;Tanker
 1.0;G;0;1.0;3.0;Tanker
+1.0;H;0;1.0;3.0;Tanker
 1.0;I;0;1.0;3.0;Tanker
 1.0;J;0;1.0;3.0;Tanker
 1.0;K;0;1.0;3.0;Tanker
@@ -834,6 +747,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;3.0;Tanker
 1.0;F;0;2.0;3.0;Tanker
 1.0;G;0;2.0;3.0;Tanker
+1.0;H;0;2.0;3.0;Tanker
 1.0;I;0;2.0;3.0;Tanker
 1.0;J;0;2.0;3.0;Tanker
 1.0;K;0;2.0;3.0;Tanker
@@ -846,23 +760,77 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;3.0;Tanker
 2.0;F;2;1.0;3.0;Tanker
 2.0;G;0;1.0;3.0;Tanker
+2.0;H;0;1.0;3.0;Tanker
 2.0;I;0;1.0;3.0;Tanker
 2.0;J;1;1.0;3.0;Tanker
 2.0;K;1;1.0;3.0;Tanker
 2.0;L;1;1.0;3.0;Tanker
 2.0;M;0;1.0;3.0;Tanker
 2.0;A;0;2.0;3.0;Tanker
-2.0;B;0;2.0;3.0;Tanker
-2.0;C;2;2.0;3.0;Tanker
-2.0;D;1;2.0;3.0;Tanker
-2.0;E;0;2.0;3.0;Tanker
-2.0;F;2;2.0;3.0;Tanker
-2.0;G;0;2.0;3.0;Tanker
-2.0;I;5;2.0;3.0;Tanker
-2.0;J;1;2.0;3.0;Tanker
-2.0;K;0;2.0;3.0;Tanker
-2.0;L;2;2.0;3.0;Tanker
-2.0;M;0;2.0;3.0;Tanker
+2.0;B;0;2.0;3.0;Offshore Exploitation
+2.0;C;0;2.0;3.0;Offshore Exploitation
+2.0;D;0;2.0;3.0;Offshore Exploitation
+2.0;E;0;2.0;3.0;Offshore Exploitation
+2.0;F;0;2.0;3.0;Offshore Exploitation
+2.0;G;0;2.0;3.0;Offshore Exploitation
+2.0;H;0;2.0;3.0;Offshore Exploitation
+2.0;I;0;2.0;3.0;Offshore Exploitation
+2.0;J;0;2.0;3.0;Offshore Exploitation
+2.0;K;0;2.0;3.0;Offshore Exploitation
+2.0;L;0;2.0;3.0;Offshore Exploitation
+2.0;M;0;2.0;3.0;Offshore Exploitation
+1.0;A;0;1.0;3.0;Offshore Exploitation
+1.0;B;0;1.0;3.0;Offshore Exploitation
+1.0;C;0;1.0;3.0;Offshore Exploitation
+1.0;D;0;1.0;3.0;Offshore Exploitation
+1.0;E;0;1.0;3.0;Offshore Exploitation
+1.0;F;0;1.0;3.0;Offshore Exploitation
+1.0;G;0;1.0;3.0;Offshore Exploitation
+1.0;H;0;1.0;3.0;Offshore Exploitation
+1.0;I;0;1.0;3.0;Offshore Exploitation
+1.0;J;0;1.0;3.0;Offshore Exploitation
+1.0;K;0;1.0;3.0;Offshore Exploitation
+1.0;L;0;1.0;3.0;Offshore Exploitation
+1.0;M;0;1.0;3.0;Offshore Exploitation
+1.0;A;0;2.0;3.0;Offshore Exploitation
+1.0;B;0;2.0;3.0;Offshore Exploitation
+1.0;C;0;2.0;3.0;Offshore Exploitation
+1.0;D;0;2.0;3.0;Offshore Exploitation
+1.0;E;0;2.0;3.0;Offshore Exploitation
+1.0;F;0;2.0;3.0;Offshore Exploitation
+1.0;G;0;2.0;3.0;Offshore Exploitation
+1.0;H;0;2.0;3.0;Offshore Exploitation
+1.0;I;0;2.0;3.0;Offshore Exploitation
+1.0;J;0;2.0;3.0;Offshore Exploitation
+1.0;K;0;2.0;3.0;Offshore Exploitation
+1.0;L;0;2.0;3.0;Offshore Exploitation
+1.0;M;0;2.0;3.0;Offshore Exploitation
+2.0;A;0;1.0;3.0;Offshore Exploitation
+2.0;B;0;1.0;3.0;Offshore Exploitation
+2.0;C;0;1.0;3.0;Offshore Exploitation
+2.0;D;0;1.0;3.0;Offshore Exploitation
+2.0;E;0;1.0;3.0;Offshore Exploitation
+2.0;F;0;1.0;3.0;Offshore Exploitation
+2.0;G;0;1.0;3.0;Offshore Exploitation
+2.0;H;0;1.0;3.0;Offshore Exploitation
+2.0;I;0;1.0;3.0;Offshore Exploitation
+2.0;J;0;1.0;3.0;Offshore Exploitation
+2.0;K;0;1.0;3.0;Other
+2.0;L;0;1.0;3.0;Other
+2.0;M;0;1.0;3.0;Other
+2.0;A;0;2.0;3.0;Other
+2.0;B;0;2.0;3.0;Other
+2.0;C;0;2.0;3.0;Other
+2.0;D;0;2.0;3.0;Other
+2.0;E;0;2.0;3.0;Other
+2.0;F;0;2.0;3.0;Other
+2.0;G;0;2.0;3.0;Other
+2.0;H;0;2.0;3.0;Other
+2.0;I;0;2.0;3.0;Other
+2.0;J;0;2.0;3.0;Other
+2.0;K;0;2.0;3.0;Other
+2.0;L;0;2.0;3.0;Other
+2.0;M;0;2.0;3.0;Other
 1.0;A;0;1.0;3.0;Other
 1.0;B;0;1.0;3.0;Other
 1.0;C;0;1.0;3.0;Other
@@ -870,6 +838,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;3.0;Other
 1.0;F;0;1.0;3.0;Other
 1.0;G;0;1.0;3.0;Other
+1.0;H;0;1.0;3.0;Other
 1.0;I;0;1.0;3.0;Other
 1.0;J;0;1.0;3.0;Other
 1.0;K;0;1.0;3.0;Other
@@ -882,6 +851,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;3.0;Other
 1.0;F;0;2.0;3.0;Other
 1.0;G;0;2.0;3.0;Other
+1.0;H;0;2.0;3.0;Other
 1.0;I;0;2.0;3.0;Other
 1.0;J;0;2.0;3.0;Other
 1.0;K;0;2.0;3.0;Other
@@ -893,199 +863,8 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;D;0;1.0;3.0;Other
 2.0;E;0;1.0;3.0;Other
 2.0;F;0;1.0;3.0;Other
-2.0;G;0;1.0;3.0;Other
-2.0;I;2;1.0;3.0;Other
-2.0;J;0;1.0;3.0;Other
-2.0;K;0;1.0;3.0;Other
-2.0;L;0;1.0;3.0;Other
-2.0;M;0;1.0;3.0;Other
-2.0;A;0;2.0;3.0;Other
-2.0;B;0;2.0;3.0;Other
-2.0;C;0;2.0;3.0;Other
-2.0;D;0;2.0;3.0;Other
-2.0;E;0;2.0;3.0;Other
-2.0;F;0;2.0;3.0;Other
-2.0;G;0;2.0;3.0;Other
-2.0;I;1;2.0;3.0;Other
-2.0;J;0;2.0;3.0;Other
-2.0;K;0;2.0;3.0;Other
-2.0;L;0;2.0;3.0;Other
-2.0;M;0;2.0;3.0;Other
-1.0;A;0;1.0;3.0;Cargo
-1.0;B;0;1.0;3.0;Cargo
-1.0;C;0;1.0;3.0;Cargo
-1.0;D;0;1.0;3.0;Cargo
-1.0;E;0;1.0;3.0;Cargo
-1.0;F;0;1.0;3.0;Cargo
-1.0;G;0;1.0;3.0;Cargo
-1.0;I;0;1.0;3.0;Cargo
-1.0;J;0;1.0;3.0;Cargo
-1.0;K;0;1.0;3.0;Cargo
-1.0;L;0;1.0;3.0;Cargo
-1.0;M;0;1.0;3.0;Cargo
-1.0;A;0;2.0;3.0;Cargo
-1.0;B;0;2.0;3.0;Cargo
-1.0;C;0;2.0;3.0;Cargo
-1.0;D;0;2.0;3.0;Cargo
-1.0;E;0;2.0;3.0;Cargo
-1.0;F;0;2.0;3.0;Cargo
-1.0;G;0;2.0;3.0;Cargo
-1.0;I;0;2.0;3.0;Cargo
-1.0;J;0;2.0;3.0;Cargo
-1.0;K;0;2.0;3.0;Cargo
-1.0;L;0;2.0;3.0;Cargo
-1.0;M;0;2.0;3.0;Cargo
-2.0;A;0;1.0;3.0;Cargo
-2.0;B;0;1.0;3.0;Cargo
-2.0;C;0;1.0;3.0;Cargo
-2.0;D;0;1.0;3.0;Cargo
-2.0;E;0;1.0;3.0;Cargo
-2.0;F;0;1.0;3.0;Cargo
-2.0;G;0;1.0;3.0;Cargo
-2.0;I;0;1.0;3.0;Cargo
-2.0;J;0;1.0;3.0;Cargo
-2.0;K;1;1.0;3.0;Cargo
-2.0;L;0;1.0;3.0;Cargo
-2.0;M;0;1.0;3.0;Cargo
-2.0;A;0;2.0;3.0;Cargo
-2.0;B;0;2.0;3.0;Cargo
-2.0;C;0;2.0;3.0;Cargo
-2.0;D;0;2.0;3.0;Cargo
-2.0;E;0;2.0;3.0;Cargo
-2.0;F;0;2.0;3.0;Cargo
-2.0;G;0;2.0;3.0;Cargo
-2.0;I;0;2.0;3.0;Cargo
-2.0;J;0;2.0;3.0;Cargo
-2.0;K;1;2.0;3.0;Cargo
-2.0;L;0;2.0;3.0;Cargo
-2.0;M;0;2.0;3.0;Cargo
-1.0;A;0;1.0;3.0;Ro-Ro
-1.0;B;0;1.0;3.0;Ro-Ro
-1.0;C;0;1.0;3.0;Ro-Ro
-1.0;D;0;1.0;3.0;Ro-Ro
-1.0;E;0;1.0;3.0;Ro-Ro
-1.0;F;0;1.0;3.0;Ro-Ro
-1.0;G;0;1.0;3.0;Ro-Ro
-1.0;I;0;1.0;3.0;Ro-Ro
-1.0;J;0;1.0;3.0;Ro-Ro
-1.0;K;0;1.0;3.0;Ro-Ro
-1.0;L;0;1.0;3.0;Ro-Ro
-1.0;M;0;1.0;3.0;Ro-Ro
-1.0;A;0;2.0;3.0;Ro-Ro
-1.0;B;0;2.0;3.0;Ro-Ro
-1.0;C;0;2.0;3.0;Ro-Ro
-1.0;D;0;2.0;3.0;Ro-Ro
-1.0;E;0;2.0;3.0;Ro-Ro
-1.0;F;0;2.0;3.0;Ro-Ro
-1.0;G;0;2.0;3.0;Ro-Ro
-1.0;I;0;2.0;3.0;Ro-Ro
-1.0;J;0;2.0;3.0;Ro-Ro
-1.0;K;0;2.0;3.0;Ro-Ro
-1.0;L;0;2.0;3.0;Ro-Ro
-1.0;M;0;2.0;3.0;Ro-Ro
-2.0;A;0;1.0;3.0;Ro-Ro
-2.0;B;0;1.0;3.0;Ro-Ro
-2.0;C;0;1.0;3.0;Ro-Ro
-2.0;D;0;1.0;3.0;Ro-Ro
-2.0;E;0;1.0;3.0;Ro-Ro
-2.0;F;0;1.0;3.0;Ro-Ro
-2.0;G;0;1.0;3.0;Ro-Ro
-2.0;I;0;1.0;3.0;Ro-Ro
-2.0;J;0;1.0;3.0;Ro-Ro
-2.0;K;0;1.0;3.0;Ro-Ro
-2.0;L;1;1.0;3.0;Ro-Ro
-2.0;M;0;1.0;3.0;Ro-Ro
-2.0;A;0;2.0;3.0;Ro-Ro
-2.0;B;0;2.0;3.0;Ro-Ro
-2.0;C;0;2.0;3.0;Ro-Ro
-2.0;D;0;2.0;3.0;Ro-Ro
-2.0;E;0;2.0;3.0;Ro-Ro
-2.0;F;0;2.0;3.0;Ro-Ro
-2.0;G;1;2.0;3.0;Ro-Ro
-2.0;I;0;2.0;3.0;Ro-Ro
-2.0;J;0;2.0;3.0;Ro-Ro
-2.0;K;0;2.0;3.0;Ro-Ro
-2.0;L;0;2.0;3.0;Ro-Ro
-2.0;M;0;2.0;3.0;Ro-Ro
-1.0;A;0;1.0;3.0;Vessel
-1.0;B;0;1.0;3.0;Vessel
-1.0;C;0;1.0;3.0;Vessel
-1.0;D;0;1.0;3.0;Vessel
-1.0;E;0;1.0;3.0;Vessel
-1.0;F;0;1.0;3.0;Vessel
-1.0;G;0;1.0;3.0;Vessel
-1.0;I;0;1.0;3.0;Vessel
-1.0;J;0;1.0;3.0;Vessel
-1.0;K;0;1.0;3.0;Vessel
-1.0;L;0;1.0;3.0;Vessel
-1.0;M;0;1.0;3.0;Vessel
-1.0;A;0;2.0;3.0;Vessel
-1.0;B;0;2.0;3.0;Vessel
-1.0;C;0;2.0;3.0;Vessel
-1.0;D;0;2.0;3.0;Vessel
-1.0;E;0;2.0;3.0;Vessel
-1.0;F;0;2.0;3.0;Vessel
-1.0;G;0;2.0;3.0;Vessel
-1.0;I;0;2.0;3.0;Vessel
-1.0;J;0;2.0;3.0;Vessel
-1.0;K;0;2.0;3.0;Vessel
-1.0;L;0;2.0;3.0;Vessel
-1.0;M;0;2.0;3.0;Vessel
-2.0;A;0;1.0;3.0;Vessel
-2.0;B;0;1.0;3.0;Vessel
-2.0;C;0;1.0;3.0;Vessel
-2.0;D;0;1.0;3.0;Vessel
-2.0;E;0;1.0;3.0;Vessel
-2.0;F;0;1.0;3.0;Vessel
-2.0;G;0;1.0;3.0;Vessel
-2.0;I;0;1.0;3.0;Vessel
-2.0;J;0;1.0;3.0;Vessel
-2.0;K;0;1.0;3.0;Vessel
-2.0;L;0;1.0;3.0;Vessel
-2.0;M;0;1.0;3.0;Vessel
-2.0;A;0;2.0;3.0;Vessel
-2.0;B;0;2.0;3.0;Vessel
-2.0;C;0;2.0;3.0;Vessel
-2.0;D;0;2.0;3.0;Vessel
-2.0;E;0;2.0;3.0;Vessel
-2.0;F;0;2.0;3.0;Vessel
-2.0;G;0;2.0;3.0;Vessel
-2.0;I;0;2.0;3.0;Vessel
-2.0;J;0;2.0;3.0;Vessel
-2.0;K;0;2.0;3.0;Vessel
-2.0;L;0;2.0;3.0;Vessel
-2.0;M;2;2.0;3.0;Vessel
-1.0;A;0;1.0;3.0;Tug
-1.0;B;0;1.0;3.0;Tug
-1.0;C;0;1.0;3.0;Tug
-1.0;D;0;1.0;3.0;Tug
-1.0;E;0;1.0;3.0;Tug
-1.0;F;0;1.0;3.0;Tug
-1.0;G;0;1.0;3.0;Tug
-1.0;I;0;1.0;3.0;Tug
-1.0;J;0;1.0;3.0;Tug
-1.0;K;0;1.0;3.0;Tug
-1.0;L;0;1.0;3.0;Tug
-1.0;M;0;1.0;3.0;Tug
-1.0;A;0;2.0;3.0;Tug
-1.0;B;0;2.0;3.0;Tug
-1.0;C;0;2.0;3.0;Tug
-1.0;D;0;2.0;3.0;Tug
-1.0;E;0;2.0;3.0;Tug
-1.0;F;0;2.0;3.0;Tug
-1.0;G;0;2.0;3.0;Tug
-1.0;I;0;2.0;3.0;Tug
-1.0;J;0;2.0;3.0;Tug
-1.0;K;0;2.0;3.0;Tug
-1.0;L;0;2.0;3.0;Tug
-1.0;M;0;2.0;3.0;Tug
-2.0;A;0;1.0;3.0;Tug
-2.0;B;0;1.0;3.0;Tug
-2.0;C;0;1.0;3.0;Tug
-2.0;D;0;1.0;3.0;Tug
-2.0;E;0;1.0;3.0;Tug
-2.0;F;0;1.0;3.0;Tug
 2.0;G;0;1.0;3.0;Tug
+2.0;H;0;1.0;3.0;Tug
 2.0;I;0;1.0;3.0;Tug
 2.0;J;0;1.0;3.0;Tug
 2.0;K;0;1.0;3.0;Tug
@@ -1098,33 +877,88 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;3.0;Tug
 2.0;F;0;2.0;3.0;Tug
 2.0;G;0;2.0;3.0;Tug
+2.0;H;0;2.0;3.0;Tug
 2.0;I;0;2.0;3.0;Tug
 2.0;J;0;2.0;3.0;Tug
 2.0;K;0;2.0;3.0;Tug
 2.0;L;0;2.0;3.0;Tug
 2.0;M;0;2.0;3.0;Tug
-1.0;A;0;1.0;3.0;Barge
-1.0;B;0;1.0;3.0;Barge
-1.0;C;0;1.0;3.0;Barge
-1.0;D;0;1.0;3.0;Barge
-1.0;E;0;1.0;3.0;Barge
-1.0;F;0;1.0;3.0;Barge
-1.0;G;0;1.0;3.0;Barge
-1.0;I;0;1.0;3.0;Barge
-1.0;J;0;1.0;3.0;Barge
-1.0;K;0;1.0;3.0;Barge
-1.0;L;0;1.0;3.0;Barge
-1.0;M;0;1.0;3.0;Barge
-1.0;A;0;2.0;3.0;Barge
-1.0;B;0;2.0;3.0;Barge
-1.0;C;0;2.0;3.0;Barge
-1.0;D;0;2.0;3.0;Barge
-1.0;E;0;2.0;3.0;Barge
-1.0;F;0;2.0;3.0;Barge
-1.0;G;0;2.0;3.0;Barge
-1.0;I;0;2.0;3.0;Barge
-1.0;J;0;2.0;3.0;Barge
-1.0;K;0;2.0;3.0;Barge
+1.0;A;0;1.0;3.0;Tug
+1.0;B;0;1.0;3.0;Tug
+1.0;C;0;1.0;3.0;Tug
+1.0;D;0;1.0;3.0;Tug
+1.0;E;0;1.0;3.0;Tug
+1.0;F;0;1.0;3.0;Tug
+1.0;G;0;1.0;3.0;Tug
+1.0;H;0;1.0;3.0;Tug
+1.0;I;0;1.0;3.0;Tug
+1.0;J;0;1.0;3.0;Tug
+1.0;K;0;1.0;3.0;Tug
+1.0;L;0;1.0;3.0;Tug
+1.0;M;0;1.0;3.0;Tug
+1.0;A;0;2.0;3.0;Tug
+1.0;B;0;2.0;3.0;Tug
+1.0;C;0;2.0;3.0;Tug
+1.0;D;0;2.0;3.0;Tug
+1.0;E;0;2.0;3.0;Tug
+1.0;F;0;2.0;3.0;Tug
+1.0;G;0;2.0;3.0;Tug
+1.0;H;0;2.0;3.0;Tug
+1.0;I;0;2.0;3.0;Tug
+1.0;J;0;2.0;3.0;Tug
+1.0;K;0;2.0;3.0;Tug
+1.0;L;0;2.0;3.0;Tug
+1.0;M;0;2.0;3.0;Tug
+2.0;A;0;1.0;3.0;Tug
+2.0;B;0;1.0;3.0;Tug
+2.0;C;0;1.0;3.0;Vessel
+2.0;D;0;1.0;3.0;Vessel
+2.0;E;0;1.0;3.0;Vessel
+2.0;F;0;1.0;3.0;Vessel
+2.0;G;0;1.0;3.0;Vessel
+2.0;H;0;1.0;3.0;Vessel
+2.0;I;0;1.0;3.0;Vessel
+2.0;J;0;1.0;3.0;Vessel
+2.0;K;0;1.0;3.0;Vessel
+2.0;L;0;1.0;3.0;Vessel
+2.0;M;0;1.0;3.0;Vessel
+2.0;A;0;2.0;3.0;Vessel
+2.0;B;0;2.0;3.0;Vessel
+2.0;C;0;2.0;3.0;Vessel
+2.0;D;0;2.0;3.0;Vessel
+2.0;E;0;2.0;3.0;Vessel
+2.0;F;0;2.0;3.0;Vessel
+2.0;G;0;2.0;3.0;Vessel
+2.0;H;0;2.0;3.0;Vessel
+2.0;I;0;2.0;3.0;Vessel
+2.0;J;0;2.0;3.0;Vessel
+2.0;K;0;2.0;3.0;Vessel
+2.0;L;0;2.0;3.0;Vessel
+2.0;M;2;2.0;3.0;Vessel
+1.0;A;0;1.0;3.0;Vessel
+1.0;B;0;1.0;3.0;Vessel
+1.0;C;0;1.0;3.0;Vessel
+1.0;D;0;1.0;3.0;Vessel
+1.0;E;0;1.0;3.0;Vessel
+1.0;F;0;1.0;3.0;Vessel
+1.0;G;0;1.0;3.0;Vessel
+1.0;H;0;1.0;3.0;Vessel
+1.0;I;0;1.0;3.0;Vessel
+1.0;J;0;1.0;3.0;Vessel
+1.0;K;0;1.0;3.0;Vessel
+1.0;L;0;1.0;3.0;Vessel
+1.0;M;0;1.0;3.0;Vessel
+1.0;A;0;2.0;3.0;Vessel
+1.0;B;0;2.0;3.0;Vessel
+1.0;C;0;2.0;3.0;Vessel
+1.0;D;0;2.0;3.0;Vessel
+1.0;E;0;2.0;3.0;Vessel
+1.0;F;0;2.0;3.0;Vessel
+1.0;G;0;2.0;3.0;Vessel
+1.0;H;0;2.0;3.0;Vessel
+1.0;I;0;2.0;3.0;Vessel
+1.0;J;0;2.0;3.0;Vessel
+1.0;K;0;2.0;3.0;Vessel
 1.0;L;0;2.0;3.0;Barge
 1.0;M;0;2.0;3.0;Barge
 2.0;A;0;1.0;3.0;Barge
@@ -1134,6 +968,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;3.0;Barge
 2.0;F;0;1.0;3.0;Barge
 2.0;G;0;1.0;3.0;Barge
+2.0;H;0;1.0;3.0;Barge
 2.0;I;0;1.0;3.0;Barge
 2.0;J;0;1.0;3.0;Barge
 2.0;K;0;1.0;3.0;Barge
@@ -1146,59 +981,116 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;3.0;Barge
 2.0;F;0;2.0;3.0;Barge
 2.0;G;0;2.0;3.0;Barge
+2.0;H;1;2.0;3.0;Barge
 2.0;I;0;2.0;3.0;Barge
 2.0;J;0;2.0;3.0;Barge
 2.0;K;0;2.0;3.0;Barge
 2.0;L;0;2.0;3.0;Barge
 2.0;M;0;2.0;3.0;Barge
-1.0;A;0;1.0;4.0;Carrier
-1.0;B;0;1.0;4.0;Carrier
-1.0;C;0;1.0;4.0;Carrier
-1.0;D;0;1.0;4.0;Carrier
-1.0;E;0;1.0;4.0;Carrier
-1.0;F;0;1.0;4.0;Carrier
-1.0;G;0;1.0;4.0;Carrier
-1.0;I;0;1.0;4.0;Carrier
-1.0;J;0;1.0;4.0;Carrier
-1.0;K;0;1.0;4.0;Carrier
-1.0;L;0;1.0;4.0;Carrier
-1.0;M;0;1.0;4.0;Carrier
-1.0;A;0;2.0;4.0;Carrier
-1.0;B;0;2.0;4.0;Carrier
-1.0;C;0;2.0;4.0;Carrier
-1.0;D;0;2.0;4.0;Carrier
-1.0;E;0;2.0;4.0;Carrier
-1.0;F;0;2.0;4.0;Carrier
-1.0;G;0;2.0;4.0;Carrier
-1.0;I;0;2.0;4.0;Carrier
-1.0;J;0;2.0;4.0;Carrier
-1.0;K;0;2.0;4.0;Carrier
-1.0;L;0;2.0;4.0;Carrier
-1.0;M;0;2.0;4.0;Carrier
-2.0;A;0;1.0;4.0;Carrier
-2.0;B;1;1.0;4.0;Carrier
-2.0;C;0;1.0;4.0;Carrier
-2.0;D;0;1.0;4.0;Carrier
-2.0;E;0;1.0;4.0;Carrier
-2.0;F;0;1.0;4.0;Carrier
-2.0;G;1;1.0;4.0;Carrier
-2.0;I;3;1.0;4.0;Carrier
-2.0;J;0;1.0;4.0;Carrier
-2.0;K;3;1.0;4.0;Carrier
-2.0;L;0;1.0;4.0;Carrier
-2.0;M;0;1.0;4.0;Carrier
-2.0;A;0;2.0;4.0;Carrier
-2.0;B;0;2.0;4.0;Carrier
-2.0;C;1;2.0;4.0;Carrier
-2.0;D;0;2.0;4.0;Carrier
-2.0;E;1;2.0;4.0;Carrier
-2.0;F;0;2.0;4.0;Carrier
-2.0;G;0;2.0;4.0;Carrier
-2.0;I;1;2.0;4.0;Carrier
-2.0;J;1;2.0;4.0;Carrier
-2.0;K;1;2.0;4.0;Carrier
-2.0;L;0;2.0;4.0;Carrier
-2.0;M;0;2.0;4.0;Carrier
+1.0;A;0;1.0;3.0;Barge
+1.0;B;0;1.0;3.0;Barge
+1.0;C;0;1.0;3.0;Barge
+1.0;D;0;1.0;3.0;Barge
+1.0;E;0;1.0;3.0;Barge
+1.0;F;0;1.0;3.0;Barge
+1.0;G;0;1.0;3.0;Barge
+1.0;H;0;1.0;3.0;Barge
+1.0;I;0;1.0;3.0;Barge
+1.0;J;0;1.0;3.0;Barge
+1.0;K;0;1.0;3.0;Barge
+1.0;L;0;1.0;3.0;Barge
+1.0;M;0;1.0;3.0;Barge
+1.0;A;0;2.0;3.0;Barge
+1.0;B;0;2.0;3.0;Barge
+1.0;C;0;2.0;3.0;Barge
+1.0;D;0;2.0;3.0;Barge
+1.0;E;0;2.0;3.0;Barge
+1.0;F;0;2.0;3.0;Barge
+1.0;G;0;2.0;3.0;Barge
+1.0;H;0;2.0;3.0;Vehicle Carrier
+1.0;I;0;2.0;3.0;Vehicle Carrier
+1.0;J;0;2.0;3.0;Vehicle Carrier
+1.0;K;0;2.0;3.0;Vehicle Carrier
+1.0;L;0;2.0;3.0;Vehicle Carrier
+1.0;M;0;2.0;3.0;Vehicle Carrier
+2.0;A;0;1.0;3.0;Vehicle Carrier
+2.0;B;0;1.0;3.0;Vehicle Carrier
+2.0;C;1;1.0;3.0;Vehicle Carrier
+2.0;D;0;1.0;3.0;Vehicle Carrier
+2.0;E;1;1.0;3.0;Vehicle Carrier
+2.0;F;0;1.0;3.0;Vehicle Carrier
+2.0;G;0;1.0;3.0;Vehicle Carrier
+2.0;H;0;1.0;3.0;Vehicle Carrier
+2.0;I;1;1.0;3.0;Vehicle Carrier
+2.0;J;1;1.0;3.0;Vehicle Carrier
+2.0;K;1;1.0;3.0;Vehicle Carrier
+2.0;L;1;1.0;3.0;Vehicle Carrier
+2.0;M;0;1.0;3.0;Vehicle Carrier
+2.0;A;0;2.0;3.0;Vehicle Carrier
+2.0;B;0;2.0;3.0;Vehicle Carrier
+2.0;C;1;2.0;3.0;Vehicle Carrier
+2.0;D;1;2.0;3.0;Vehicle Carrier
+2.0;E;0;2.0;3.0;Vehicle Carrier
+2.0;F;0;2.0;3.0;Vehicle Carrier
+2.0;G;1;2.0;3.0;Vehicle Carrier
+2.0;H;1;2.0;3.0;Vehicle Carrier
+2.0;I;1;2.0;3.0;Vehicle Carrier
+2.0;J;0;2.0;3.0;Vehicle Carrier
+2.0;K;1;2.0;3.0;Vehicle Carrier
+2.0;L;0;2.0;3.0;Vehicle Carrier
+2.0;M;0;2.0;3.0;Vehicle Carrier
+1.0;A;0;1.0;3.0;Vehicle Carrier
+1.0;B;0;1.0;3.0;Vehicle Carrier
+1.0;C;0;1.0;3.0;Vehicle Carrier
+1.0;D;0;1.0;3.0;Vehicle Carrier
+1.0;E;0;1.0;3.0;Vehicle Carrier
+1.0;F;0;1.0;3.0;Vehicle Carrier
+1.0;G;0;1.0;3.0;Vehicle Carrier
+1.0;H;0;1.0;3.0;Vehicle Carrier
+1.0;I;0;1.0;3.0;Vehicle Carrier
+1.0;J;0;1.0;3.0;Vehicle Carrier
+1.0;K;0;1.0;3.0;Vehicle Carrier
+1.0;L;0;1.0;3.0;Vehicle Carrier
+1.0;M;0;1.0;3.0;Vehicle Carrier
+1.0;A;0;2.0;3.0;Vehicle Carrier
+1.0;B;0;2.0;3.0;Vehicle Carrier
+1.0;C;0;2.0;3.0;Vehicle Carrier
+1.0;D;0;2.0;3.0;Tanker
+1.0;E;0;2.0;3.0;Tanker
+1.0;F;0;2.0;3.0;Tanker
+1.0;G;0;2.0;3.0;Tanker
+1.0;H;0;2.0;3.0;Tanker
+1.0;I;0;2.0;3.0;Tanker
+1.0;J;0;2.0;3.0;Tanker
+1.0;K;0;2.0;3.0;Tanker
+1.0;L;0;2.0;3.0;Tanker
+1.0;M;0;2.0;3.0;Tanker
+2.0;A;0;1.0;3.0;Tanker
+2.0;B;0;1.0;3.0;Tanker
+2.0;C;1;1.0;3.0;Tanker
+2.0;D;1;1.0;3.0;Tanker
+2.0;E;0;1.0;3.0;Tanker
+2.0;F;2;1.0;3.0;Tanker
+2.0;G;0;1.0;3.0;Tanker
+2.0;H;0;1.0;3.0;Tanker
+2.0;I;0;1.0;3.0;Tanker
+2.0;J;1;1.0;3.0;Tanker
+2.0;K;1;1.0;3.0;Tanker
+2.0;L;1;1.0;3.0;Tanker
+2.0;M;0;1.0;3.0;Tanker
+2.0;A;0;2.0;3.0;Tanker
+2.0;B;0;2.0;3.0;Tanker
+2.0;C;2;2.0;3.0;Tanker
+2.0;D;1;2.0;3.0;Tanker
+2.0;E;0;2.0;3.0;Tanker
+2.0;F;2;2.0;3.0;Tanker
+2.0;G;0;2.0;3.0;Tanker
+2.0;H;1;2.0;3.0;Tanker
+2.0;I;4;2.0;3.0;Tanker
+2.0;J;1;2.0;3.0;Tanker
+2.0;K;0;2.0;3.0;Tanker
+2.0;L;2;2.0;3.0;Tanker
+2.0;M;0;2.0;3.0;Tanker
 1.0;A;0;1.0;4.0;Tanker
 1.0;B;0;1.0;4.0;Tanker
 1.0;C;0;1.0;4.0;Tanker
@@ -1206,54 +1098,59 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;4.0;Tanker
 1.0;F;0;1.0;4.0;Tanker
 1.0;G;0;1.0;4.0;Tanker
+1.0;H;0;1.0;4.0;Tanker
 1.0;I;0;1.0;4.0;Tanker
 1.0;J;0;1.0;4.0;Tanker
 1.0;K;0;1.0;4.0;Tanker
 1.0;L;0;1.0;4.0;Tanker
-1.0;M;0;1.0;4.0;Tanker
-1.0;A;0;2.0;4.0;Tanker
-1.0;B;0;2.0;4.0;Tanker
-1.0;C;0;2.0;4.0;Tanker
-1.0;D;0;2.0;4.0;Tanker
-1.0;E;0;2.0;4.0;Tanker
-1.0;F;0;2.0;4.0;Tanker
-1.0;G;0;2.0;4.0;Tanker
-1.0;I;0;2.0;4.0;Tanker
-1.0;J;0;2.0;4.0;Tanker
-1.0;K;0;2.0;4.0;Tanker
-1.0;L;0;2.0;4.0;Tanker
-1.0;M;0;2.0;4.0;Tanker
-2.0;A;0;1.0;4.0;Tanker
-2.0;B;0;1.0;4.0;Tanker
-2.0;C;0;1.0;4.0;Tanker
-2.0;D;1;1.0;4.0;Tanker
-2.0;E;1;1.0;4.0;Tanker
-2.0;F;1;1.0;4.0;Tanker
-2.0;G;0;1.0;4.0;Tanker
-2.0;I;1;1.0;4.0;Tanker
-2.0;J;1;1.0;4.0;Tanker
-2.0;K;3;1.0;4.0;Tanker
-2.0;L;2;1.0;4.0;Tanker
-2.0;M;0;1.0;4.0;Tanker
-2.0;A;1;2.0;4.0;Tanker
-2.0;B;0;2.0;4.0;Tanker
-2.0;C;1;2.0;4.0;Tanker
-2.0;D;0;2.0;4.0;Tanker
-2.0;E;0;2.0;4.0;Tanker
-2.0;F;2;2.0;4.0;Tanker
-2.0;G;1;2.0;4.0;Tanker
-2.0;I;1;2.0;4.0;Tanker
-2.0;J;0;2.0;4.0;Tanker
-2.0;K;1;2.0;4.0;Tanker
-2.0;L;0;2.0;4.0;Tanker
-2.0;M;0;2.0;4.0;Tanker
-1.0;A;0;1.0;4.0;Other
-1.0;B;0;1.0;4.0;Other
-1.0;C;0;1.0;4.0;Other
-1.0;D;0;1.0;4.0;Other
-1.0;E;0;1.0;4.0;Other
-1.0;F;0;1.0;4.0;Other
-1.0;G;0;1.0;4.0;Other
+1.0;M;0;1.0;4.0;Offshore Exploitation
+1.0;A;0;2.0;4.0;Offshore Exploitation
+1.0;B;0;2.0;4.0;Offshore Exploitation
+1.0;C;0;2.0;4.0;Offshore Exploitation
+1.0;D;0;2.0;4.0;Offshore Exploitation
+1.0;E;0;2.0;4.0;Offshore Exploitation
+1.0;F;0;2.0;4.0;Offshore Exploitation
+1.0;G;0;2.0;4.0;Offshore Exploitation
+1.0;H;0;2.0;4.0;Offshore Exploitation
+1.0;I;0;2.0;4.0;Offshore Exploitation
+1.0;J;0;2.0;4.0;Offshore Exploitation
+1.0;K;0;2.0;4.0;Offshore Exploitation
+1.0;L;0;2.0;4.0;Offshore Exploitation
+1.0;M;0;2.0;4.0;Offshore Exploitation
+2.0;A;0;1.0;4.0;Offshore Exploitation
+2.0;B;0;1.0;4.0;Offshore Exploitation
+2.0;C;0;1.0;4.0;Offshore Exploitation
+2.0;D;0;1.0;4.0;Offshore Exploitation
+2.0;E;0;1.0;4.0;Offshore Exploitation
+2.0;F;0;1.0;4.0;Offshore Exploitation
+2.0;G;0;1.0;4.0;Offshore Exploitation
+2.0;H;0;1.0;4.0;Offshore Exploitation
+2.0;I;0;1.0;4.0;Offshore Exploitation
+2.0;J;0;1.0;4.0;Offshore Exploitation
+2.0;K;0;1.0;4.0;Offshore Exploitation
+2.0;L;0;1.0;4.0;Offshore Exploitation
+2.0;M;0;1.0;4.0;Offshore Exploitation
+2.0;A;0;2.0;4.0;Offshore Exploitation
+2.0;B;0;2.0;4.0;Offshore Exploitation
+2.0;C;0;2.0;4.0;Offshore Exploitation
+2.0;D;0;2.0;4.0;Offshore Exploitation
+2.0;E;0;2.0;4.0;Offshore Exploitation
+2.0;F;0;2.0;4.0;Offshore Exploitation
+2.0;G;0;2.0;4.0;Offshore Exploitation
+2.0;H;0;2.0;4.0;Offshore Exploitation
+2.0;I;0;2.0;4.0;Offshore Exploitation
+2.0;J;0;2.0;4.0;Offshore Exploitation
+2.0;K;0;2.0;4.0;Offshore Exploitation
+2.0;L;0;2.0;4.0;Offshore Exploitation
+2.0;M;0;2.0;4.0;Offshore Exploitation
+1.0;A;0;1.0;4.0;Offshore Exploitation
+1.0;B;0;1.0;4.0;Offshore Exploitation
+1.0;C;0;1.0;4.0;Offshore Exploitation
+1.0;D;0;1.0;4.0;Offshore Exploitation
+1.0;E;0;1.0;4.0;Offshore Exploitation
+1.0;F;0;1.0;4.0;Offshore Exploitation
+1.0;G;0;1.0;4.0;Offshore Exploitation
+1.0;H;0;1.0;4.0;Offshore Exploitation
 1.0;I;0;1.0;4.0;Other
 1.0;J;0;1.0;4.0;Other
 1.0;K;0;1.0;4.0;Other
@@ -1266,6 +1163,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;4.0;Other
 1.0;F;0;2.0;4.0;Other
 1.0;G;0;2.0;4.0;Other
+1.0;H;0;2.0;4.0;Other
 1.0;I;0;2.0;4.0;Other
 1.0;J;0;2.0;4.0;Other
 1.0;K;0;2.0;4.0;Other
@@ -1278,6 +1176,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;1;1.0;4.0;Other
 2.0;F;0;1.0;4.0;Other
 2.0;G;0;1.0;4.0;Other
+2.0;H;0;1.0;4.0;Other
 2.0;I;0;1.0;4.0;Other
 2.0;J;0;1.0;4.0;Other
 2.0;K;0;1.0;4.0;Other
@@ -1290,162 +1189,20 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;4.0;Other
 2.0;F;0;2.0;4.0;Other
 2.0;G;0;2.0;4.0;Other
-2.0;I;1;2.0;4.0;Other
+2.0;H;1;2.0;4.0;Other
+2.0;I;0;2.0;4.0;Other
 2.0;J;0;2.0;4.0;Other
 2.0;K;0;2.0;4.0;Other
 2.0;L;0;2.0;4.0;Other
 2.0;M;0;2.0;4.0;Other
-1.0;A;0;1.0;4.0;Cargo
-1.0;B;0;1.0;4.0;Cargo
-1.0;C;0;1.0;4.0;Cargo
-1.0;D;0;1.0;4.0;Cargo
-1.0;E;0;1.0;4.0;Cargo
-1.0;F;0;1.0;4.0;Cargo
-1.0;G;0;1.0;4.0;Cargo
-1.0;I;0;1.0;4.0;Cargo
-1.0;J;0;1.0;4.0;Cargo
-1.0;K;0;1.0;4.0;Cargo
-1.0;L;0;1.0;4.0;Cargo
-1.0;M;0;1.0;4.0;Cargo
-1.0;A;0;2.0;4.0;Cargo
-1.0;B;0;2.0;4.0;Cargo
-1.0;C;0;2.0;4.0;Cargo
-1.0;D;0;2.0;4.0;Cargo
-1.0;E;0;2.0;4.0;Cargo
-1.0;F;0;2.0;4.0;Cargo
-1.0;G;0;2.0;4.0;Cargo
-1.0;I;0;2.0;4.0;Cargo
-1.0;J;0;2.0;4.0;Cargo
-1.0;K;0;2.0;4.0;Cargo
-1.0;L;0;2.0;4.0;Cargo
-1.0;M;0;2.0;4.0;Cargo
-2.0;A;0;1.0;4.0;Cargo
-2.0;B;0;1.0;4.0;Cargo
-2.0;C;0;1.0;4.0;Cargo
-2.0;D;0;1.0;4.0;Cargo
-2.0;E;0;1.0;4.0;Cargo
-2.0;F;0;1.0;4.0;Cargo
-2.0;G;0;1.0;4.0;Cargo
-2.0;I;2;1.0;4.0;Cargo
-2.0;J;0;1.0;4.0;Cargo
-2.0;K;1;1.0;4.0;Cargo
-2.0;L;0;1.0;4.0;Cargo
-2.0;M;0;1.0;4.0;Cargo
-2.0;A;0;2.0;4.0;Cargo
-2.0;B;0;2.0;4.0;Cargo
-2.0;C;0;2.0;4.0;Cargo
-2.0;D;0;2.0;4.0;Cargo
-2.0;E;0;2.0;4.0;Cargo
-2.0;F;0;2.0;4.0;Cargo
-2.0;G;1;2.0;4.0;Cargo
-2.0;I;2;2.0;4.0;Cargo
-2.0;J;1;2.0;4.0;Cargo
-2.0;K;1;2.0;4.0;Cargo
-2.0;L;0;2.0;4.0;Cargo
-2.0;M;0;2.0;4.0;Cargo
-1.0;A;0;1.0;4.0;Ro-Ro
-1.0;B;0;1.0;4.0;Ro-Ro
-1.0;C;0;1.0;4.0;Ro-Ro
-1.0;D;0;1.0;4.0;Ro-Ro
-1.0;E;0;1.0;4.0;Ro-Ro
-1.0;F;0;1.0;4.0;Ro-Ro
-1.0;G;0;1.0;4.0;Ro-Ro
-1.0;I;0;1.0;4.0;Ro-Ro
-1.0;J;0;1.0;4.0;Ro-Ro
-1.0;K;0;1.0;4.0;Ro-Ro
-1.0;L;0;1.0;4.0;Ro-Ro
-1.0;M;0;1.0;4.0;Ro-Ro
-1.0;A;0;2.0;4.0;Ro-Ro
-1.0;B;0;2.0;4.0;Ro-Ro
-1.0;C;0;2.0;4.0;Ro-Ro
-1.0;D;0;2.0;4.0;Ro-Ro
-1.0;E;0;2.0;4.0;Ro-Ro
-1.0;F;0;2.0;4.0;Ro-Ro
-1.0;G;0;2.0;4.0;Ro-Ro
-1.0;I;0;2.0;4.0;Ro-Ro
-1.0;J;0;2.0;4.0;Ro-Ro
-1.0;K;0;2.0;4.0;Ro-Ro
-1.0;L;0;2.0;4.0;Ro-Ro
-1.0;M;0;2.0;4.0;Ro-Ro
-2.0;A;0;1.0;4.0;Ro-Ro
-2.0;B;0;1.0;4.0;Ro-Ro
-2.0;C;0;1.0;4.0;Ro-Ro
-2.0;D;0;1.0;4.0;Ro-Ro
-2.0;E;0;1.0;4.0;Ro-Ro
-2.0;F;0;1.0;4.0;Ro-Ro
-2.0;G;0;1.0;4.0;Ro-Ro
-2.0;I;0;1.0;4.0;Ro-Ro
-2.0;J;0;1.0;4.0;Ro-Ro
-2.0;K;0;1.0;4.0;Ro-Ro
-2.0;L;0;1.0;4.0;Ro-Ro
-2.0;M;0;1.0;4.0;Ro-Ro
-2.0;A;0;2.0;4.0;Ro-Ro
-2.0;B;0;2.0;4.0;Ro-Ro
-2.0;C;0;2.0;4.0;Ro-Ro
-2.0;D;0;2.0;4.0;Ro-Ro
-2.0;E;0;2.0;4.0;Ro-Ro
-2.0;F;0;2.0;4.0;Ro-Ro
-2.0;G;0;2.0;4.0;Ro-Ro
-2.0;I;0;2.0;4.0;Ro-Ro
-2.0;J;0;2.0;4.0;Ro-Ro
-2.0;K;0;2.0;4.0;Ro-Ro
-2.0;L;0;2.0;4.0;Ro-Ro
-2.0;M;0;2.0;4.0;Ro-Ro
-1.0;A;0;1.0;4.0;Vessel
-1.0;B;0;1.0;4.0;Vessel
-1.0;C;0;1.0;4.0;Vessel
-1.0;D;0;1.0;4.0;Vessel
-1.0;E;0;1.0;4.0;Vessel
-1.0;F;0;1.0;4.0;Vessel
-1.0;G;0;1.0;4.0;Vessel
-1.0;I;0;1.0;4.0;Vessel
-1.0;J;0;1.0;4.0;Vessel
-1.0;K;0;1.0;4.0;Vessel
-1.0;L;0;1.0;4.0;Vessel
-1.0;M;0;1.0;4.0;Vessel
-1.0;A;0;2.0;4.0;Vessel
-1.0;B;0;2.0;4.0;Vessel
-1.0;C;0;2.0;4.0;Vessel
-1.0;D;0;2.0;4.0;Vessel
-1.0;E;0;2.0;4.0;Vessel
-1.0;F;0;2.0;4.0;Vessel
-1.0;G;0;2.0;4.0;Vessel
-1.0;I;0;2.0;4.0;Vessel
-1.0;J;0;2.0;4.0;Vessel
-1.0;K;0;2.0;4.0;Vessel
-1.0;L;0;2.0;4.0;Vessel
-1.0;M;0;2.0;4.0;Vessel
-2.0;A;0;1.0;4.0;Vessel
-2.0;B;0;1.0;4.0;Vessel
-2.0;C;0;1.0;4.0;Vessel
-2.0;D;0;1.0;4.0;Vessel
-2.0;E;0;1.0;4.0;Vessel
-2.0;F;0;1.0;4.0;Vessel
-2.0;G;0;1.0;4.0;Vessel
-2.0;I;1;1.0;4.0;Vessel
-2.0;J;1;1.0;4.0;Vessel
-2.0;K;0;1.0;4.0;Vessel
-2.0;L;0;1.0;4.0;Vessel
-2.0;M;0;1.0;4.0;Vessel
-2.0;A;0;2.0;4.0;Vessel
-2.0;B;0;2.0;4.0;Vessel
-2.0;C;0;2.0;4.0;Vessel
-2.0;D;0;2.0;4.0;Vessel
-2.0;E;0;2.0;4.0;Vessel
-2.0;F;0;2.0;4.0;Vessel
-2.0;G;0;2.0;4.0;Vessel
-2.0;I;0;2.0;4.0;Vessel
-2.0;J;0;2.0;4.0;Vessel
-2.0;K;1;2.0;4.0;Vessel
-2.0;L;0;2.0;4.0;Vessel
-2.0;M;1;2.0;4.0;Vessel
-1.0;A;0;1.0;4.0;Tug
-1.0;B;0;1.0;4.0;Tug
-1.0;C;0;1.0;4.0;Tug
-1.0;D;0;1.0;4.0;Tug
+1.0;A;0;1.0;4.0;Other
+1.0;B;0;1.0;4.0;Other
+1.0;C;0;1.0;4.0;Other
+1.0;D;0;1.0;4.0;Other
 1.0;E;0;1.0;4.0;Tug
 1.0;F;0;1.0;4.0;Tug
 1.0;G;0;1.0;4.0;Tug
+1.0;H;0;1.0;4.0;Tug
 1.0;I;0;1.0;4.0;Tug
 1.0;J;0;1.0;4.0;Tug
 1.0;K;0;1.0;4.0;Tug
@@ -1458,6 +1215,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;4.0;Tug
 1.0;F;0;2.0;4.0;Tug
 1.0;G;0;2.0;4.0;Tug
+1.0;H;0;2.0;4.0;Tug
 1.0;I;0;2.0;4.0;Tug
 1.0;J;0;2.0;4.0;Tug
 1.0;K;0;2.0;4.0;Tug
@@ -1470,6 +1228,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;4.0;Tug
 2.0;F;0;1.0;4.0;Tug
 2.0;G;1;1.0;4.0;Tug
+2.0;H;0;1.0;4.0;Tug
 2.0;I;0;1.0;4.0;Tug
 2.0;J;0;1.0;4.0;Tug
 2.0;K;0;1.0;4.0;Tug
@@ -1482,11 +1241,64 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;4.0;Tug
 2.0;F;0;2.0;4.0;Tug
 2.0;G;0;2.0;4.0;Tug
+2.0;H;0;2.0;4.0;Tug
 2.0;I;0;2.0;4.0;Tug
 2.0;J;0;2.0;4.0;Tug
 2.0;K;0;2.0;4.0;Tug
 2.0;L;0;2.0;4.0;Tug
 2.0;M;0;2.0;4.0;Tug
+1.0;A;0;1.0;4.0;Vessel
+1.0;B;0;1.0;4.0;Vessel
+1.0;C;0;1.0;4.0;Vessel
+1.0;D;0;1.0;4.0;Vessel
+1.0;E;0;1.0;4.0;Vessel
+1.0;F;0;1.0;4.0;Vessel
+1.0;G;0;1.0;4.0;Vessel
+1.0;H;0;1.0;4.0;Vessel
+1.0;I;0;1.0;4.0;Vessel
+1.0;J;0;1.0;4.0;Vessel
+1.0;K;0;1.0;4.0;Vessel
+1.0;L;0;1.0;4.0;Vessel
+1.0;M;0;1.0;4.0;Vessel
+1.0;A;0;2.0;4.0;Vessel
+1.0;B;0;2.0;4.0;Vessel
+1.0;C;0;2.0;4.0;Vessel
+1.0;D;0;2.0;4.0;Vessel
+1.0;E;0;2.0;4.0;Vessel
+1.0;F;0;2.0;4.0;Vessel
+1.0;G;0;2.0;4.0;Vessel
+1.0;H;0;2.0;4.0;Vessel
+1.0;I;0;2.0;4.0;Vessel
+1.0;J;0;2.0;4.0;Vessel
+1.0;K;0;2.0;4.0;Vessel
+1.0;L;0;2.0;4.0;Vessel
+1.0;M;0;2.0;4.0;Vessel
+2.0;A;0;1.0;4.0;Vessel
+2.0;B;0;1.0;4.0;Vessel
+2.0;C;0;1.0;4.0;Vessel
+2.0;D;0;1.0;4.0;Vessel
+2.0;E;0;1.0;4.0;Vessel
+2.0;F;0;1.0;4.0;Vessel
+2.0;G;0;1.0;4.0;Vessel
+2.0;H;0;1.0;4.0;Vessel
+2.0;I;1;1.0;4.0;Vessel
+2.0;J;1;1.0;4.0;Vessel
+2.0;K;0;1.0;4.0;Vessel
+2.0;L;0;1.0;4.0;Vessel
+2.0;M;0;1.0;4.0;Vessel
+2.0;A;0;2.0;4.0;Vessel
+2.0;B;0;2.0;4.0;Vessel
+2.0;C;0;2.0;4.0;Vessel
+2.0;D;0;2.0;4.0;Vessel
+2.0;E;0;2.0;4.0;Vessel
+2.0;F;0;2.0;4.0;Vessel
+2.0;G;0;2.0;4.0;Vessel
+2.0;H;0;2.0;4.0;Vessel
+2.0;I;0;2.0;4.0;Vessel
+2.0;J;0;2.0;4.0;Barge
+2.0;K;0;2.0;4.0;Barge
+2.0;L;0;2.0;4.0;Barge
+2.0;M;0;2.0;4.0;Barge
 1.0;A;0;1.0;4.0;Barge
 1.0;B;0;1.0;4.0;Barge
 1.0;C;0;1.0;4.0;Barge
@@ -1494,6 +1306,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;4.0;Barge
 1.0;F;0;1.0;4.0;Barge
 1.0;G;0;1.0;4.0;Barge
+1.0;H;0;1.0;4.0;Barge
 1.0;I;0;1.0;4.0;Barge
 1.0;J;0;1.0;4.0;Barge
 1.0;K;0;1.0;4.0;Barge
@@ -1506,6 +1319,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;4.0;Barge
 1.0;F;0;2.0;4.0;Barge
 1.0;G;0;2.0;4.0;Barge
+1.0;H;0;2.0;4.0;Barge
 1.0;I;0;2.0;4.0;Barge
 1.0;J;0;2.0;4.0;Barge
 1.0;K;0;2.0;4.0;Barge
@@ -1518,6 +1332,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;4.0;Barge
 2.0;F;0;1.0;4.0;Barge
 2.0;G;0;1.0;4.0;Barge
+2.0;H;0;1.0;4.0;Barge
 2.0;I;0;1.0;4.0;Barge
 2.0;J;0;1.0;4.0;Barge
 2.0;K;0;1.0;4.0;Barge
@@ -1528,140 +1343,152 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;C;0;2.0;4.0;Barge
 2.0;D;0;2.0;4.0;Barge
 2.0;E;0;2.0;4.0;Barge
-2.0;F;0;2.0;4.0;Barge
-2.0;G;0;2.0;4.0;Barge
-2.0;I;0;2.0;4.0;Barge
-2.0;J;0;2.0;4.0;Barge
-2.0;K;0;2.0;4.0;Barge
-2.0;L;0;2.0;4.0;Barge
-2.0;M;0;2.0;4.0;Barge
-1.0;A;0;1.0;5.0;Carrier
-1.0;B;0;1.0;5.0;Carrier
-1.0;C;0;1.0;5.0;Carrier
-1.0;D;0;1.0;5.0;Carrier
-1.0;E;0;1.0;5.0;Carrier
-1.0;F;0;1.0;5.0;Carrier
-1.0;G;0;1.0;5.0;Carrier
-1.0;I;0;1.0;5.0;Carrier
-1.0;J;0;1.0;5.0;Carrier
-1.0;K;0;1.0;5.0;Carrier
-1.0;L;0;1.0;5.0;Carrier
-1.0;M;0;1.0;5.0;Carrier
-1.0;A;0;2.0;5.0;Carrier
-1.0;B;0;2.0;5.0;Carrier
-1.0;C;0;2.0;5.0;Carrier
-1.0;D;0;2.0;5.0;Carrier
-1.0;E;0;2.0;5.0;Carrier
-1.0;F;0;2.0;5.0;Carrier
-1.0;G;0;2.0;5.0;Carrier
-1.0;I;0;2.0;5.0;Carrier
-1.0;J;0;2.0;5.0;Carrier
-1.0;K;0;2.0;5.0;Carrier
-1.0;L;0;2.0;5.0;Carrier
-1.0;M;0;2.0;5.0;Carrier
-2.0;A;0;1.0;5.0;Carrier
-2.0;B;0;1.0;5.0;Carrier
-2.0;C;0;1.0;5.0;Carrier
-2.0;D;0;1.0;5.0;Carrier
-2.0;E;0;1.0;5.0;Carrier
-2.0;F;0;1.0;5.0;Carrier
-2.0;G;0;1.0;5.0;Carrier
-2.0;I;4;1.0;5.0;Carrier
-2.0;J;0;1.0;5.0;Carrier
-2.0;K;0;1.0;5.0;Carrier
-2.0;L;0;1.0;5.0;Carrier
-2.0;M;0;1.0;5.0;Carrier
-2.0;A;0;2.0;5.0;Carrier
-2.0;B;1;2.0;5.0;Carrier
-2.0;C;2;2.0;5.0;Carrier
-2.0;D;1;2.0;5.0;Carrier
-2.0;E;0;2.0;5.0;Carrier
-2.0;F;0;2.0;5.0;Carrier
-2.0;G;1;2.0;5.0;Carrier
-2.0;I;7;2.0;5.0;Carrier
-2.0;J;0;2.0;5.0;Carrier
-2.0;K;0;2.0;5.0;Carrier
-2.0;L;0;2.0;5.0;Carrier
-2.0;M;0;2.0;5.0;Carrier
-1.0;A;0;1.0;5.0;Tanker
-1.0;B;0;1.0;5.0;Tanker
-1.0;C;0;1.0;5.0;Tanker
-1.0;D;0;1.0;5.0;Tanker
-1.0;E;0;1.0;5.0;Tanker
-1.0;F;0;1.0;5.0;Tanker
-1.0;G;0;1.0;5.0;Tanker
-1.0;I;0;1.0;5.0;Tanker
-1.0;J;0;1.0;5.0;Tanker
-1.0;K;0;1.0;5.0;Tanker
-1.0;L;0;1.0;5.0;Tanker
-1.0;M;0;1.0;5.0;Tanker
-1.0;A;0;2.0;5.0;Tanker
-1.0;B;0;2.0;5.0;Tanker
-1.0;C;0;2.0;5.0;Tanker
-1.0;D;0;2.0;5.0;Tanker
-1.0;E;0;2.0;5.0;Tanker
-1.0;F;0;2.0;5.0;Tanker
-1.0;G;0;2.0;5.0;Tanker
-1.0;I;0;2.0;5.0;Tanker
-1.0;J;0;2.0;5.0;Tanker
-1.0;K;0;2.0;5.0;Tanker
-1.0;L;0;2.0;5.0;Tanker
-1.0;M;0;2.0;5.0;Tanker
-2.0;A;0;1.0;5.0;Tanker
-2.0;B;0;1.0;5.0;Tanker
-2.0;C;1;1.0;5.0;Tanker
-2.0;D;1;1.0;5.0;Tanker
-2.0;E;0;1.0;5.0;Tanker
-2.0;F;1;1.0;5.0;Tanker
-2.0;G;0;1.0;5.0;Tanker
-2.0;I;3;1.0;5.0;Tanker
-2.0;J;0;1.0;5.0;Tanker
-2.0;K;0;1.0;5.0;Tanker
-2.0;L;2;1.0;5.0;Tanker
-2.0;M;0;1.0;5.0;Tanker
-2.0;A;0;2.0;5.0;Tanker
-2.0;B;1;2.0;5.0;Tanker
-2.0;C;2;2.0;5.0;Tanker
-2.0;D;1;2.0;5.0;Tanker
-2.0;E;0;2.0;5.0;Tanker
-2.0;F;0;2.0;5.0;Tanker
-2.0;G;1;2.0;5.0;Tanker
-2.0;I;5;2.0;5.0;Tanker
-2.0;J;0;2.0;5.0;Tanker
-2.0;K;2;2.0;5.0;Tanker
-2.0;L;1;2.0;5.0;Tanker
-2.0;M;0;2.0;5.0;Tanker
-1.0;A;0;1.0;5.0;Other
-1.0;B;0;1.0;5.0;Other
-1.0;C;0;1.0;5.0;Other
-1.0;D;0;1.0;5.0;Other
-1.0;E;0;1.0;5.0;Other
-1.0;F;0;1.0;5.0;Other
-1.0;G;0;1.0;5.0;Other
-1.0;I;0;1.0;5.0;Other
-1.0;J;0;1.0;5.0;Other
-1.0;K;0;1.0;5.0;Other
-1.0;L;0;1.0;5.0;Other
-1.0;M;0;1.0;5.0;Other
-1.0;A;0;2.0;5.0;Other
-1.0;B;0;2.0;5.0;Other
-1.0;C;0;2.0;5.0;Other
-1.0;D;0;2.0;5.0;Other
-1.0;E;0;2.0;5.0;Other
-1.0;F;0;2.0;5.0;Other
-1.0;G;0;2.0;5.0;Other
-1.0;I;0;2.0;5.0;Other
-1.0;J;0;2.0;5.0;Other
-1.0;K;0;2.0;5.0;Other
-1.0;L;0;2.0;5.0;Other
-1.0;M;0;2.0;5.0;Other
-2.0;A;0;1.0;5.0;Other
-2.0;B;0;1.0;5.0;Other
-2.0;C;0;1.0;5.0;Other
-2.0;D;0;1.0;5.0;Other
-2.0;E;1;1.0;5.0;Other
-2.0;F;0;1.0;5.0;Other
+2.0;F;0;2.0;4.0;Vehicle Carrier
+2.0;G;1;2.0;4.0;Vehicle Carrier
+2.0;H;3;2.0;4.0;Vehicle Carrier
+2.0;I;0;2.0;4.0;Vehicle Carrier
+2.0;J;2;2.0;4.0;Vehicle Carrier
+2.0;K;2;2.0;4.0;Vehicle Carrier
+2.0;L;0;2.0;4.0;Vehicle Carrier
+2.0;M;0;2.0;4.0;Vehicle Carrier
+1.0;A;0;1.0;4.0;Vehicle Carrier
+1.0;B;0;1.0;4.0;Vehicle Carrier
+1.0;C;0;1.0;4.0;Vehicle Carrier
+1.0;D;0;1.0;4.0;Vehicle Carrier
+1.0;E;0;1.0;4.0;Vehicle Carrier
+1.0;F;0;1.0;4.0;Vehicle Carrier
+1.0;G;0;1.0;4.0;Vehicle Carrier
+1.0;H;0;1.0;4.0;Vehicle Carrier
+1.0;I;0;1.0;4.0;Vehicle Carrier
+1.0;J;0;1.0;4.0;Vehicle Carrier
+1.0;K;0;1.0;4.0;Vehicle Carrier
+1.0;L;0;1.0;4.0;Vehicle Carrier
+1.0;M;0;1.0;4.0;Vehicle Carrier
+1.0;A;0;2.0;4.0;Vehicle Carrier
+1.0;B;0;2.0;4.0;Vehicle Carrier
+1.0;C;0;2.0;4.0;Vehicle Carrier
+1.0;D;0;2.0;4.0;Vehicle Carrier
+1.0;E;0;2.0;4.0;Vehicle Carrier
+1.0;F;0;2.0;4.0;Vehicle Carrier
+1.0;G;0;2.0;4.0;Vehicle Carrier
+1.0;H;0;2.0;4.0;Vehicle Carrier
+1.0;I;0;2.0;4.0;Vehicle Carrier
+1.0;J;0;2.0;4.0;Vehicle Carrier
+1.0;K;0;2.0;4.0;Vehicle Carrier
+1.0;L;0;2.0;4.0;Vehicle Carrier
+1.0;M;0;2.0;4.0;Vehicle Carrier
+2.0;A;0;1.0;4.0;Vehicle Carrier
+2.0;B;1;1.0;4.0;Vehicle Carrier
+2.0;C;0;1.0;4.0;Vehicle Carrier
+2.0;D;0;1.0;4.0;Vehicle Carrier
+2.0;E;0;1.0;4.0;Vehicle Carrier
+2.0;F;0;1.0;4.0;Vehicle Carrier
+2.0;G;1;1.0;4.0;Vehicle Carrier
+2.0;H;1;1.0;4.0;Vehicle Carrier
+2.0;I;4;1.0;4.0;Vehicle Carrier
+2.0;J;0;1.0;4.0;Vehicle Carrier
+2.0;K;4;1.0;4.0;Vehicle Carrier
+2.0;L;0;1.0;4.0;Vehicle Carrier
+2.0;M;0;1.0;4.0;Vehicle Carrier
+2.0;A;0;2.0;4.0;Vehicle Carrier
+2.0;B;0;2.0;4.0;Tanker
+2.0;C;1;2.0;4.0;Tanker
+2.0;D;0;2.0;4.0;Tanker
+2.0;E;0;2.0;4.0;Tanker
+2.0;F;2;2.0;4.0;Tanker
+2.0;G;1;2.0;4.0;Tanker
+2.0;H;0;2.0;4.0;Tanker
+2.0;I;1;2.0;4.0;Tanker
+2.0;J;0;2.0;4.0;Tanker
+2.0;K;1;2.0;4.0;Tanker
+2.0;L;0;2.0;4.0;Tanker
+2.0;M;0;2.0;4.0;Tanker
+1.0;A;0;1.0;4.0;Tanker
+1.0;B;0;1.0;4.0;Tanker
+1.0;C;0;1.0;4.0;Tanker
+1.0;D;0;1.0;4.0;Tanker
+1.0;E;0;1.0;4.0;Tanker
+1.0;F;0;1.0;4.0;Tanker
+1.0;G;0;1.0;4.0;Tanker
+1.0;H;0;1.0;4.0;Tanker
+1.0;I;0;1.0;4.0;Tanker
+1.0;J;0;1.0;4.0;Tanker
+1.0;K;0;1.0;4.0;Tanker
+1.0;L;0;1.0;4.0;Tanker
+1.0;M;0;1.0;4.0;Tanker
+1.0;A;0;2.0;4.0;Tanker
+1.0;B;0;2.0;4.0;Tanker
+1.0;C;0;2.0;4.0;Tanker
+1.0;D;0;2.0;4.0;Tanker
+1.0;E;0;2.0;4.0;Tanker
+1.0;F;0;2.0;4.0;Tanker
+1.0;G;0;2.0;4.0;Tanker
+1.0;H;0;2.0;4.0;Tanker
+1.0;I;0;2.0;4.0;Tanker
+1.0;J;0;2.0;4.0;Tanker
+1.0;K;0;2.0;4.0;Tanker
+1.0;L;0;2.0;4.0;Tanker
+1.0;M;0;2.0;4.0;Tanker
+2.0;A;0;1.0;4.0;Tanker
+2.0;B;0;1.0;4.0;Tanker
+2.0;C;0;1.0;4.0;Tanker
+2.0;D;1;1.0;4.0;Tanker
+2.0;E;1;1.0;4.0;Tanker
+2.0;F;1;1.0;4.0;Tanker
+2.0;G;0;1.0;4.0;Tanker
+2.0;H;0;1.0;4.0;Tanker
+2.0;I;1;1.0;4.0;Tanker
+2.0;J;1;1.0;4.0;Tanker
+2.0;K;0;1.0;4.0;Offshore Exploitation
+2.0;L;0;1.0;4.0;Offshore Exploitation
+2.0;M;0;1.0;4.0;Offshore Exploitation
+2.0;A;0;2.0;4.0;Offshore Exploitation
+2.0;B;0;2.0;4.0;Offshore Exploitation
+2.0;C;0;2.0;4.0;Offshore Exploitation
+2.0;D;0;2.0;4.0;Offshore Exploitation
+2.0;E;0;2.0;4.0;Offshore Exploitation
+2.0;F;0;2.0;4.0;Offshore Exploitation
+2.0;G;0;2.0;4.0;Offshore Exploitation
+2.0;H;0;2.0;4.0;Offshore Exploitation
+2.0;I;0;2.0;4.0;Offshore Exploitation
+2.0;J;0;2.0;4.0;Offshore Exploitation
+2.0;K;0;2.0;4.0;Offshore Exploitation
+2.0;L;0;2.0;4.0;Offshore Exploitation
+2.0;M;0;2.0;4.0;Offshore Exploitation
+1.0;A;0;1.0;5.0;Offshore Exploitation
+1.0;B;0;1.0;5.0;Offshore Exploitation
+1.0;C;0;1.0;5.0;Offshore Exploitation
+1.0;D;0;1.0;5.0;Offshore Exploitation
+1.0;E;0;1.0;5.0;Offshore Exploitation
+1.0;F;0;1.0;5.0;Offshore Exploitation
+1.0;G;0;1.0;5.0;Offshore Exploitation
+1.0;H;0;1.0;5.0;Offshore Exploitation
+1.0;I;0;1.0;5.0;Offshore Exploitation
+1.0;J;0;1.0;5.0;Offshore Exploitation
+1.0;K;0;1.0;5.0;Offshore Exploitation
+1.0;L;0;1.0;5.0;Offshore Exploitation
+1.0;M;0;1.0;5.0;Offshore Exploitation
+1.0;A;0;2.0;5.0;Offshore Exploitation
+1.0;B;0;2.0;5.0;Offshore Exploitation
+1.0;C;0;2.0;5.0;Offshore Exploitation
+1.0;D;0;2.0;5.0;Offshore Exploitation
+1.0;E;0;2.0;5.0;Offshore Exploitation
+1.0;F;0;2.0;5.0;Offshore Exploitation
+1.0;G;0;2.0;5.0;Offshore Exploitation
+1.0;H;0;2.0;5.0;Offshore Exploitation
+1.0;I;0;2.0;5.0;Offshore Exploitation
+1.0;J;0;2.0;5.0;Offshore Exploitation
+1.0;K;0;2.0;5.0;Offshore Exploitation
+1.0;L;0;2.0;5.0;Offshore Exploitation
+1.0;M;0;2.0;5.0;Offshore Exploitation
+2.0;A;0;1.0;5.0;Offshore Exploitation
+2.0;B;0;1.0;5.0;Offshore Exploitation
+2.0;C;0;1.0;5.0;Offshore Exploitation
+2.0;D;0;1.0;5.0;Offshore Exploitation
+2.0;E;0;1.0;5.0;Offshore Exploitation
+2.0;F;0;1.0;5.0;Offshore Exploitation
 2.0;G;0;1.0;5.0;Other
+2.0;H;0;1.0;5.0;Other
 2.0;I;2;1.0;5.0;Other
 2.0;J;0;1.0;5.0;Other
 2.0;K;0;1.0;5.0;Other
@@ -1674,186 +1501,46 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;5.0;Other
 2.0;F;0;2.0;5.0;Other
 2.0;G;0;2.0;5.0;Other
+2.0;H;0;2.0;5.0;Other
 2.0;I;0;2.0;5.0;Other
 2.0;J;0;2.0;5.0;Other
 2.0;K;1;2.0;5.0;Other
 2.0;L;1;2.0;5.0;Other
 2.0;M;0;2.0;5.0;Other
-1.0;A;0;1.0;5.0;Cargo
-1.0;B;0;1.0;5.0;Cargo
-1.0;C;0;1.0;5.0;Cargo
-1.0;D;0;1.0;5.0;Cargo
-1.0;E;0;1.0;5.0;Cargo
-1.0;F;0;1.0;5.0;Cargo
-1.0;G;0;1.0;5.0;Cargo
-1.0;I;0;1.0;5.0;Cargo
-1.0;J;0;1.0;5.0;Cargo
-1.0;K;0;1.0;5.0;Cargo
-1.0;L;0;1.0;5.0;Cargo
-1.0;M;0;1.0;5.0;Cargo
-1.0;A;0;2.0;5.0;Cargo
-1.0;B;0;2.0;5.0;Cargo
-1.0;C;0;2.0;5.0;Cargo
-1.0;D;0;2.0;5.0;Cargo
-1.0;E;0;2.0;5.0;Cargo
-1.0;F;0;2.0;5.0;Cargo
-1.0;G;0;2.0;5.0;Cargo
-1.0;I;0;2.0;5.0;Cargo
-1.0;J;0;2.0;5.0;Cargo
-1.0;K;0;2.0;5.0;Cargo
-1.0;L;0;2.0;5.0;Cargo
-1.0;M;0;2.0;5.0;Cargo
-2.0;A;0;1.0;5.0;Cargo
-2.0;B;0;1.0;5.0;Cargo
-2.0;C;0;1.0;5.0;Cargo
-2.0;D;0;1.0;5.0;Cargo
-2.0;E;1;1.0;5.0;Cargo
-2.0;F;0;1.0;5.0;Cargo
-2.0;G;0;1.0;5.0;Cargo
-2.0;I;0;1.0;5.0;Cargo
-2.0;J;1;1.0;5.0;Cargo
-2.0;K;1;1.0;5.0;Cargo
-2.0;L;0;1.0;5.0;Cargo
-2.0;M;0;1.0;5.0;Cargo
-2.0;A;0;2.0;5.0;Cargo
-2.0;B;0;2.0;5.0;Cargo
-2.0;C;0;2.0;5.0;Cargo
-2.0;D;0;2.0;5.0;Cargo
-2.0;E;1;2.0;5.0;Cargo
-2.0;F;0;2.0;5.0;Cargo
-2.0;G;0;2.0;5.0;Cargo
-2.0;I;1;2.0;5.0;Cargo
-2.0;J;0;2.0;5.0;Cargo
-2.0;K;1;2.0;5.0;Cargo
-2.0;L;0;2.0;5.0;Cargo
-2.0;M;0;2.0;5.0;Cargo
-1.0;A;0;1.0;5.0;Ro-Ro
-1.0;B;0;1.0;5.0;Ro-Ro
-1.0;C;0;1.0;5.0;Ro-Ro
-1.0;D;0;1.0;5.0;Ro-Ro
-1.0;E;0;1.0;5.0;Ro-Ro
-1.0;F;0;1.0;5.0;Ro-Ro
-1.0;G;0;1.0;5.0;Ro-Ro
-1.0;I;0;1.0;5.0;Ro-Ro
-1.0;J;0;1.0;5.0;Ro-Ro
-1.0;K;0;1.0;5.0;Ro-Ro
-1.0;L;0;1.0;5.0;Ro-Ro
-1.0;M;0;1.0;5.0;Ro-Ro
-1.0;A;0;2.0;5.0;Ro-Ro
-1.0;B;0;2.0;5.0;Ro-Ro
-1.0;C;0;2.0;5.0;Ro-Ro
-1.0;D;0;2.0;5.0;Ro-Ro
-1.0;E;0;2.0;5.0;Ro-Ro
-1.0;F;0;2.0;5.0;Ro-Ro
-1.0;G;0;2.0;5.0;Ro-Ro
-1.0;I;0;2.0;5.0;Ro-Ro
-1.0;J;0;2.0;5.0;Ro-Ro
-1.0;K;0;2.0;5.0;Ro-Ro
-1.0;L;0;2.0;5.0;Ro-Ro
-1.0;M;0;2.0;5.0;Ro-Ro
-2.0;A;0;1.0;5.0;Ro-Ro
-2.0;B;0;1.0;5.0;Ro-Ro
-2.0;C;0;1.0;5.0;Ro-Ro
-2.0;D;0;1.0;5.0;Ro-Ro
-2.0;E;0;1.0;5.0;Ro-Ro
-2.0;F;0;1.0;5.0;Ro-Ro
-2.0;G;0;1.0;5.0;Ro-Ro
-2.0;I;0;1.0;5.0;Ro-Ro
-2.0;J;0;1.0;5.0;Ro-Ro
-2.0;K;1;1.0;5.0;Ro-Ro
-2.0;L;0;1.0;5.0;Ro-Ro
-2.0;M;0;1.0;5.0;Ro-Ro
-2.0;A;0;2.0;5.0;Ro-Ro
-2.0;B;0;2.0;5.0;Ro-Ro
-2.0;C;0;2.0;5.0;Ro-Ro
-2.0;D;0;2.0;5.0;Ro-Ro
-2.0;E;0;2.0;5.0;Ro-Ro
-2.0;F;0;2.0;5.0;Ro-Ro
-2.0;G;0;2.0;5.0;Ro-Ro
-2.0;I;0;2.0;5.0;Ro-Ro
-2.0;J;0;2.0;5.0;Ro-Ro
-2.0;K;0;2.0;5.0;Ro-Ro
-2.0;L;0;2.0;5.0;Ro-Ro
-2.0;M;0;2.0;5.0;Ro-Ro
-1.0;A;0;1.0;5.0;Vessel
-1.0;B;0;1.0;5.0;Vessel
-1.0;C;0;1.0;5.0;Vessel
-1.0;D;0;1.0;5.0;Vessel
-1.0;E;0;1.0;5.0;Vessel
-1.0;F;0;1.0;5.0;Vessel
-1.0;G;0;1.0;5.0;Vessel
-1.0;I;0;1.0;5.0;Vessel
-1.0;J;0;1.0;5.0;Vessel
-1.0;K;0;1.0;5.0;Vessel
-1.0;L;0;1.0;5.0;Vessel
-1.0;M;0;1.0;5.0;Vessel
-1.0;A;0;2.0;5.0;Vessel
-1.0;B;0;2.0;5.0;Vessel
-1.0;C;0;2.0;5.0;Vessel
-1.0;D;0;2.0;5.0;Vessel
-1.0;E;0;2.0;5.0;Vessel
-1.0;F;0;2.0;5.0;Vessel
-1.0;G;0;2.0;5.0;Vessel
-1.0;I;0;2.0;5.0;Vessel
-1.0;J;0;2.0;5.0;Vessel
-1.0;K;0;2.0;5.0;Vessel
-1.0;L;0;2.0;5.0;Vessel
-1.0;M;0;2.0;5.0;Vessel
-2.0;A;0;1.0;5.0;Vessel
-2.0;B;0;1.0;5.0;Vessel
-2.0;C;0;1.0;5.0;Vessel
-2.0;D;0;1.0;5.0;Vessel
-2.0;E;0;1.0;5.0;Vessel
-2.0;F;0;1.0;5.0;Vessel
-2.0;G;0;1.0;5.0;Vessel
-2.0;I;0;1.0;5.0;Vessel
-2.0;J;0;1.0;5.0;Vessel
-2.0;K;0;1.0;5.0;Vessel
-2.0;L;0;1.0;5.0;Vessel
-2.0;M;0;1.0;5.0;Vessel
-2.0;A;0;2.0;5.0;Vessel
-2.0;B;0;2.0;5.0;Vessel
-2.0;C;0;2.0;5.0;Vessel
-2.0;D;0;2.0;5.0;Vessel
-2.0;E;0;2.0;5.0;Vessel
-2.0;F;0;2.0;5.0;Vessel
-2.0;G;0;2.0;5.0;Vessel
-2.0;I;0;2.0;5.0;Vessel
-2.0;J;0;2.0;5.0;Vessel
-2.0;K;0;2.0;5.0;Vessel
-2.0;L;0;2.0;5.0;Vessel
-2.0;M;0;2.0;5.0;Vessel
-1.0;A;0;1.0;5.0;Tug
-1.0;B;0;1.0;5.0;Tug
-1.0;C;0;1.0;5.0;Tug
-1.0;D;0;1.0;5.0;Tug
-1.0;E;0;1.0;5.0;Tug
-1.0;F;0;1.0;5.0;Tug
-1.0;G;0;1.0;5.0;Tug
-1.0;I;0;1.0;5.0;Tug
-1.0;J;0;1.0;5.0;Tug
-1.0;K;0;1.0;5.0;Tug
-1.0;L;0;1.0;5.0;Tug
-1.0;M;0;1.0;5.0;Tug
-1.0;A;0;2.0;5.0;Tug
-1.0;B;0;2.0;5.0;Tug
-1.0;C;0;2.0;5.0;Tug
-1.0;D;0;2.0;5.0;Tug
-1.0;E;0;2.0;5.0;Tug
-1.0;F;0;2.0;5.0;Tug
-1.0;G;0;2.0;5.0;Tug
-1.0;I;0;2.0;5.0;Tug
-1.0;J;0;2.0;5.0;Tug
-1.0;K;0;2.0;5.0;Tug
-1.0;L;0;2.0;5.0;Tug
-1.0;M;0;2.0;5.0;Tug
-2.0;A;0;1.0;5.0;Tug
-2.0;B;0;1.0;5.0;Tug
+1.0;A;0;1.0;5.0;Other
+1.0;B;0;1.0;5.0;Other
+1.0;C;0;1.0;5.0;Other
+1.0;D;0;1.0;5.0;Other
+1.0;E;0;1.0;5.0;Other
+1.0;F;0;1.0;5.0;Other
+1.0;G;0;1.0;5.0;Other
+1.0;H;0;1.0;5.0;Other
+1.0;I;0;1.0;5.0;Other
+1.0;J;0;1.0;5.0;Other
+1.0;K;0;1.0;5.0;Other
+1.0;L;0;1.0;5.0;Other
+1.0;M;0;1.0;5.0;Other
+1.0;A;0;2.0;5.0;Other
+1.0;B;0;2.0;5.0;Other
+1.0;C;0;2.0;5.0;Other
+1.0;D;0;2.0;5.0;Other
+1.0;E;0;2.0;5.0;Other
+1.0;F;0;2.0;5.0;Other
+1.0;G;0;2.0;5.0;Other
+1.0;H;0;2.0;5.0;Other
+1.0;I;0;2.0;5.0;Other
+1.0;J;0;2.0;5.0;Other
+1.0;K;0;2.0;5.0;Other
+1.0;L;0;2.0;5.0;Other
+1.0;M;0;2.0;5.0;Other
+2.0;A;0;1.0;5.0;Other
+2.0;B;0;1.0;5.0;Other
 2.0;C;0;1.0;5.0;Tug
 2.0;D;0;1.0;5.0;Tug
 2.0;E;0;1.0;5.0;Tug
 2.0;F;0;1.0;5.0;Tug
 2.0;G;0;1.0;5.0;Tug
+2.0;H;0;1.0;5.0;Tug
 2.0;I;0;1.0;5.0;Tug
 2.0;J;0;1.0;5.0;Tug
 2.0;K;0;1.0;5.0;Tug
@@ -1866,30 +1553,85 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;5.0;Tug
 2.0;F;0;2.0;5.0;Tug
 2.0;G;0;2.0;5.0;Tug
+2.0;H;0;2.0;5.0;Tug
 2.0;I;0;2.0;5.0;Tug
 2.0;J;0;2.0;5.0;Tug
 2.0;K;0;2.0;5.0;Tug
 2.0;L;0;2.0;5.0;Tug
 2.0;M;0;2.0;5.0;Tug
-1.0;A;0;1.0;5.0;Barge
-1.0;B;0;1.0;5.0;Barge
-1.0;C;0;1.0;5.0;Barge
-1.0;D;0;1.0;5.0;Barge
-1.0;E;0;1.0;5.0;Barge
-1.0;F;0;1.0;5.0;Barge
-1.0;G;0;1.0;5.0;Barge
-1.0;I;0;1.0;5.0;Barge
-1.0;J;0;1.0;5.0;Barge
-1.0;K;0;1.0;5.0;Barge
-1.0;L;0;1.0;5.0;Barge
-1.0;M;0;1.0;5.0;Barge
-1.0;A;0;2.0;5.0;Barge
-1.0;B;0;2.0;5.0;Barge
-1.0;C;0;2.0;5.0;Barge
-1.0;D;0;2.0;5.0;Barge
-1.0;E;0;2.0;5.0;Barge
-1.0;F;0;2.0;5.0;Barge
-1.0;G;0;2.0;5.0;Barge
+1.0;A;0;1.0;5.0;Tug
+1.0;B;0;1.0;5.0;Tug
+1.0;C;0;1.0;5.0;Tug
+1.0;D;0;1.0;5.0;Tug
+1.0;E;0;1.0;5.0;Tug
+1.0;F;0;1.0;5.0;Tug
+1.0;G;0;1.0;5.0;Tug
+1.0;H;0;1.0;5.0;Tug
+1.0;I;0;1.0;5.0;Tug
+1.0;J;0;1.0;5.0;Tug
+1.0;K;0;1.0;5.0;Tug
+1.0;L;0;1.0;5.0;Tug
+1.0;M;0;1.0;5.0;Tug
+1.0;A;0;2.0;5.0;Tug
+1.0;B;0;2.0;5.0;Tug
+1.0;C;0;2.0;5.0;Tug
+1.0;D;0;2.0;5.0;Tug
+1.0;E;0;2.0;5.0;Tug
+1.0;F;0;2.0;5.0;Tug
+1.0;G;0;2.0;5.0;Tug
+1.0;H;0;2.0;5.0;Tug
+1.0;I;0;2.0;5.0;Tug
+1.0;J;0;2.0;5.0;Tug
+1.0;K;0;2.0;5.0;Tug
+1.0;L;0;2.0;5.0;Vessel
+1.0;M;0;2.0;5.0;Vessel
+2.0;A;0;1.0;5.0;Vessel
+2.0;B;0;1.0;5.0;Vessel
+2.0;C;0;1.0;5.0;Vessel
+2.0;D;0;1.0;5.0;Vessel
+2.0;E;0;1.0;5.0;Vessel
+2.0;F;0;1.0;5.0;Vessel
+2.0;G;0;1.0;5.0;Vessel
+2.0;H;0;1.0;5.0;Vessel
+2.0;I;0;1.0;5.0;Vessel
+2.0;J;0;1.0;5.0;Vessel
+2.0;K;0;1.0;5.0;Vessel
+2.0;L;0;1.0;5.0;Vessel
+2.0;M;0;1.0;5.0;Vessel
+2.0;A;0;2.0;5.0;Vessel
+2.0;B;0;2.0;5.0;Vessel
+2.0;C;0;2.0;5.0;Vessel
+2.0;D;0;2.0;5.0;Vessel
+2.0;E;0;2.0;5.0;Vessel
+2.0;F;0;2.0;5.0;Vessel
+2.0;G;0;2.0;5.0;Vessel
+2.0;H;0;2.0;5.0;Vessel
+2.0;I;0;2.0;5.0;Vessel
+2.0;J;0;2.0;5.0;Vessel
+2.0;K;0;2.0;5.0;Vessel
+2.0;L;0;2.0;5.0;Vessel
+2.0;M;0;2.0;5.0;Vessel
+1.0;A;0;1.0;5.0;Vessel
+1.0;B;0;1.0;5.0;Vessel
+1.0;C;0;1.0;5.0;Vessel
+1.0;D;0;1.0;5.0;Vessel
+1.0;E;0;1.0;5.0;Vessel
+1.0;F;0;1.0;5.0;Vessel
+1.0;G;0;1.0;5.0;Vessel
+1.0;H;0;1.0;5.0;Vessel
+1.0;I;0;1.0;5.0;Vessel
+1.0;J;0;1.0;5.0;Vessel
+1.0;K;0;1.0;5.0;Vessel
+1.0;L;0;1.0;5.0;Vessel
+1.0;M;0;1.0;5.0;Vessel
+1.0;A;0;2.0;5.0;Vessel
+1.0;B;0;2.0;5.0;Vessel
+1.0;C;0;2.0;5.0;Vessel
+1.0;D;0;2.0;5.0;Vessel
+1.0;E;0;2.0;5.0;Vessel
+1.0;F;0;2.0;5.0;Vessel
+1.0;G;0;2.0;5.0;Vessel
+1.0;H;0;2.0;5.0;Barge
 1.0;I;0;2.0;5.0;Barge
 1.0;J;0;2.0;5.0;Barge
 1.0;K;0;2.0;5.0;Barge
@@ -1902,6 +1644,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;5.0;Barge
 2.0;F;0;1.0;5.0;Barge
 2.0;G;0;1.0;5.0;Barge
+2.0;H;0;1.0;5.0;Barge
 2.0;I;0;1.0;5.0;Barge
 2.0;J;0;1.0;5.0;Barge
 2.0;K;0;1.0;5.0;Barge
@@ -1914,114 +1657,176 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;5.0;Barge
 2.0;F;0;2.0;5.0;Barge
 2.0;G;0;2.0;5.0;Barge
+2.0;H;0;2.0;5.0;Barge
 2.0;I;0;2.0;5.0;Barge
 2.0;J;0;2.0;5.0;Barge
 2.0;K;0;2.0;5.0;Barge
 2.0;L;0;2.0;5.0;Barge
 2.0;M;0;2.0;5.0;Barge
-1.0;A;0;1.0;6.0;Carrier
-1.0;B;0;1.0;6.0;Carrier
-1.0;C;0;1.0;6.0;Carrier
-1.0;D;0;1.0;6.0;Carrier
-1.0;E;0;1.0;6.0;Carrier
-1.0;F;0;1.0;6.0;Carrier
-1.0;G;0;1.0;6.0;Carrier
-1.0;I;0;1.0;6.0;Carrier
-1.0;J;0;1.0;6.0;Carrier
-1.0;K;0;1.0;6.0;Carrier
-1.0;L;0;1.0;6.0;Carrier
-1.0;M;0;1.0;6.0;Carrier
-1.0;A;0;2.0;6.0;Carrier
-1.0;B;0;2.0;6.0;Carrier
-1.0;C;0;2.0;6.0;Carrier
-1.0;D;0;2.0;6.0;Carrier
-1.0;E;0;2.0;6.0;Carrier
-1.0;F;0;2.0;6.0;Carrier
-1.0;G;0;2.0;6.0;Carrier
-1.0;I;0;2.0;6.0;Carrier
-1.0;J;0;2.0;6.0;Carrier
-1.0;K;0;2.0;6.0;Carrier
-1.0;L;0;2.0;6.0;Carrier
-1.0;M;0;2.0;6.0;Carrier
-2.0;A;0;1.0;6.0;Carrier
-2.0;B;1;1.0;6.0;Carrier
-2.0;C;1;1.0;6.0;Carrier
-2.0;D;1;1.0;6.0;Carrier
-2.0;E;1;1.0;6.0;Carrier
-2.0;F;0;1.0;6.0;Carrier
-2.0;G;0;1.0;6.0;Carrier
-2.0;I;1;1.0;6.0;Carrier
-2.0;J;1;1.0;6.0;Carrier
-2.0;K;0;1.0;6.0;Carrier
-2.0;L;0;1.0;6.0;Carrier
-2.0;M;0;1.0;6.0;Carrier
-2.0;A;1;2.0;6.0;Carrier
-2.0;B;0;2.0;6.0;Carrier
-2.0;C;1;2.0;6.0;Carrier
-2.0;D;0;2.0;6.0;Carrier
-2.0;E;1;2.0;6.0;Carrier
-2.0;F;0;2.0;6.0;Carrier
-2.0;G;0;2.0;6.0;Carrier
-2.0;I;0;2.0;6.0;Carrier
-2.0;J;0;2.0;6.0;Carrier
-2.0;K;0;2.0;6.0;Carrier
-2.0;L;1;2.0;6.0;Carrier
-2.0;M;0;2.0;6.0;Carrier
-1.0;A;0;1.0;6.0;Tanker
-1.0;B;0;1.0;6.0;Tanker
-1.0;C;0;1.0;6.0;Tanker
-1.0;D;0;1.0;6.0;Tanker
-1.0;E;0;1.0;6.0;Tanker
-1.0;F;0;1.0;6.0;Tanker
-1.0;G;0;1.0;6.0;Tanker
-1.0;I;0;1.0;6.0;Tanker
-1.0;J;0;1.0;6.0;Tanker
-1.0;K;0;1.0;6.0;Tanker
-1.0;L;0;1.0;6.0;Tanker
-1.0;M;0;1.0;6.0;Tanker
-1.0;A;0;2.0;6.0;Tanker
-1.0;B;0;2.0;6.0;Tanker
-1.0;C;0;2.0;6.0;Tanker
-1.0;D;0;2.0;6.0;Tanker
-1.0;E;0;2.0;6.0;Tanker
-1.0;F;0;2.0;6.0;Tanker
-1.0;G;0;2.0;6.0;Tanker
-1.0;I;0;2.0;6.0;Tanker
-1.0;J;0;2.0;6.0;Tanker
-1.0;K;0;2.0;6.0;Tanker
-1.0;L;0;2.0;6.0;Tanker
-1.0;M;0;2.0;6.0;Tanker
-2.0;A;0;1.0;6.0;Tanker
-2.0;B;0;1.0;6.0;Tanker
-2.0;C;5;1.0;6.0;Tanker
-2.0;D;6;1.0;6.0;Tanker
-2.0;E;0;1.0;6.0;Tanker
-2.0;F;0;1.0;6.0;Tanker
-2.0;G;0;1.0;6.0;Tanker
-2.0;I;1;1.0;6.0;Tanker
-2.0;J;2;1.0;6.0;Tanker
-2.0;K;0;1.0;6.0;Tanker
-2.0;L;0;1.0;6.0;Tanker
-2.0;M;0;1.0;6.0;Tanker
-2.0;A;0;2.0;6.0;Tanker
-2.0;B;0;2.0;6.0;Tanker
-2.0;C;3;2.0;6.0;Tanker
-2.0;D;2;2.0;6.0;Tanker
-2.0;E;0;2.0;6.0;Tanker
-2.0;F;0;2.0;6.0;Tanker
-2.0;G;0;2.0;6.0;Tanker
-2.0;I;1;2.0;6.0;Tanker
-2.0;J;2;2.0;6.0;Tanker
-2.0;K;0;2.0;6.0;Tanker
-2.0;L;0;2.0;6.0;Tanker
-2.0;M;0;2.0;6.0;Tanker
-1.0;A;0;1.0;6.0;Other
-1.0;B;0;1.0;6.0;Other
-1.0;C;0;1.0;6.0;Other
-1.0;D;0;1.0;6.0;Other
+1.0;A;0;1.0;5.0;Barge
+1.0;B;0;1.0;5.0;Barge
+1.0;C;0;1.0;5.0;Barge
+1.0;D;0;1.0;5.0;Barge
+1.0;E;0;1.0;5.0;Barge
+1.0;F;0;1.0;5.0;Barge
+1.0;G;0;1.0;5.0;Barge
+1.0;H;0;1.0;5.0;Barge
+1.0;I;0;1.0;5.0;Barge
+1.0;J;0;1.0;5.0;Barge
+1.0;K;0;1.0;5.0;Barge
+1.0;L;0;1.0;5.0;Barge
+1.0;M;0;1.0;5.0;Barge
+1.0;A;0;2.0;5.0;Barge
+1.0;B;0;2.0;5.0;Barge
+1.0;C;0;2.0;5.0;Barge
+1.0;D;0;2.0;5.0;Vehicle Carrier
+1.0;E;0;2.0;5.0;Vehicle Carrier
+1.0;F;0;2.0;5.0;Vehicle Carrier
+1.0;G;0;2.0;5.0;Vehicle Carrier
+1.0;H;0;2.0;5.0;Vehicle Carrier
+1.0;I;0;2.0;5.0;Vehicle Carrier
+1.0;J;0;2.0;5.0;Vehicle Carrier
+1.0;K;0;2.0;5.0;Vehicle Carrier
+1.0;L;0;2.0;5.0;Vehicle Carrier
+1.0;M;0;2.0;5.0;Vehicle Carrier
+2.0;A;0;1.0;5.0;Vehicle Carrier
+2.0;B;0;1.0;5.0;Vehicle Carrier
+2.0;C;0;1.0;5.0;Vehicle Carrier
+2.0;D;0;1.0;5.0;Vehicle Carrier
+2.0;E;1;1.0;5.0;Vehicle Carrier
+2.0;F;0;1.0;5.0;Vehicle Carrier
+2.0;G;0;1.0;5.0;Vehicle Carrier
+2.0;H;0;1.0;5.0;Vehicle Carrier
+2.0;I;4;1.0;5.0;Vehicle Carrier
+2.0;J;1;1.0;5.0;Vehicle Carrier
+2.0;K;2;1.0;5.0;Vehicle Carrier
+2.0;L;0;1.0;5.0;Vehicle Carrier
+2.0;M;0;1.0;5.0;Vehicle Carrier
+2.0;A;0;2.0;5.0;Vehicle Carrier
+2.0;B;1;2.0;5.0;Vehicle Carrier
+2.0;C;2;2.0;5.0;Vehicle Carrier
+2.0;D;1;2.0;5.0;Vehicle Carrier
+2.0;E;1;2.0;5.0;Vehicle Carrier
+2.0;F;0;2.0;5.0;Vehicle Carrier
+2.0;G;1;2.0;5.0;Vehicle Carrier
+2.0;H;0;2.0;5.0;Vehicle Carrier
+2.0;I;8;2.0;5.0;Vehicle Carrier
+2.0;J;0;2.0;5.0;Vehicle Carrier
+2.0;K;1;2.0;5.0;Vehicle Carrier
+2.0;L;0;2.0;5.0;Vehicle Carrier
+2.0;M;0;2.0;5.0;Vehicle Carrier
+1.0;A;0;1.0;5.0;Vehicle Carrier
+1.0;B;0;1.0;5.0;Vehicle Carrier
+1.0;C;0;1.0;5.0;Vehicle Carrier
+1.0;D;0;1.0;5.0;Vehicle Carrier
+1.0;E;0;1.0;5.0;Vehicle Carrier
+1.0;F;0;1.0;5.0;Vehicle Carrier
+1.0;G;0;1.0;5.0;Vehicle Carrier
+1.0;H;0;1.0;5.0;Vehicle Carrier
+1.0;I;0;1.0;5.0;Vehicle Carrier
+1.0;J;0;1.0;5.0;Vehicle Carrier
+1.0;K;0;1.0;5.0;Vehicle Carrier
+1.0;L;0;1.0;5.0;Vehicle Carrier
+1.0;M;0;1.0;5.0;Tanker
+1.0;A;0;2.0;5.0;Tanker
+1.0;B;0;2.0;5.0;Tanker
+1.0;C;0;2.0;5.0;Tanker
+1.0;D;0;2.0;5.0;Tanker
+1.0;E;0;2.0;5.0;Tanker
+1.0;F;0;2.0;5.0;Tanker
+1.0;G;0;2.0;5.0;Tanker
+1.0;H;0;2.0;5.0;Tanker
+1.0;I;0;2.0;5.0;Tanker
+1.0;J;0;2.0;5.0;Tanker
+1.0;K;0;2.0;5.0;Tanker
+1.0;L;0;2.0;5.0;Tanker
+1.0;M;0;2.0;5.0;Tanker
+2.0;A;0;1.0;5.0;Tanker
+2.0;B;0;1.0;5.0;Tanker
+2.0;C;1;1.0;5.0;Tanker
+2.0;D;1;1.0;5.0;Tanker
+2.0;E;0;1.0;5.0;Tanker
+2.0;F;1;1.0;5.0;Tanker
+2.0;G;0;1.0;5.0;Tanker
+2.0;H;1;1.0;5.0;Tanker
+2.0;I;2;1.0;5.0;Tanker
+2.0;J;0;1.0;5.0;Tanker
+2.0;K;0;1.0;5.0;Tanker
+2.0;L;2;1.0;5.0;Tanker
+2.0;M;0;1.0;5.0;Tanker
+2.0;A;0;2.0;5.0;Tanker
+2.0;B;1;2.0;5.0;Tanker
+2.0;C;2;2.0;5.0;Tanker
+2.0;D;1;2.0;5.0;Tanker
+2.0;E;0;2.0;5.0;Tanker
+2.0;F;0;2.0;5.0;Tanker
+2.0;G;1;2.0;5.0;Tanker
+2.0;H;0;2.0;5.0;Tanker
+2.0;I;5;2.0;5.0;Tanker
+2.0;J;0;2.0;5.0;Tanker
+2.0;K;2;2.0;5.0;Tanker
+2.0;L;1;2.0;5.0;Tanker
+2.0;M;0;2.0;5.0;Tanker
+1.0;A;0;1.0;5.0;Tanker
+1.0;B;0;1.0;5.0;Tanker
+1.0;C;0;1.0;5.0;Tanker
+1.0;D;0;1.0;5.0;Tanker
+1.0;E;0;1.0;5.0;Tanker
+1.0;F;0;1.0;5.0;Tanker
+1.0;G;0;1.0;5.0;Tanker
+1.0;H;0;1.0;5.0;Tanker
+1.0;I;0;1.0;5.0;Offshore Exploitation
+1.0;J;0;1.0;5.0;Offshore Exploitation
+1.0;K;0;1.0;5.0;Offshore Exploitation
+1.0;L;0;1.0;5.0;Offshore Exploitation
+1.0;M;0;1.0;5.0;Offshore Exploitation
+1.0;A;0;2.0;5.0;Offshore Exploitation
+1.0;B;0;2.0;5.0;Offshore Exploitation
+1.0;C;0;2.0;5.0;Offshore Exploitation
+1.0;D;0;2.0;5.0;Offshore Exploitation
+1.0;E;0;2.0;5.0;Offshore Exploitation
+1.0;F;0;2.0;5.0;Offshore Exploitation
+1.0;G;0;2.0;5.0;Offshore Exploitation
+1.0;H;0;2.0;5.0;Offshore Exploitation
+1.0;I;0;2.0;5.0;Offshore Exploitation
+1.0;J;0;2.0;5.0;Offshore Exploitation
+1.0;K;0;2.0;5.0;Offshore Exploitation
+1.0;L;0;2.0;5.0;Offshore Exploitation
+1.0;M;0;2.0;5.0;Offshore Exploitation
+2.0;A;0;1.0;5.0;Offshore Exploitation
+2.0;B;0;1.0;5.0;Offshore Exploitation
+2.0;C;0;1.0;5.0;Offshore Exploitation
+2.0;D;0;1.0;5.0;Offshore Exploitation
+2.0;E;0;1.0;5.0;Offshore Exploitation
+2.0;F;0;1.0;5.0;Offshore Exploitation
+2.0;G;0;1.0;5.0;Offshore Exploitation
+2.0;H;0;1.0;5.0;Offshore Exploitation
+2.0;I;0;1.0;5.0;Offshore Exploitation
+2.0;J;0;1.0;5.0;Offshore Exploitation
+2.0;K;0;1.0;5.0;Offshore Exploitation
+2.0;L;0;1.0;5.0;Offshore Exploitation
+2.0;M;0;1.0;5.0;Offshore Exploitation
+2.0;A;0;2.0;5.0;Offshore Exploitation
+2.0;B;0;2.0;5.0;Offshore Exploitation
+2.0;C;0;2.0;5.0;Offshore Exploitation
+2.0;D;0;2.0;5.0;Offshore Exploitation
+2.0;E;0;2.0;5.0;Offshore Exploitation
+2.0;F;0;2.0;5.0;Offshore Exploitation
+2.0;G;0;2.0;5.0;Offshore Exploitation
+2.0;H;0;2.0;5.0;Offshore Exploitation
+2.0;I;0;2.0;5.0;Offshore Exploitation
+2.0;J;0;2.0;5.0;Offshore Exploitation
+2.0;K;0;2.0;5.0;Offshore Exploitation
+2.0;L;0;2.0;5.0;Offshore Exploitation
+2.0;M;0;2.0;5.0;Offshore Exploitation
+1.0;A;0;1.0;6.0;Offshore Exploitation
+1.0;B;0;1.0;6.0;Offshore Exploitation
+1.0;C;0;1.0;6.0;Offshore Exploitation
+1.0;D;0;1.0;6.0;Offshore Exploitation
 1.0;E;0;1.0;6.0;Other
 1.0;F;0;1.0;6.0;Other
 1.0;G;0;1.0;6.0;Other
+1.0;H;0;1.0;6.0;Other
 1.0;I;0;1.0;6.0;Other
 1.0;J;0;1.0;6.0;Other
 1.0;K;0;1.0;6.0;Other
@@ -2034,6 +1839,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;6.0;Other
 1.0;F;0;2.0;6.0;Other
 1.0;G;0;2.0;6.0;Other
+1.0;H;0;2.0;6.0;Other
 1.0;I;0;2.0;6.0;Other
 1.0;J;0;2.0;6.0;Other
 1.0;K;0;2.0;6.0;Other
@@ -2046,6 +1852,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;6.0;Other
 2.0;F;0;1.0;6.0;Other
 2.0;G;0;1.0;6.0;Other
+2.0;H;0;1.0;6.0;Other
 2.0;I;0;1.0;6.0;Other
 2.0;J;1;1.0;6.0;Other
 2.0;K;0;1.0;6.0;Other
@@ -2058,155 +1865,12 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;6.0;Other
 2.0;F;0;2.0;6.0;Other
 2.0;G;0;2.0;6.0;Other
+2.0;H;0;2.0;6.0;Other
 2.0;I;0;2.0;6.0;Other
 2.0;J;0;2.0;6.0;Other
 2.0;K;0;2.0;6.0;Other
 2.0;L;0;2.0;6.0;Other
 2.0;M;0;2.0;6.0;Other
-1.0;A;0;1.0;6.0;Cargo
-1.0;B;0;1.0;6.0;Cargo
-1.0;C;0;1.0;6.0;Cargo
-1.0;D;0;1.0;6.0;Cargo
-1.0;E;0;1.0;6.0;Cargo
-1.0;F;0;1.0;6.0;Cargo
-1.0;G;0;1.0;6.0;Cargo
-1.0;I;0;1.0;6.0;Cargo
-1.0;J;0;1.0;6.0;Cargo
-1.0;K;0;1.0;6.0;Cargo
-1.0;L;0;1.0;6.0;Cargo
-1.0;M;0;1.0;6.0;Cargo
-1.0;A;0;2.0;6.0;Cargo
-1.0;B;0;2.0;6.0;Cargo
-1.0;C;0;2.0;6.0;Cargo
-1.0;D;0;2.0;6.0;Cargo
-1.0;E;0;2.0;6.0;Cargo
-1.0;F;0;2.0;6.0;Cargo
-1.0;G;0;2.0;6.0;Cargo
-1.0;I;0;2.0;6.0;Cargo
-1.0;J;0;2.0;6.0;Cargo
-1.0;K;0;2.0;6.0;Cargo
-1.0;L;0;2.0;6.0;Cargo
-1.0;M;0;2.0;6.0;Cargo
-2.0;A;0;1.0;6.0;Cargo
-2.0;B;0;1.0;6.0;Cargo
-2.0;C;1;1.0;6.0;Cargo
-2.0;D;0;1.0;6.0;Cargo
-2.0;E;0;1.0;6.0;Cargo
-2.0;F;0;1.0;6.0;Cargo
-2.0;G;0;1.0;6.0;Cargo
-2.0;I;0;1.0;6.0;Cargo
-2.0;J;1;1.0;6.0;Cargo
-2.0;K;0;1.0;6.0;Cargo
-2.0;L;0;1.0;6.0;Cargo
-2.0;M;0;1.0;6.0;Cargo
-2.0;A;0;2.0;6.0;Cargo
-2.0;B;0;2.0;6.0;Cargo
-2.0;C;2;2.0;6.0;Cargo
-2.0;D;0;2.0;6.0;Cargo
-2.0;E;0;2.0;6.0;Cargo
-2.0;F;0;2.0;6.0;Cargo
-2.0;G;0;2.0;6.0;Cargo
-2.0;I;1;2.0;6.0;Cargo
-2.0;J;1;2.0;6.0;Cargo
-2.0;K;0;2.0;6.0;Cargo
-2.0;L;0;2.0;6.0;Cargo
-2.0;M;0;2.0;6.0;Cargo
-1.0;A;0;1.0;6.0;Ro-Ro
-1.0;B;0;1.0;6.0;Ro-Ro
-1.0;C;0;1.0;6.0;Ro-Ro
-1.0;D;0;1.0;6.0;Ro-Ro
-1.0;E;0;1.0;6.0;Ro-Ro
-1.0;F;0;1.0;6.0;Ro-Ro
-1.0;G;0;1.0;6.0;Ro-Ro
-1.0;I;0;1.0;6.0;Ro-Ro
-1.0;J;0;1.0;6.0;Ro-Ro
-1.0;K;0;1.0;6.0;Ro-Ro
-1.0;L;0;1.0;6.0;Ro-Ro
-1.0;M;0;1.0;6.0;Ro-Ro
-1.0;A;0;2.0;6.0;Ro-Ro
-1.0;B;0;2.0;6.0;Ro-Ro
-1.0;C;0;2.0;6.0;Ro-Ro
-1.0;D;0;2.0;6.0;Ro-Ro
-1.0;E;0;2.0;6.0;Ro-Ro
-1.0;F;0;2.0;6.0;Ro-Ro
-1.0;G;0;2.0;6.0;Ro-Ro
-1.0;I;0;2.0;6.0;Ro-Ro
-1.0;J;0;2.0;6.0;Ro-Ro
-1.0;K;0;2.0;6.0;Ro-Ro
-1.0;L;0;2.0;6.0;Ro-Ro
-1.0;M;0;2.0;6.0;Ro-Ro
-2.0;A;0;1.0;6.0;Ro-Ro
-2.0;B;0;1.0;6.0;Ro-Ro
-2.0;C;0;1.0;6.0;Ro-Ro
-2.0;D;0;1.0;6.0;Ro-Ro
-2.0;E;0;1.0;6.0;Ro-Ro
-2.0;F;0;1.0;6.0;Ro-Ro
-2.0;G;0;1.0;6.0;Ro-Ro
-2.0;I;0;1.0;6.0;Ro-Ro
-2.0;J;0;1.0;6.0;Ro-Ro
-2.0;K;0;1.0;6.0;Ro-Ro
-2.0;L;0;1.0;6.0;Ro-Ro
-2.0;M;0;1.0;6.0;Ro-Ro
-2.0;A;0;2.0;6.0;Ro-Ro
-2.0;B;0;2.0;6.0;Ro-Ro
-2.0;C;0;2.0;6.0;Ro-Ro
-2.0;D;0;2.0;6.0;Ro-Ro
-2.0;E;0;2.0;6.0;Ro-Ro
-2.0;F;0;2.0;6.0;Ro-Ro
-2.0;G;0;2.0;6.0;Ro-Ro
-2.0;I;0;2.0;6.0;Ro-Ro
-2.0;J;0;2.0;6.0;Ro-Ro
-2.0;K;0;2.0;6.0;Ro-Ro
-2.0;L;0;2.0;6.0;Ro-Ro
-2.0;M;0;2.0;6.0;Ro-Ro
-1.0;A;0;1.0;6.0;Vessel
-1.0;B;0;1.0;6.0;Vessel
-1.0;C;0;1.0;6.0;Vessel
-1.0;D;0;1.0;6.0;Vessel
-1.0;E;0;1.0;6.0;Vessel
-1.0;F;0;1.0;6.0;Vessel
-1.0;G;0;1.0;6.0;Vessel
-1.0;I;0;1.0;6.0;Vessel
-1.0;J;0;1.0;6.0;Vessel
-1.0;K;0;1.0;6.0;Vessel
-1.0;L;0;1.0;6.0;Vessel
-1.0;M;0;1.0;6.0;Vessel
-1.0;A;0;2.0;6.0;Vessel
-1.0;B;0;2.0;6.0;Vessel
-1.0;C;0;2.0;6.0;Vessel
-1.0;D;0;2.0;6.0;Vessel
-1.0;E;0;2.0;6.0;Vessel
-1.0;F;0;2.0;6.0;Vessel
-1.0;G;0;2.0;6.0;Vessel
-1.0;I;0;2.0;6.0;Vessel
-1.0;J;0;2.0;6.0;Vessel
-1.0;K;0;2.0;6.0;Vessel
-1.0;L;0;2.0;6.0;Vessel
-1.0;M;0;2.0;6.0;Vessel
-2.0;A;0;1.0;6.0;Vessel
-2.0;B;0;1.0;6.0;Vessel
-2.0;C;0;1.0;6.0;Vessel
-2.0;D;0;1.0;6.0;Vessel
-2.0;E;0;1.0;6.0;Vessel
-2.0;F;0;1.0;6.0;Vessel
-2.0;G;0;1.0;6.0;Vessel
-2.0;I;0;1.0;6.0;Vessel
-2.0;J;0;1.0;6.0;Vessel
-2.0;K;0;1.0;6.0;Vessel
-2.0;L;0;1.0;6.0;Vessel
-2.0;M;0;1.0;6.0;Vessel
-2.0;A;0;2.0;6.0;Vessel
-2.0;B;0;2.0;6.0;Vessel
-2.0;C;0;2.0;6.0;Vessel
-2.0;D;0;2.0;6.0;Vessel
-2.0;E;0;2.0;6.0;Vessel
-2.0;F;0;2.0;6.0;Vessel
-2.0;G;0;2.0;6.0;Vessel
-2.0;I;0;2.0;6.0;Vessel
-2.0;J;0;2.0;6.0;Vessel
-2.0;K;0;2.0;6.0;Vessel
-2.0;L;0;2.0;6.0;Vessel
-2.0;M;0;2.0;6.0;Vessel
 1.0;A;0;1.0;6.0;Tug
 1.0;B;0;1.0;6.0;Tug
 1.0;C;0;1.0;6.0;Tug
@@ -2214,6 +1878,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;6.0;Tug
 1.0;F;0;1.0;6.0;Tug
 1.0;G;0;1.0;6.0;Tug
+1.0;H;0;1.0;6.0;Tug
 1.0;I;0;1.0;6.0;Tug
 1.0;J;0;1.0;6.0;Tug
 1.0;K;0;1.0;6.0;Tug
@@ -2226,6 +1891,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;6.0;Tug
 1.0;F;0;2.0;6.0;Tug
 1.0;G;0;2.0;6.0;Tug
+1.0;H;0;2.0;6.0;Tug
 1.0;I;0;2.0;6.0;Tug
 1.0;J;0;2.0;6.0;Tug
 1.0;K;0;2.0;6.0;Tug
@@ -2238,6 +1904,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;6.0;Tug
 2.0;F;0;1.0;6.0;Tug
 2.0;G;0;1.0;6.0;Tug
+2.0;H;0;1.0;6.0;Tug
 2.0;I;0;1.0;6.0;Tug
 2.0;J;0;1.0;6.0;Tug
 2.0;K;0;1.0;6.0;Tug
@@ -2250,11 +1917,64 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;6.0;Tug
 2.0;F;0;2.0;6.0;Tug
 2.0;G;0;2.0;6.0;Tug
+2.0;H;0;2.0;6.0;Tug
 2.0;I;0;2.0;6.0;Tug
-2.0;J;0;2.0;6.0;Tug
-2.0;K;0;2.0;6.0;Tug
-2.0;L;0;2.0;6.0;Tug
-2.0;M;0;2.0;6.0;Tug
+2.0;J;0;2.0;6.0;Vessel
+2.0;K;0;2.0;6.0;Vessel
+2.0;L;0;2.0;6.0;Vessel
+2.0;M;0;2.0;6.0;Vessel
+1.0;A;0;1.0;6.0;Vessel
+1.0;B;0;1.0;6.0;Vessel
+1.0;C;0;1.0;6.0;Vessel
+1.0;D;0;1.0;6.0;Vessel
+1.0;E;0;1.0;6.0;Vessel
+1.0;F;0;1.0;6.0;Vessel
+1.0;G;0;1.0;6.0;Vessel
+1.0;H;0;1.0;6.0;Vessel
+1.0;I;0;1.0;6.0;Vessel
+1.0;J;0;1.0;6.0;Vessel
+1.0;K;0;1.0;6.0;Vessel
+1.0;L;0;1.0;6.0;Vessel
+1.0;M;0;1.0;6.0;Vessel
+1.0;A;0;2.0;6.0;Vessel
+1.0;B;0;2.0;6.0;Vessel
+1.0;C;0;2.0;6.0;Vessel
+1.0;D;0;2.0;6.0;Vessel
+1.0;E;0;2.0;6.0;Vessel
+1.0;F;0;2.0;6.0;Vessel
+1.0;G;0;2.0;6.0;Vessel
+1.0;H;0;2.0;6.0;Vessel
+1.0;I;0;2.0;6.0;Vessel
+1.0;J;0;2.0;6.0;Vessel
+1.0;K;0;2.0;6.0;Vessel
+1.0;L;0;2.0;6.0;Vessel
+1.0;M;0;2.0;6.0;Vessel
+2.0;A;0;1.0;6.0;Vessel
+2.0;B;0;1.0;6.0;Vessel
+2.0;C;0;1.0;6.0;Vessel
+2.0;D;0;1.0;6.0;Vessel
+2.0;E;0;1.0;6.0;Vessel
+2.0;F;0;1.0;6.0;Vessel
+2.0;G;0;1.0;6.0;Vessel
+2.0;H;0;1.0;6.0;Vessel
+2.0;I;0;1.0;6.0;Vessel
+2.0;J;0;1.0;6.0;Vessel
+2.0;K;0;1.0;6.0;Vessel
+2.0;L;0;1.0;6.0;Vessel
+2.0;M;0;1.0;6.0;Vessel
+2.0;A;0;2.0;6.0;Vessel
+2.0;B;0;2.0;6.0;Vessel
+2.0;C;0;2.0;6.0;Vessel
+2.0;D;0;2.0;6.0;Vessel
+2.0;E;0;2.0;6.0;Vessel
+2.0;F;0;2.0;6.0;Barge
+2.0;G;0;2.0;6.0;Barge
+2.0;H;0;2.0;6.0;Barge
+2.0;I;0;2.0;6.0;Barge
+2.0;J;0;2.0;6.0;Barge
+2.0;K;0;2.0;6.0;Barge
+2.0;L;0;2.0;6.0;Barge
+2.0;M;0;2.0;6.0;Barge
 1.0;A;0;1.0;6.0;Barge
 1.0;B;0;1.0;6.0;Barge
 1.0;C;0;1.0;6.0;Barge
@@ -2262,6 +1982,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;6.0;Barge
 1.0;F;0;1.0;6.0;Barge
 1.0;G;0;1.0;6.0;Barge
+1.0;H;0;1.0;6.0;Barge
 1.0;I;0;1.0;6.0;Barge
 1.0;J;0;1.0;6.0;Barge
 1.0;K;0;1.0;6.0;Barge
@@ -2274,6 +1995,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;6.0;Barge
 1.0;F;0;2.0;6.0;Barge
 1.0;G;0;2.0;6.0;Barge
+1.0;H;0;2.0;6.0;Barge
 1.0;I;0;2.0;6.0;Barge
 1.0;J;0;2.0;6.0;Barge
 1.0;K;0;2.0;6.0;Barge
@@ -2286,119 +2008,181 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;6.0;Barge
 2.0;F;0;1.0;6.0;Barge
 2.0;G;0;1.0;6.0;Barge
+2.0;H;0;1.0;6.0;Barge
 2.0;I;0;1.0;6.0;Barge
 2.0;J;0;1.0;6.0;Barge
 2.0;K;0;1.0;6.0;Barge
 2.0;L;0;1.0;6.0;Barge
 2.0;M;0;1.0;6.0;Barge
 2.0;A;0;2.0;6.0;Barge
-2.0;B;0;2.0;6.0;Barge
-2.0;C;0;2.0;6.0;Barge
-2.0;D;0;2.0;6.0;Barge
-2.0;E;0;2.0;6.0;Barge
-2.0;F;0;2.0;6.0;Barge
-2.0;G;0;2.0;6.0;Barge
-2.0;I;0;2.0;6.0;Barge
-2.0;J;0;2.0;6.0;Barge
-2.0;K;0;2.0;6.0;Barge
-2.0;L;0;2.0;6.0;Barge
-2.0;M;0;2.0;6.0;Barge
-1.0;A;0;1.0;7.0;Carrier
-1.0;B;0;1.0;7.0;Carrier
-1.0;C;0;1.0;7.0;Carrier
-1.0;D;0;1.0;7.0;Carrier
-1.0;E;0;1.0;7.0;Carrier
-1.0;F;0;1.0;7.0;Carrier
-1.0;G;0;1.0;7.0;Carrier
-1.0;I;0;1.0;7.0;Carrier
-1.0;J;0;1.0;7.0;Carrier
-1.0;K;0;1.0;7.0;Carrier
-1.0;L;0;1.0;7.0;Carrier
-1.0;M;0;1.0;7.0;Carrier
-1.0;A;0;2.0;7.0;Carrier
-1.0;B;0;2.0;7.0;Carrier
-1.0;C;0;2.0;7.0;Carrier
-1.0;D;0;2.0;7.0;Carrier
-1.0;E;0;2.0;7.0;Carrier
-1.0;F;0;2.0;7.0;Carrier
-1.0;G;0;2.0;7.0;Carrier
-1.0;I;0;2.0;7.0;Carrier
-1.0;J;0;2.0;7.0;Carrier
-1.0;K;0;2.0;7.0;Carrier
-1.0;L;0;2.0;7.0;Carrier
-1.0;M;0;2.0;7.0;Carrier
-2.0;A;1;1.0;7.0;Carrier
-2.0;B;0;1.0;7.0;Carrier
-2.0;C;1;1.0;7.0;Carrier
-2.0;D;1;1.0;7.0;Carrier
-2.0;E;0;1.0;7.0;Carrier
-2.0;F;0;1.0;7.0;Carrier
-2.0;G;0;1.0;7.0;Carrier
-2.0;I;0;1.0;7.0;Carrier
-2.0;J;0;1.0;7.0;Carrier
-2.0;K;1;1.0;7.0;Carrier
-2.0;L;0;1.0;7.0;Carrier
-2.0;M;0;1.0;7.0;Carrier
-2.0;A;0;2.0;7.0;Carrier
-2.0;B;1;2.0;7.0;Carrier
-2.0;C;1;2.0;7.0;Carrier
-2.0;D;0;2.0;7.0;Carrier
-2.0;E;0;2.0;7.0;Carrier
-2.0;F;0;2.0;7.0;Carrier
-2.0;G;0;2.0;7.0;Carrier
-2.0;I;0;2.0;7.0;Carrier
-2.0;J;2;2.0;7.0;Carrier
-2.0;K;0;2.0;7.0;Carrier
-2.0;L;0;2.0;7.0;Carrier
-2.0;M;0;2.0;7.0;Carrier
-1.0;A;0;1.0;7.0;Tanker
-1.0;B;0;1.0;7.0;Tanker
-1.0;C;0;1.0;7.0;Tanker
-1.0;D;0;1.0;7.0;Tanker
-1.0;E;0;1.0;7.0;Tanker
-1.0;F;0;1.0;7.0;Tanker
-1.0;G;0;1.0;7.0;Tanker
-1.0;I;0;1.0;7.0;Tanker
-1.0;J;0;1.0;7.0;Tanker
-1.0;K;0;1.0;7.0;Tanker
-1.0;L;0;1.0;7.0;Tanker
-1.0;M;0;1.0;7.0;Tanker
-1.0;A;0;2.0;7.0;Tanker
-1.0;B;0;2.0;7.0;Tanker
-1.0;C;0;2.0;7.0;Tanker
-1.0;D;0;2.0;7.0;Tanker
-1.0;E;0;2.0;7.0;Tanker
-1.0;F;0;2.0;7.0;Tanker
-1.0;G;0;2.0;7.0;Tanker
-1.0;I;0;2.0;7.0;Tanker
-1.0;J;0;2.0;7.0;Tanker
-1.0;K;0;2.0;7.0;Tanker
-1.0;L;0;2.0;7.0;Tanker
-1.0;M;0;2.0;7.0;Tanker
-2.0;A;1;1.0;7.0;Tanker
-2.0;B;0;1.0;7.0;Tanker
-2.0;C;1;1.0;7.0;Tanker
-2.0;D;1;1.0;7.0;Tanker
-2.0;E;1;1.0;7.0;Tanker
-2.0;F;1;1.0;7.0;Tanker
-2.0;G;0;1.0;7.0;Tanker
-2.0;I;0;1.0;7.0;Tanker
-2.0;J;0;1.0;7.0;Tanker
-2.0;K;0;1.0;7.0;Tanker
-2.0;L;0;1.0;7.0;Tanker
-2.0;M;0;1.0;7.0;Tanker
-2.0;A;0;2.0;7.0;Tanker
-2.0;B;1;2.0;7.0;Tanker
-2.0;C;5;2.0;7.0;Tanker
-2.0;D;0;2.0;7.0;Tanker
-2.0;E;0;2.0;7.0;Tanker
-2.0;F;0;2.0;7.0;Tanker
-2.0;G;0;2.0;7.0;Tanker
-2.0;I;1;2.0;7.0;Tanker
-2.0;J;0;2.0;7.0;Tanker
-2.0;K;1;2.0;7.0;Tanker
-2.0;L;0;2.0;7.0;Tanker
-2.0;M;0;2.0;7.0;Tanker
+2.0;B;0;2.0;6.0;Vehicle Carrier
+2.0;C;3;2.0;6.0;Vehicle Carrier
+2.0;D;0;2.0;6.0;Vehicle Carrier
+2.0;E;1;2.0;6.0;Vehicle Carrier
+2.0;F;0;2.0;6.0;Vehicle Carrier
+2.0;G;0;2.0;6.0;Vehicle Carrier
+2.0;H;0;2.0;6.0;Vehicle Carrier
+2.0;I;1;2.0;6.0;Vehicle Carrier
+2.0;J;1;2.0;6.0;Vehicle Carrier
+2.0;K;0;2.0;6.0;Vehicle Carrier
+2.0;L;1;2.0;6.0;Vehicle Carrier
+2.0;M;0;2.0;6.0;Vehicle Carrier
+1.0;A;0;1.0;6.0;Vehicle Carrier
+1.0;B;0;1.0;6.0;Vehicle Carrier
+1.0;C;0;1.0;6.0;Vehicle Carrier
+1.0;D;0;1.0;6.0;Vehicle Carrier
+1.0;E;0;1.0;6.0;Vehicle Carrier
+1.0;F;0;1.0;6.0;Vehicle Carrier
+1.0;G;0;1.0;6.0;Vehicle Carrier
+1.0;H;0;1.0;6.0;Vehicle Carrier
+1.0;I;0;1.0;6.0;Vehicle Carrier
+1.0;J;0;1.0;6.0;Vehicle Carrier
+1.0;K;0;1.0;6.0;Vehicle Carrier
+1.0;L;0;1.0;6.0;Vehicle Carrier
+1.0;M;0;1.0;6.0;Vehicle Carrier
+1.0;A;0;2.0;6.0;Vehicle Carrier
+1.0;B;0;2.0;6.0;Vehicle Carrier
+1.0;C;0;2.0;6.0;Vehicle Carrier
+1.0;D;0;2.0;6.0;Vehicle Carrier
+1.0;E;0;2.0;6.0;Vehicle Carrier
+1.0;F;0;2.0;6.0;Vehicle Carrier
+1.0;G;0;2.0;6.0;Vehicle Carrier
+1.0;H;0;2.0;6.0;Vehicle Carrier
+1.0;I;0;2.0;6.0;Vehicle Carrier
+1.0;J;0;2.0;6.0;Vehicle Carrier
+1.0;K;0;2.0;6.0;Vehicle Carrier
+1.0;L;0;2.0;6.0;Vehicle Carrier
+1.0;M;0;2.0;6.0;Vehicle Carrier
+2.0;A;0;1.0;6.0;Vehicle Carrier
+2.0;B;1;1.0;6.0;Vehicle Carrier
+2.0;C;2;1.0;6.0;Vehicle Carrier
+2.0;D;1;1.0;6.0;Vehicle Carrier
+2.0;E;1;1.0;6.0;Vehicle Carrier
+2.0;F;0;1.0;6.0;Vehicle Carrier
+2.0;G;0;1.0;6.0;Vehicle Carrier
+2.0;H;0;1.0;6.0;Vehicle Carrier
+2.0;I;1;1.0;6.0;Vehicle Carrier
+2.0;J;2;1.0;6.0;Vehicle Carrier
+2.0;K;0;1.0;6.0;Tanker
+2.0;L;0;1.0;6.0;Tanker
+2.0;M;0;1.0;6.0;Tanker
+2.0;A;0;2.0;6.0;Tanker
+2.0;B;0;2.0;6.0;Tanker
+2.0;C;3;2.0;6.0;Tanker
+2.0;D;2;2.0;6.0;Tanker
+2.0;E;0;2.0;6.0;Tanker
+2.0;F;0;2.0;6.0;Tanker
+2.0;G;0;2.0;6.0;Tanker
+2.0;H;0;2.0;6.0;Tanker
+2.0;I;1;2.0;6.0;Tanker
+2.0;J;2;2.0;6.0;Tanker
+2.0;K;0;2.0;6.0;Tanker
+2.0;L;0;2.0;6.0;Tanker
+2.0;M;0;2.0;6.0;Tanker
+1.0;A;0;1.0;6.0;Tanker
+1.0;B;0;1.0;6.0;Tanker
+1.0;C;0;1.0;6.0;Tanker
+1.0;D;0;1.0;6.0;Tanker
+1.0;E;0;1.0;6.0;Tanker
+1.0;F;0;1.0;6.0;Tanker
+1.0;G;0;1.0;6.0;Tanker
+1.0;H;0;1.0;6.0;Tanker
+1.0;I;0;1.0;6.0;Tanker
+1.0;J;0;1.0;6.0;Tanker
+1.0;K;0;1.0;6.0;Tanker
+1.0;L;0;1.0;6.0;Tanker
+1.0;M;0;1.0;6.0;Tanker
+1.0;A;0;2.0;6.0;Tanker
+1.0;B;0;2.0;6.0;Tanker
+1.0;C;0;2.0;6.0;Tanker
+1.0;D;0;2.0;6.0;Tanker
+1.0;E;0;2.0;6.0;Tanker
+1.0;F;0;2.0;6.0;Tanker
+1.0;G;0;2.0;6.0;Tanker
+1.0;H;0;2.0;6.0;Tanker
+1.0;I;0;2.0;6.0;Tanker
+1.0;J;0;2.0;6.0;Tanker
+1.0;K;0;2.0;6.0;Tanker
+1.0;L;0;2.0;6.0;Tanker
+1.0;M;0;2.0;6.0;Tanker
+2.0;A;0;1.0;6.0;Tanker
+2.0;B;0;1.0;6.0;Tanker
+2.0;C;5;1.0;6.0;Tanker
+2.0;D;6;1.0;6.0;Tanker
+2.0;E;0;1.0;6.0;Tanker
+2.0;F;0;1.0;6.0;Tanker
+2.0;G;0;1.0;6.0;Offshore Exploitation
+2.0;H;0;1.0;6.0;Offshore Exploitation
+2.0;I;0;1.0;6.0;Offshore Exploitation
+2.0;J;0;1.0;6.0;Offshore Exploitation
+2.0;K;0;1.0;6.0;Offshore Exploitation
+2.0;L;0;1.0;6.0;Offshore Exploitation
+2.0;M;0;1.0;6.0;Offshore Exploitation
+2.0;A;0;2.0;6.0;Offshore Exploitation
+2.0;B;0;2.0;6.0;Offshore Exploitation
+2.0;C;0;2.0;6.0;Offshore Exploitation
+2.0;D;0;2.0;6.0;Offshore Exploitation
+2.0;E;0;2.0;6.0;Offshore Exploitation
+2.0;F;0;2.0;6.0;Offshore Exploitation
+2.0;G;0;2.0;6.0;Offshore Exploitation
+2.0;H;0;2.0;6.0;Offshore Exploitation
+2.0;I;0;2.0;6.0;Offshore Exploitation
+2.0;J;0;2.0;6.0;Offshore Exploitation
+2.0;K;0;2.0;6.0;Offshore Exploitation
+2.0;L;0;2.0;6.0;Offshore Exploitation
+2.0;M;0;2.0;6.0;Offshore Exploitation
+1.0;A;0;1.0;6.0;Offshore Exploitation
+1.0;B;0;1.0;6.0;Offshore Exploitation
+1.0;C;0;1.0;6.0;Offshore Exploitation
+1.0;D;0;1.0;6.0;Offshore Exploitation
+1.0;E;0;1.0;6.0;Offshore Exploitation
+1.0;F;0;1.0;6.0;Offshore Exploitation
+1.0;G;0;1.0;6.0;Offshore Exploitation
+1.0;H;0;1.0;6.0;Offshore Exploitation
+1.0;I;0;1.0;6.0;Offshore Exploitation
+1.0;J;0;1.0;6.0;Offshore Exploitation
+1.0;K;0;1.0;6.0;Offshore Exploitation
+1.0;L;0;1.0;6.0;Offshore Exploitation
+1.0;M;0;1.0;6.0;Offshore Exploitation
+1.0;A;0;2.0;6.0;Offshore Exploitation
+1.0;B;0;2.0;6.0;Offshore Exploitation
+1.0;C;0;2.0;6.0;Offshore Exploitation
+1.0;D;0;2.0;6.0;Offshore Exploitation
+1.0;E;0;2.0;6.0;Offshore Exploitation
+1.0;F;0;2.0;6.0;Offshore Exploitation
+1.0;G;0;2.0;6.0;Offshore Exploitation
+1.0;H;0;2.0;6.0;Offshore Exploitation
+1.0;I;0;2.0;6.0;Offshore Exploitation
+1.0;J;0;2.0;6.0;Offshore Exploitation
+1.0;K;0;2.0;6.0;Offshore Exploitation
+1.0;L;0;2.0;6.0;Offshore Exploitation
+1.0;M;0;2.0;6.0;Offshore Exploitation
+2.0;A;0;1.0;6.0;Offshore Exploitation
+2.0;B;0;1.0;6.0;Offshore Exploitation
+2.0;C;0;1.0;6.0;Other
+2.0;D;0;1.0;6.0;Other
+2.0;E;0;1.0;6.0;Other
+2.0;F;0;1.0;6.0;Other
+2.0;G;0;1.0;6.0;Other
+2.0;H;0;1.0;6.0;Other
+2.0;I;0;1.0;6.0;Other
+2.0;J;1;1.0;6.0;Other
+2.0;K;0;1.0;6.0;Other
+2.0;L;0;1.0;6.0;Other
+2.0;M;1;1.0;6.0;Other
+2.0;A;0;2.0;6.0;Other
+2.0;B;0;2.0;6.0;Other
+2.0;C;1;2.0;6.0;Other
+2.0;D;1;2.0;6.0;Other
+2.0;E;0;2.0;6.0;Other
+2.0;F;0;2.0;6.0;Other
+2.0;G;0;2.0;6.0;Other
+2.0;H;0;2.0;6.0;Other
+2.0;I;0;2.0;6.0;Other
+2.0;J;0;2.0;6.0;Other
+2.0;K;0;2.0;6.0;Other
+2.0;L;0;2.0;6.0;Other
+2.0;M;0;2.0;6.0;Other
 1.0;A;0;1.0;7.0;Other
 1.0;B;0;1.0;7.0;Other
 1.0;C;0;1.0;7.0;Other
@@ -2406,6 +2190,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;7.0;Other
 1.0;F;0;1.0;7.0;Other
 1.0;G;0;1.0;7.0;Other
+1.0;H;0;1.0;7.0;Other
 1.0;I;0;1.0;7.0;Other
 1.0;J;0;1.0;7.0;Other
 1.0;K;0;1.0;7.0;Other
@@ -2418,201 +2203,10 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;7.0;Other
 1.0;F;0;2.0;7.0;Other
 1.0;G;0;2.0;7.0;Other
+1.0;H;0;2.0;7.0;Other
 1.0;I;0;2.0;7.0;Other
 1.0;J;0;2.0;7.0;Other
 1.0;K;0;2.0;7.0;Other
-1.0;L;0;2.0;7.0;Other
-1.0;M;0;2.0;7.0;Other
-2.0;A;0;1.0;7.0;Other
-2.0;B;0;1.0;7.0;Other
-2.0;C;1;1.0;7.0;Other
-2.0;D;0;1.0;7.0;Other
-2.0;E;0;1.0;7.0;Other
-2.0;F;0;1.0;7.0;Other
-2.0;G;0;1.0;7.0;Other
-2.0;I;0;1.0;7.0;Other
-2.0;J;0;1.0;7.0;Other
-2.0;K;0;1.0;7.0;Other
-2.0;L;0;1.0;7.0;Other
-2.0;M;0;1.0;7.0;Other
-2.0;A;0;2.0;7.0;Other
-2.0;B;0;2.0;7.0;Other
-2.0;C;1;2.0;7.0;Other
-2.0;D;0;2.0;7.0;Other
-2.0;E;0;2.0;7.0;Other
-2.0;F;0;2.0;7.0;Other
-2.0;G;0;2.0;7.0;Other
-2.0;I;1;2.0;7.0;Other
-2.0;J;0;2.0;7.0;Other
-2.0;K;1;2.0;7.0;Other
-2.0;L;0;2.0;7.0;Other
-2.0;M;0;2.0;7.0;Other
-1.0;A;0;1.0;7.0;Cargo
-1.0;B;0;1.0;7.0;Cargo
-1.0;C;0;1.0;7.0;Cargo
-1.0;D;0;1.0;7.0;Cargo
-1.0;E;0;1.0;7.0;Cargo
-1.0;F;0;1.0;7.0;Cargo
-1.0;G;0;1.0;7.0;Cargo
-1.0;I;0;1.0;7.0;Cargo
-1.0;J;0;1.0;7.0;Cargo
-1.0;K;0;1.0;7.0;Cargo
-1.0;L;0;1.0;7.0;Cargo
-1.0;M;0;1.0;7.0;Cargo
-1.0;A;0;2.0;7.0;Cargo
-1.0;B;0;2.0;7.0;Cargo
-1.0;C;0;2.0;7.0;Cargo
-1.0;D;0;2.0;7.0;Cargo
-1.0;E;0;2.0;7.0;Cargo
-1.0;F;0;2.0;7.0;Cargo
-1.0;G;0;2.0;7.0;Cargo
-1.0;I;0;2.0;7.0;Cargo
-1.0;J;0;2.0;7.0;Cargo
-1.0;K;0;2.0;7.0;Cargo
-1.0;L;0;2.0;7.0;Cargo
-1.0;M;0;2.0;7.0;Cargo
-2.0;A;0;1.0;7.0;Cargo
-2.0;B;0;1.0;7.0;Cargo
-2.0;C;0;1.0;7.0;Cargo
-2.0;D;0;1.0;7.0;Cargo
-2.0;E;0;1.0;7.0;Cargo
-2.0;F;0;1.0;7.0;Cargo
-2.0;G;0;1.0;7.0;Cargo
-2.0;I;0;1.0;7.0;Cargo
-2.0;J;0;1.0;7.0;Cargo
-2.0;K;0;1.0;7.0;Cargo
-2.0;L;0;1.0;7.0;Cargo
-2.0;M;0;1.0;7.0;Cargo
-2.0;A;0;2.0;7.0;Cargo
-2.0;B;0;2.0;7.0;Cargo
-2.0;C;1;2.0;7.0;Cargo
-2.0;D;0;2.0;7.0;Cargo
-2.0;E;0;2.0;7.0;Cargo
-2.0;F;0;2.0;7.0;Cargo
-2.0;G;0;2.0;7.0;Cargo
-2.0;I;1;2.0;7.0;Cargo
-2.0;J;0;2.0;7.0;Cargo
-2.0;K;0;2.0;7.0;Cargo
-2.0;L;0;2.0;7.0;Cargo
-2.0;M;0;2.0;7.0;Cargo
-1.0;A;0;1.0;7.0;Ro-Ro
-1.0;B;0;1.0;7.0;Ro-Ro
-1.0;C;0;1.0;7.0;Ro-Ro
-1.0;D;0;1.0;7.0;Ro-Ro
-1.0;E;0;1.0;7.0;Ro-Ro
-1.0;F;0;1.0;7.0;Ro-Ro
-1.0;G;0;1.0;7.0;Ro-Ro
-1.0;I;0;1.0;7.0;Ro-Ro
-1.0;J;0;1.0;7.0;Ro-Ro
-1.0;K;0;1.0;7.0;Ro-Ro
-1.0;L;0;1.0;7.0;Ro-Ro
-1.0;M;0;1.0;7.0;Ro-Ro
-1.0;A;0;2.0;7.0;Ro-Ro
-1.0;B;0;2.0;7.0;Ro-Ro
-1.0;C;0;2.0;7.0;Ro-Ro
-1.0;D;0;2.0;7.0;Ro-Ro
-1.0;E;0;2.0;7.0;Ro-Ro
-1.0;F;0;2.0;7.0;Ro-Ro
-1.0;G;0;2.0;7.0;Ro-Ro
-1.0;I;0;2.0;7.0;Ro-Ro
-1.0;J;0;2.0;7.0;Ro-Ro
-1.0;K;0;2.0;7.0;Ro-Ro
-1.0;L;0;2.0;7.0;Ro-Ro
-1.0;M;0;2.0;7.0;Ro-Ro
-2.0;A;0;1.0;7.0;Ro-Ro
-2.0;B;0;1.0;7.0;Ro-Ro
-2.0;C;0;1.0;7.0;Ro-Ro
-2.0;D;0;1.0;7.0;Ro-Ro
-2.0;E;0;1.0;7.0;Ro-Ro
-2.0;F;0;1.0;7.0;Ro-Ro
-2.0;G;0;1.0;7.0;Ro-Ro
-2.0;I;0;1.0;7.0;Ro-Ro
-2.0;J;0;1.0;7.0;Ro-Ro
-2.0;K;0;1.0;7.0;Ro-Ro
-2.0;L;0;1.0;7.0;Ro-Ro
-2.0;M;0;1.0;7.0;Ro-Ro
-2.0;A;0;2.0;7.0;Ro-Ro
-2.0;B;0;2.0;7.0;Ro-Ro
-2.0;C;0;2.0;7.0;Ro-Ro
-2.0;D;0;2.0;7.0;Ro-Ro
-2.0;E;0;2.0;7.0;Ro-Ro
-2.0;F;0;2.0;7.0;Ro-Ro
-2.0;G;0;2.0;7.0;Ro-Ro
-2.0;I;0;2.0;7.0;Ro-Ro
-2.0;J;0;2.0;7.0;Ro-Ro
-2.0;K;0;2.0;7.0;Ro-Ro
-2.0;L;0;2.0;7.0;Ro-Ro
-2.0;M;0;2.0;7.0;Ro-Ro
-1.0;A;0;1.0;7.0;Vessel
-1.0;B;0;1.0;7.0;Vessel
-1.0;C;0;1.0;7.0;Vessel
-1.0;D;0;1.0;7.0;Vessel
-1.0;E;0;1.0;7.0;Vessel
-1.0;F;0;1.0;7.0;Vessel
-1.0;G;0;1.0;7.0;Vessel
-1.0;I;0;1.0;7.0;Vessel
-1.0;J;0;1.0;7.0;Vessel
-1.0;K;0;1.0;7.0;Vessel
-1.0;L;0;1.0;7.0;Vessel
-1.0;M;0;1.0;7.0;Vessel
-1.0;A;0;2.0;7.0;Vessel
-1.0;B;0;2.0;7.0;Vessel
-1.0;C;0;2.0;7.0;Vessel
-1.0;D;0;2.0;7.0;Vessel
-1.0;E;0;2.0;7.0;Vessel
-1.0;F;0;2.0;7.0;Vessel
-1.0;G;0;2.0;7.0;Vessel
-1.0;I;0;2.0;7.0;Vessel
-1.0;J;0;2.0;7.0;Vessel
-1.0;K;0;2.0;7.0;Vessel
-1.0;L;0;2.0;7.0;Vessel
-1.0;M;0;2.0;7.0;Vessel
-2.0;A;0;1.0;7.0;Vessel
-2.0;B;0;1.0;7.0;Vessel
-2.0;C;0;1.0;7.0;Vessel
-2.0;D;0;1.0;7.0;Vessel
-2.0;E;0;1.0;7.0;Vessel
-2.0;F;0;1.0;7.0;Vessel
-2.0;G;0;1.0;7.0;Vessel
-2.0;I;0;1.0;7.0;Vessel
-2.0;J;0;1.0;7.0;Vessel
-2.0;K;0;1.0;7.0;Vessel
-2.0;L;0;1.0;7.0;Vessel
-2.0;M;0;1.0;7.0;Vessel
-2.0;A;0;2.0;7.0;Vessel
-2.0;B;0;2.0;7.0;Vessel
-2.0;C;0;2.0;7.0;Vessel
-2.0;D;0;2.0;7.0;Vessel
-2.0;E;0;2.0;7.0;Vessel
-2.0;F;0;2.0;7.0;Vessel
-2.0;G;0;2.0;7.0;Vessel
-2.0;I;0;2.0;7.0;Vessel
-2.0;J;0;2.0;7.0;Vessel
-2.0;K;0;2.0;7.0;Vessel
-2.0;L;0;2.0;7.0;Vessel
-2.0;M;0;2.0;7.0;Vessel
-1.0;A;0;1.0;7.0;Tug
-1.0;B;0;1.0;7.0;Tug
-1.0;C;0;1.0;7.0;Tug
-1.0;D;0;1.0;7.0;Tug
-1.0;E;0;1.0;7.0;Tug
-1.0;F;0;1.0;7.0;Tug
-1.0;G;0;1.0;7.0;Tug
-1.0;I;0;1.0;7.0;Tug
-1.0;J;0;1.0;7.0;Tug
-1.0;K;0;1.0;7.0;Tug
-1.0;L;0;1.0;7.0;Tug
-1.0;M;0;1.0;7.0;Tug
-1.0;A;0;2.0;7.0;Tug
-1.0;B;0;2.0;7.0;Tug
-1.0;C;0;2.0;7.0;Tug
-1.0;D;0;2.0;7.0;Tug
-1.0;E;0;2.0;7.0;Tug
-1.0;F;0;2.0;7.0;Tug
-1.0;G;0;2.0;7.0;Tug
-1.0;I;0;2.0;7.0;Tug
-1.0;J;0;2.0;7.0;Tug
-1.0;K;0;2.0;7.0;Tug
 1.0;L;0;2.0;7.0;Tug
 1.0;M;0;2.0;7.0;Tug
 2.0;A;0;1.0;7.0;Tug
@@ -2622,6 +2216,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;7.0;Tug
 2.0;F;0;1.0;7.0;Tug
 2.0;G;0;1.0;7.0;Tug
+2.0;H;0;1.0;7.0;Tug
 2.0;I;0;1.0;7.0;Tug
 2.0;J;0;1.0;7.0;Tug
 2.0;K;0;1.0;7.0;Tug
@@ -2634,30 +2229,85 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;7.0;Tug
 2.0;F;0;2.0;7.0;Tug
 2.0;G;0;2.0;7.0;Tug
+2.0;H;0;2.0;7.0;Tug
 2.0;I;0;2.0;7.0;Tug
 2.0;J;0;2.0;7.0;Tug
 2.0;K;0;2.0;7.0;Tug
 2.0;L;0;2.0;7.0;Tug
 2.0;M;0;2.0;7.0;Tug
-1.0;A;0;1.0;7.0;Barge
-1.0;B;0;1.0;7.0;Barge
-1.0;C;0;1.0;7.0;Barge
-1.0;D;0;1.0;7.0;Barge
-1.0;E;0;1.0;7.0;Barge
-1.0;F;0;1.0;7.0;Barge
-1.0;G;0;1.0;7.0;Barge
-1.0;I;0;1.0;7.0;Barge
-1.0;J;0;1.0;7.0;Barge
-1.0;K;0;1.0;7.0;Barge
-1.0;L;0;1.0;7.0;Barge
-1.0;M;0;1.0;7.0;Barge
-1.0;A;0;2.0;7.0;Barge
-1.0;B;0;2.0;7.0;Barge
-1.0;C;0;2.0;7.0;Barge
+1.0;A;0;1.0;7.0;Tug
+1.0;B;0;1.0;7.0;Tug
+1.0;C;0;1.0;7.0;Tug
+1.0;D;0;1.0;7.0;Tug
+1.0;E;0;1.0;7.0;Tug
+1.0;F;0;1.0;7.0;Tug
+1.0;G;0;1.0;7.0;Tug
+1.0;H;0;1.0;7.0;Tug
+1.0;I;0;1.0;7.0;Tug
+1.0;J;0;1.0;7.0;Tug
+1.0;K;0;1.0;7.0;Tug
+1.0;L;0;1.0;7.0;Tug
+1.0;M;0;1.0;7.0;Tug
+1.0;A;0;2.0;7.0;Tug
+1.0;B;0;2.0;7.0;Tug
+1.0;C;0;2.0;7.0;Tug
+1.0;D;0;2.0;7.0;Tug
+1.0;E;0;2.0;7.0;Tug
+1.0;F;0;2.0;7.0;Tug
+1.0;G;0;2.0;7.0;Tug
+1.0;H;0;2.0;7.0;Vessel
+1.0;I;0;2.0;7.0;Vessel
+1.0;J;0;2.0;7.0;Vessel
+1.0;K;0;2.0;7.0;Vessel
+1.0;L;0;2.0;7.0;Vessel
+1.0;M;0;2.0;7.0;Vessel
+2.0;A;0;1.0;7.0;Vessel
+2.0;B;0;1.0;7.0;Vessel
+2.0;C;0;1.0;7.0;Vessel
+2.0;D;0;1.0;7.0;Vessel
+2.0;E;0;1.0;7.0;Vessel
+2.0;F;0;1.0;7.0;Vessel
+2.0;G;0;1.0;7.0;Vessel
+2.0;H;0;1.0;7.0;Vessel
+2.0;I;0;1.0;7.0;Vessel
+2.0;J;0;1.0;7.0;Vessel
+2.0;K;0;1.0;7.0;Vessel
+2.0;L;0;1.0;7.0;Vessel
+2.0;M;0;1.0;7.0;Vessel
+2.0;A;0;2.0;7.0;Vessel
+2.0;B;0;2.0;7.0;Vessel
+2.0;C;0;2.0;7.0;Vessel
+2.0;D;0;2.0;7.0;Vessel
+2.0;E;0;2.0;7.0;Vessel
+2.0;F;0;2.0;7.0;Vessel
+2.0;G;0;2.0;7.0;Vessel
+2.0;H;0;2.0;7.0;Vessel
+2.0;I;0;2.0;7.0;Vessel
+2.0;J;0;2.0;7.0;Vessel
+2.0;K;0;2.0;7.0;Vessel
+2.0;L;0;2.0;7.0;Vessel
+2.0;M;0;2.0;7.0;Vessel
+1.0;A;0;1.0;7.0;Vessel
+1.0;B;0;1.0;7.0;Vessel
+1.0;C;0;1.0;7.0;Vessel
+1.0;D;0;1.0;7.0;Vessel
+1.0;E;0;1.0;7.0;Vessel
+1.0;F;0;1.0;7.0;Vessel
+1.0;G;0;1.0;7.0;Vessel
+1.0;H;0;1.0;7.0;Vessel
+1.0;I;0;1.0;7.0;Vessel
+1.0;J;0;1.0;7.0;Vessel
+1.0;K;0;1.0;7.0;Vessel
+1.0;L;0;1.0;7.0;Vessel
+1.0;M;0;1.0;7.0;Vessel
+1.0;A;0;2.0;7.0;Vessel
+1.0;B;0;2.0;7.0;Vessel
+1.0;C;0;2.0;7.0;Vessel
 1.0;D;0;2.0;7.0;Barge
 1.0;E;0;2.0;7.0;Barge
 1.0;F;0;2.0;7.0;Barge
 1.0;G;0;2.0;7.0;Barge
+1.0;H;0;2.0;7.0;Barge
 1.0;I;0;2.0;7.0;Barge
 1.0;J;0;2.0;7.0;Barge
 1.0;K;0;2.0;7.0;Barge
@@ -2670,6 +2320,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;7.0;Barge
 2.0;F;0;1.0;7.0;Barge
 2.0;G;0;1.0;7.0;Barge
+2.0;H;0;1.0;7.0;Barge
 2.0;I;0;1.0;7.0;Barge
 2.0;J;0;1.0;7.0;Barge
 2.0;K;0;1.0;7.0;Barge
@@ -2682,299 +2333,220 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;7.0;Barge
 2.0;F;0;2.0;7.0;Barge
 2.0;G;0;2.0;7.0;Barge
+2.0;H;0;2.0;7.0;Barge
 2.0;I;0;2.0;7.0;Barge
 2.0;J;0;2.0;7.0;Barge
 2.0;K;0;2.0;7.0;Barge
 2.0;L;0;2.0;7.0;Barge
 2.0;M;0;2.0;7.0;Barge
-1.0;A;0;1.0;8.0;Carrier
-1.0;B;0;1.0;8.0;Carrier
-1.0;C;0;1.0;8.0;Carrier
-1.0;D;0;1.0;8.0;Carrier
-1.0;E;0;1.0;8.0;Carrier
-1.0;F;0;1.0;8.0;Carrier
-1.0;G;0;1.0;8.0;Carrier
-1.0;I;0;1.0;8.0;Carrier
-1.0;J;0;1.0;8.0;Carrier
-1.0;K;0;1.0;8.0;Carrier
-1.0;L;0;1.0;8.0;Carrier
-1.0;M;0;1.0;8.0;Carrier
-1.0;A;0;2.0;8.0;Carrier
-1.0;B;0;2.0;8.0;Carrier
-1.0;C;0;2.0;8.0;Carrier
-1.0;D;0;2.0;8.0;Carrier
-1.0;E;0;2.0;8.0;Carrier
-1.0;F;0;2.0;8.0;Carrier
-1.0;G;0;2.0;8.0;Carrier
-1.0;I;0;2.0;8.0;Carrier
-1.0;J;0;2.0;8.0;Carrier
-1.0;K;0;2.0;8.0;Carrier
-1.0;L;0;2.0;8.0;Carrier
-1.0;M;0;2.0;8.0;Carrier
-2.0;A;2;1.0;8.0;Carrier
-2.0;B;0;1.0;8.0;Carrier
-2.0;C;1;1.0;8.0;Carrier
-2.0;D;0;1.0;8.0;Carrier
-2.0;E;0;1.0;8.0;Carrier
-2.0;F;0;1.0;8.0;Carrier
-2.0;G;0;1.0;8.0;Carrier
-2.0;I;1;1.0;8.0;Carrier
-2.0;J;1;1.0;8.0;Carrier
-2.0;K;1;1.0;8.0;Carrier
-2.0;L;0;1.0;8.0;Carrier
-2.0;M;0;1.0;8.0;Carrier
-2.0;A;0;2.0;8.0;Carrier
-2.0;B;1;2.0;8.0;Carrier
-2.0;C;1;2.0;8.0;Carrier
-2.0;D;1;2.0;8.0;Carrier
-2.0;E;0;2.0;8.0;Carrier
-2.0;F;0;2.0;8.0;Carrier
-2.0;G;0;2.0;8.0;Carrier
-2.0;I;1;2.0;8.0;Carrier
-2.0;J;3;2.0;8.0;Carrier
-2.0;K;0;2.0;8.0;Carrier
-2.0;L;0;2.0;8.0;Carrier
-2.0;M;0;2.0;8.0;Carrier
-1.0;A;0;1.0;8.0;Tanker
-1.0;B;0;1.0;8.0;Tanker
-1.0;C;0;1.0;8.0;Tanker
-1.0;D;0;1.0;8.0;Tanker
-1.0;E;0;1.0;8.0;Tanker
-1.0;F;0;1.0;8.0;Tanker
-1.0;G;0;1.0;8.0;Tanker
-1.0;I;0;1.0;8.0;Tanker
-1.0;J;0;1.0;8.0;Tanker
-1.0;K;0;1.0;8.0;Tanker
-1.0;L;0;1.0;8.0;Tanker
-1.0;M;0;1.0;8.0;Tanker
-1.0;A;0;2.0;8.0;Tanker
-1.0;B;0;2.0;8.0;Tanker
-1.0;C;0;2.0;8.0;Tanker
-1.0;D;0;2.0;8.0;Tanker
-1.0;E;0;2.0;8.0;Tanker
-1.0;F;0;2.0;8.0;Tanker
-1.0;G;0;2.0;8.0;Tanker
-1.0;I;0;2.0;8.0;Tanker
-1.0;J;0;2.0;8.0;Tanker
-1.0;K;0;2.0;8.0;Tanker
-1.0;L;0;2.0;8.0;Tanker
-1.0;M;0;2.0;8.0;Tanker
-2.0;A;0;1.0;8.0;Tanker
-2.0;B;1;1.0;8.0;Tanker
-2.0;C;2;1.0;8.0;Tanker
-2.0;D;0;1.0;8.0;Tanker
-2.0;E;0;1.0;8.0;Tanker
-2.0;F;0;1.0;8.0;Tanker
-2.0;G;0;1.0;8.0;Tanker
-2.0;I;1;1.0;8.0;Tanker
-2.0;J;0;1.0;8.0;Tanker
-2.0;K;0;1.0;8.0;Tanker
-2.0;L;0;1.0;8.0;Tanker
-2.0;M;0;1.0;8.0;Tanker
-2.0;A;0;2.0;8.0;Tanker
-2.0;B;0;2.0;8.0;Tanker
-2.0;C;0;2.0;8.0;Tanker
-2.0;D;0;2.0;8.0;Tanker
-2.0;E;1;2.0;8.0;Tanker
-2.0;F;0;2.0;8.0;Tanker
-2.0;G;1;2.0;8.0;Tanker
-2.0;I;1;2.0;8.0;Tanker
-2.0;J;1;2.0;8.0;Tanker
-2.0;K;0;2.0;8.0;Tanker
-2.0;L;1;2.0;8.0;Tanker
-2.0;M;0;2.0;8.0;Tanker
-1.0;A;0;1.0;8.0;Other
-1.0;B;0;1.0;8.0;Other
-1.0;C;0;1.0;8.0;Other
-1.0;D;0;1.0;8.0;Other
-1.0;E;0;1.0;8.0;Other
-1.0;F;0;1.0;8.0;Other
-1.0;G;0;1.0;8.0;Other
-1.0;I;0;1.0;8.0;Other
-1.0;J;0;1.0;8.0;Other
-1.0;K;0;1.0;8.0;Other
-1.0;L;0;1.0;8.0;Other
-1.0;M;0;1.0;8.0;Other
-1.0;A;0;2.0;8.0;Other
-1.0;B;0;2.0;8.0;Other
-1.0;C;0;2.0;8.0;Other
-1.0;D;0;2.0;8.0;Other
-1.0;E;0;2.0;8.0;Other
-1.0;F;0;2.0;8.0;Other
-1.0;G;0;2.0;8.0;Other
-1.0;I;0;2.0;8.0;Other
-1.0;J;0;2.0;8.0;Other
-1.0;K;0;2.0;8.0;Other
-1.0;L;0;2.0;8.0;Other
-1.0;M;0;2.0;8.0;Other
-2.0;A;0;1.0;8.0;Other
-2.0;B;0;1.0;8.0;Other
-2.0;C;0;1.0;8.0;Other
-2.0;D;0;1.0;8.0;Other
-2.0;E;0;1.0;8.0;Other
-2.0;F;0;1.0;8.0;Other
-2.0;G;0;1.0;8.0;Other
-2.0;I;0;1.0;8.0;Other
-2.0;J;0;1.0;8.0;Other
-2.0;K;0;1.0;8.0;Other
-2.0;L;0;1.0;8.0;Other
-2.0;M;0;1.0;8.0;Other
-2.0;A;0;2.0;8.0;Other
-2.0;B;0;2.0;8.0;Other
-2.0;C;0;2.0;8.0;Other
-2.0;D;0;2.0;8.0;Other
-2.0;E;0;2.0;8.0;Other
-2.0;F;0;2.0;8.0;Other
-2.0;G;0;2.0;8.0;Other
-2.0;I;1;2.0;8.0;Other
-2.0;J;1;2.0;8.0;Other
-2.0;K;0;2.0;8.0;Other
-2.0;L;0;2.0;8.0;Other
-2.0;M;0;2.0;8.0;Other
-1.0;A;0;1.0;8.0;Cargo
-1.0;B;0;1.0;8.0;Cargo
-1.0;C;0;1.0;8.0;Cargo
-1.0;D;0;1.0;8.0;Cargo
-1.0;E;0;1.0;8.0;Cargo
-1.0;F;0;1.0;8.0;Cargo
-1.0;G;0;1.0;8.0;Cargo
-1.0;I;0;1.0;8.0;Cargo
-1.0;J;0;1.0;8.0;Cargo
-1.0;K;0;1.0;8.0;Cargo
-1.0;L;0;1.0;8.0;Cargo
-1.0;M;0;1.0;8.0;Cargo
-1.0;A;0;2.0;8.0;Cargo
-1.0;B;0;2.0;8.0;Cargo
-1.0;C;0;2.0;8.0;Cargo
-1.0;D;0;2.0;8.0;Cargo
-1.0;E;0;2.0;8.0;Cargo
-1.0;F;0;2.0;8.0;Cargo
-1.0;G;0;2.0;8.0;Cargo
-1.0;I;0;2.0;8.0;Cargo
-1.0;J;0;2.0;8.0;Cargo
-1.0;K;0;2.0;8.0;Cargo
-1.0;L;0;2.0;8.0;Cargo
-1.0;M;0;2.0;8.0;Cargo
-2.0;A;0;1.0;8.0;Cargo
-2.0;B;0;1.0;8.0;Cargo
-2.0;C;1;1.0;8.0;Cargo
-2.0;D;1;1.0;8.0;Cargo
-2.0;E;0;1.0;8.0;Cargo
-2.0;F;1;1.0;8.0;Cargo
-2.0;G;0;1.0;8.0;Cargo
-2.0;I;4;1.0;8.0;Cargo
-2.0;J;1;1.0;8.0;Cargo
-2.0;K;0;1.0;8.0;Cargo
-2.0;L;0;1.0;8.0;Cargo
-2.0;M;0;1.0;8.0;Cargo
-2.0;A;0;2.0;8.0;Cargo
-2.0;B;0;2.0;8.0;Cargo
-2.0;C;0;2.0;8.0;Cargo
-2.0;D;0;2.0;8.0;Cargo
-2.0;E;0;2.0;8.0;Cargo
-2.0;F;0;2.0;8.0;Cargo
-2.0;G;0;2.0;8.0;Cargo
-2.0;I;3;2.0;8.0;Cargo
-2.0;J;2;2.0;8.0;Cargo
-2.0;K;0;2.0;8.0;Cargo
-2.0;L;0;2.0;8.0;Cargo
-2.0;M;0;2.0;8.0;Cargo
-1.0;A;0;1.0;8.0;Ro-Ro
-1.0;B;0;1.0;8.0;Ro-Ro
-1.0;C;0;1.0;8.0;Ro-Ro
-1.0;D;0;1.0;8.0;Ro-Ro
-1.0;E;0;1.0;8.0;Ro-Ro
-1.0;F;0;1.0;8.0;Ro-Ro
-1.0;G;0;1.0;8.0;Ro-Ro
-1.0;I;0;1.0;8.0;Ro-Ro
-1.0;J;0;1.0;8.0;Ro-Ro
-1.0;K;0;1.0;8.0;Ro-Ro
-1.0;L;0;1.0;8.0;Ro-Ro
-1.0;M;0;1.0;8.0;Ro-Ro
-1.0;A;0;2.0;8.0;Ro-Ro
-1.0;B;0;2.0;8.0;Ro-Ro
-1.0;C;0;2.0;8.0;Ro-Ro
-1.0;D;0;2.0;8.0;Ro-Ro
-1.0;E;0;2.0;8.0;Ro-Ro
-1.0;F;0;2.0;8.0;Ro-Ro
-1.0;G;0;2.0;8.0;Ro-Ro
-1.0;I;0;2.0;8.0;Ro-Ro
-1.0;J;0;2.0;8.0;Ro-Ro
-1.0;K;0;2.0;8.0;Ro-Ro
-1.0;L;0;2.0;8.0;Ro-Ro
-1.0;M;0;2.0;8.0;Ro-Ro
-2.0;A;0;1.0;8.0;Ro-Ro
-2.0;B;0;1.0;8.0;Ro-Ro
-2.0;C;0;1.0;8.0;Ro-Ro
-2.0;D;0;1.0;8.0;Ro-Ro
-2.0;E;0;1.0;8.0;Ro-Ro
-2.0;F;0;1.0;8.0;Ro-Ro
-2.0;G;0;1.0;8.0;Ro-Ro
-2.0;I;0;1.0;8.0;Ro-Ro
-2.0;J;0;1.0;8.0;Ro-Ro
-2.0;K;0;1.0;8.0;Ro-Ro
-2.0;L;0;1.0;8.0;Ro-Ro
-2.0;M;0;1.0;8.0;Ro-Ro
-2.0;A;0;2.0;8.0;Ro-Ro
-2.0;B;0;2.0;8.0;Ro-Ro
-2.0;C;0;2.0;8.0;Ro-Ro
-2.0;D;0;2.0;8.0;Ro-Ro
-2.0;E;0;2.0;8.0;Ro-Ro
-2.0;F;0;2.0;8.0;Ro-Ro
-2.0;G;0;2.0;8.0;Ro-Ro
-2.0;I;0;2.0;8.0;Ro-Ro
-2.0;J;0;2.0;8.0;Ro-Ro
-2.0;K;0;2.0;8.0;Ro-Ro
-2.0;L;0;2.0;8.0;Ro-Ro
-2.0;M;0;2.0;8.0;Ro-Ro
-1.0;A;0;1.0;8.0;Vessel
-1.0;B;0;1.0;8.0;Vessel
-1.0;C;0;1.0;8.0;Vessel
-1.0;D;0;1.0;8.0;Vessel
-1.0;E;0;1.0;8.0;Vessel
-1.0;F;0;1.0;8.0;Vessel
-1.0;G;0;1.0;8.0;Vessel
-1.0;I;0;1.0;8.0;Vessel
-1.0;J;0;1.0;8.0;Vessel
-1.0;K;0;1.0;8.0;Vessel
-1.0;L;0;1.0;8.0;Vessel
-1.0;M;0;1.0;8.0;Vessel
-1.0;A;0;2.0;8.0;Vessel
-1.0;B;0;2.0;8.0;Vessel
-1.0;C;0;2.0;8.0;Vessel
-1.0;D;0;2.0;8.0;Vessel
-1.0;E;0;2.0;8.0;Vessel
-1.0;F;0;2.0;8.0;Vessel
-1.0;G;0;2.0;8.0;Vessel
-1.0;I;0;2.0;8.0;Vessel
-1.0;J;0;2.0;8.0;Vessel
-1.0;K;0;2.0;8.0;Vessel
-1.0;L;0;2.0;8.0;Vessel
-1.0;M;0;2.0;8.0;Vessel
-2.0;A;0;1.0;8.0;Vessel
-2.0;B;0;1.0;8.0;Vessel
-2.0;C;0;1.0;8.0;Vessel
-2.0;D;0;1.0;8.0;Vessel
-2.0;E;0;1.0;8.0;Vessel
-2.0;F;0;1.0;8.0;Vessel
-2.0;G;0;1.0;8.0;Vessel
-2.0;I;0;1.0;8.0;Vessel
-2.0;J;0;1.0;8.0;Vessel
-2.0;K;0;1.0;8.0;Vessel
-2.0;L;0;1.0;8.0;Vessel
-2.0;M;0;1.0;8.0;Vessel
-2.0;A;0;2.0;8.0;Vessel
-2.0;B;0;2.0;8.0;Vessel
-2.0;C;0;2.0;8.0;Vessel
-2.0;D;0;2.0;8.0;Vessel
-2.0;E;0;2.0;8.0;Vessel
-2.0;F;0;2.0;8.0;Vessel
-2.0;G;0;2.0;8.0;Vessel
-2.0;I;0;2.0;8.0;Vessel
-2.0;J;0;2.0;8.0;Vessel
-2.0;K;0;2.0;8.0;Vessel
-2.0;L;0;2.0;8.0;Vessel
-2.0;M;0;2.0;8.0;Vessel
+1.0;A;0;1.0;7.0;Barge
+1.0;B;0;1.0;7.0;Barge
+1.0;C;0;1.0;7.0;Barge
+1.0;D;0;1.0;7.0;Barge
+1.0;E;0;1.0;7.0;Barge
+1.0;F;0;1.0;7.0;Barge
+1.0;G;0;1.0;7.0;Barge
+1.0;H;0;1.0;7.0;Barge
+1.0;I;0;1.0;7.0;Barge
+1.0;J;0;1.0;7.0;Barge
+1.0;K;0;1.0;7.0;Barge
+1.0;L;0;1.0;7.0;Barge
+1.0;M;0;1.0;7.0;Vehicle Carrier
+1.0;A;0;2.0;7.0;Vehicle Carrier
+1.0;B;0;2.0;7.0;Vehicle Carrier
+1.0;C;0;2.0;7.0;Vehicle Carrier
+1.0;D;0;2.0;7.0;Vehicle Carrier
+1.0;E;0;2.0;7.0;Vehicle Carrier
+1.0;F;0;2.0;7.0;Vehicle Carrier
+1.0;G;0;2.0;7.0;Vehicle Carrier
+1.0;H;0;2.0;7.0;Vehicle Carrier
+1.0;I;0;2.0;7.0;Vehicle Carrier
+1.0;J;0;2.0;7.0;Vehicle Carrier
+1.0;K;0;2.0;7.0;Vehicle Carrier
+1.0;L;0;2.0;7.0;Vehicle Carrier
+1.0;M;0;2.0;7.0;Vehicle Carrier
+2.0;A;1;1.0;7.0;Vehicle Carrier
+2.0;B;0;1.0;7.0;Vehicle Carrier
+2.0;C;1;1.0;7.0;Vehicle Carrier
+2.0;D;1;1.0;7.0;Vehicle Carrier
+2.0;E;0;1.0;7.0;Vehicle Carrier
+2.0;F;0;1.0;7.0;Vehicle Carrier
+2.0;G;0;1.0;7.0;Vehicle Carrier
+2.0;H;0;1.0;7.0;Vehicle Carrier
+2.0;I;0;1.0;7.0;Vehicle Carrier
+2.0;J;0;1.0;7.0;Vehicle Carrier
+2.0;K;1;1.0;7.0;Vehicle Carrier
+2.0;L;0;1.0;7.0;Vehicle Carrier
+2.0;M;0;1.0;7.0;Vehicle Carrier
+2.0;A;0;2.0;7.0;Vehicle Carrier
+2.0;B;1;2.0;7.0;Vehicle Carrier
+2.0;C;2;2.0;7.0;Vehicle Carrier
+2.0;D;0;2.0;7.0;Vehicle Carrier
+2.0;E;0;2.0;7.0;Vehicle Carrier
+2.0;F;0;2.0;7.0;Vehicle Carrier
+2.0;G;0;2.0;7.0;Vehicle Carrier
+2.0;H;0;2.0;7.0;Vehicle Carrier
+2.0;I;1;2.0;7.0;Vehicle Carrier
+2.0;J;2;2.0;7.0;Vehicle Carrier
+2.0;K;0;2.0;7.0;Vehicle Carrier
+2.0;L;0;2.0;7.0;Vehicle Carrier
+2.0;M;0;2.0;7.0;Vehicle Carrier
+1.0;A;0;1.0;7.0;Vehicle Carrier
+1.0;B;0;1.0;7.0;Vehicle Carrier
+1.0;C;0;1.0;7.0;Vehicle Carrier
+1.0;D;0;1.0;7.0;Vehicle Carrier
+1.0;E;0;1.0;7.0;Vehicle Carrier
+1.0;F;0;1.0;7.0;Vehicle Carrier
+1.0;G;0;1.0;7.0;Vehicle Carrier
+1.0;H;0;1.0;7.0;Vehicle Carrier
+1.0;I;0;1.0;7.0;Tanker
+1.0;J;0;1.0;7.0;Tanker
+1.0;K;0;1.0;7.0;Tanker
+1.0;L;0;1.0;7.0;Tanker
+1.0;M;0;1.0;7.0;Tanker
+1.0;A;0;2.0;7.0;Tanker
+1.0;B;0;2.0;7.0;Tanker
+1.0;C;0;2.0;7.0;Tanker
+1.0;D;0;2.0;7.0;Tanker
+1.0;E;0;2.0;7.0;Tanker
+1.0;F;0;2.0;7.0;Tanker
+1.0;G;0;2.0;7.0;Tanker
+1.0;H;0;2.0;7.0;Tanker
+1.0;I;0;2.0;7.0;Tanker
+1.0;J;0;2.0;7.0;Tanker
+1.0;K;0;2.0;7.0;Tanker
+1.0;L;0;2.0;7.0;Tanker
+1.0;M;0;2.0;7.0;Tanker
+2.0;A;1;1.0;7.0;Tanker
+2.0;B;0;1.0;7.0;Tanker
+2.0;C;1;1.0;7.0;Tanker
+2.0;D;1;1.0;7.0;Tanker
+2.0;E;1;1.0;7.0;Tanker
+2.0;F;1;1.0;7.0;Tanker
+2.0;G;0;1.0;7.0;Tanker
+2.0;H;0;1.0;7.0;Tanker
+2.0;I;0;1.0;7.0;Tanker
+2.0;J;0;1.0;7.0;Tanker
+2.0;K;0;1.0;7.0;Tanker
+2.0;L;0;1.0;7.0;Tanker
+2.0;M;0;1.0;7.0;Tanker
+2.0;A;0;2.0;7.0;Tanker
+2.0;B;1;2.0;7.0;Tanker
+2.0;C;5;2.0;7.0;Tanker
+2.0;D;0;2.0;7.0;Tanker
+2.0;E;0;2.0;7.0;Tanker
+2.0;F;0;2.0;7.0;Tanker
+2.0;G;0;2.0;7.0;Tanker
+2.0;H;0;2.0;7.0;Tanker
+2.0;I;1;2.0;7.0;Tanker
+2.0;J;0;2.0;7.0;Tanker
+2.0;K;1;2.0;7.0;Tanker
+2.0;L;0;2.0;7.0;Tanker
+2.0;M;0;2.0;7.0;Tanker
+1.0;A;0;1.0;7.0;Tanker
+1.0;B;0;1.0;7.0;Tanker
+1.0;C;0;1.0;7.0;Tanker
+1.0;D;0;1.0;7.0;Tanker
+1.0;E;0;1.0;7.0;Offshore Exploitation
+1.0;F;0;1.0;7.0;Offshore Exploitation
+1.0;G;0;1.0;7.0;Offshore Exploitation
+1.0;H;0;1.0;7.0;Offshore Exploitation
+1.0;I;0;1.0;7.0;Offshore Exploitation
+1.0;J;0;1.0;7.0;Offshore Exploitation
+1.0;K;0;1.0;7.0;Offshore Exploitation
+1.0;L;0;1.0;7.0;Offshore Exploitation
+1.0;M;0;1.0;7.0;Offshore Exploitation
+1.0;A;0;2.0;7.0;Offshore Exploitation
+1.0;B;0;2.0;7.0;Offshore Exploitation
+1.0;C;0;2.0;7.0;Offshore Exploitation
+1.0;D;0;2.0;7.0;Offshore Exploitation
+1.0;E;0;2.0;7.0;Offshore Exploitation
+1.0;F;0;2.0;7.0;Offshore Exploitation
+1.0;G;0;2.0;7.0;Offshore Exploitation
+1.0;H;0;2.0;7.0;Offshore Exploitation
+1.0;I;0;2.0;7.0;Offshore Exploitation
+1.0;J;0;2.0;7.0;Offshore Exploitation
+1.0;K;0;2.0;7.0;Offshore Exploitation
+1.0;L;0;2.0;7.0;Offshore Exploitation
+1.0;M;0;2.0;7.0;Offshore Exploitation
+2.0;A;0;1.0;7.0;Offshore Exploitation
+2.0;B;0;1.0;7.0;Offshore Exploitation
+2.0;C;0;1.0;7.0;Offshore Exploitation
+2.0;D;0;1.0;7.0;Offshore Exploitation
+2.0;E;0;1.0;7.0;Offshore Exploitation
+2.0;F;0;1.0;7.0;Offshore Exploitation
+2.0;G;0;1.0;7.0;Offshore Exploitation
+2.0;H;0;1.0;7.0;Offshore Exploitation
+2.0;I;0;1.0;7.0;Offshore Exploitation
+2.0;J;0;1.0;7.0;Offshore Exploitation
+2.0;K;0;1.0;7.0;Offshore Exploitation
+2.0;L;0;1.0;7.0;Offshore Exploitation
+2.0;M;0;1.0;7.0;Offshore Exploitation
+2.0;A;0;2.0;7.0;Offshore Exploitation
+2.0;B;0;2.0;7.0;Offshore Exploitation
+2.0;C;0;2.0;7.0;Offshore Exploitation
+2.0;D;0;2.0;7.0;Offshore Exploitation
+2.0;E;0;2.0;7.0;Offshore Exploitation
+2.0;F;0;2.0;7.0;Offshore Exploitation
+2.0;G;0;2.0;7.0;Offshore Exploitation
+2.0;H;0;2.0;7.0;Offshore Exploitation
+2.0;I;0;2.0;7.0;Offshore Exploitation
+2.0;J;0;2.0;7.0;Offshore Exploitation
+2.0;K;0;2.0;7.0;Offshore Exploitation
+2.0;L;0;2.0;7.0;Offshore Exploitation
+2.0;M;0;2.0;7.0;Offshore Exploitation
+1.0;A;0;1.0;7.0;Other
+1.0;B;0;1.0;7.0;Other
+1.0;C;0;1.0;7.0;Other
+1.0;D;0;1.0;7.0;Other
+1.0;E;0;1.0;7.0;Other
+1.0;F;0;1.0;7.0;Other
+1.0;G;0;1.0;7.0;Other
+1.0;H;0;1.0;7.0;Other
+1.0;I;0;1.0;7.0;Other
+1.0;J;0;1.0;7.0;Other
+1.0;K;0;1.0;7.0;Other
+1.0;L;0;1.0;7.0;Other
+1.0;M;0;1.0;7.0;Other
+1.0;A;0;2.0;7.0;Other
+1.0;B;0;2.0;7.0;Other
+1.0;C;0;2.0;7.0;Other
+1.0;D;0;2.0;7.0;Other
+1.0;E;0;2.0;7.0;Other
+1.0;F;0;2.0;7.0;Other
+1.0;G;0;2.0;7.0;Other
+1.0;H;0;2.0;7.0;Other
+1.0;I;0;2.0;7.0;Other
+1.0;J;0;2.0;7.0;Other
+1.0;K;0;2.0;7.0;Other
+1.0;L;0;2.0;7.0;Other
+1.0;M;0;2.0;7.0;Other
+2.0;A;0;1.0;7.0;Other
+2.0;B;0;1.0;7.0;Other
+2.0;C;1;1.0;7.0;Other
+2.0;D;0;1.0;7.0;Other
+2.0;E;0;1.0;7.0;Other
+2.0;F;0;1.0;7.0;Other
+2.0;G;0;1.0;7.0;Other
+2.0;H;0;1.0;7.0;Other
+2.0;I;0;1.0;7.0;Other
+2.0;J;0;1.0;7.0;Other
+2.0;K;0;1.0;7.0;Other
+2.0;L;0;1.0;7.0;Other
+2.0;M;0;1.0;7.0;Other
+2.0;A;0;2.0;7.0;Other
+2.0;B;0;2.0;7.0;Other
+2.0;C;1;2.0;7.0;Other
+2.0;D;0;2.0;7.0;Other
+2.0;E;0;2.0;7.0;Other
+2.0;F;0;2.0;7.0;Other
+2.0;G;0;2.0;7.0;Other
+2.0;H;0;2.0;7.0;Other
+2.0;I;1;2.0;7.0;Other
+2.0;J;0;2.0;7.0;Tug
+2.0;K;0;2.0;7.0;Tug
+2.0;L;0;2.0;7.0;Tug
+2.0;M;0;2.0;7.0;Tug
 1.0;A;0;1.0;8.0;Tug
 1.0;B;0;1.0;8.0;Tug
 1.0;C;0;1.0;8.0;Tug
@@ -2982,6 +2554,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;8.0;Tug
 1.0;F;0;1.0;8.0;Tug
 1.0;G;0;1.0;8.0;Tug
+1.0;H;0;1.0;8.0;Tug
 1.0;I;0;1.0;8.0;Tug
 1.0;J;0;1.0;8.0;Tug
 1.0;K;0;1.0;8.0;Tug
@@ -2994,6 +2567,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;8.0;Tug
 1.0;F;0;2.0;8.0;Tug
 1.0;G;0;2.0;8.0;Tug
+1.0;H;0;2.0;8.0;Tug
 1.0;I;0;2.0;8.0;Tug
 1.0;J;0;2.0;8.0;Tug
 1.0;K;0;2.0;8.0;Tug
@@ -3006,6 +2580,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;8.0;Tug
 2.0;F;0;1.0;8.0;Tug
 2.0;G;0;1.0;8.0;Tug
+2.0;H;0;1.0;8.0;Tug
 2.0;I;0;1.0;8.0;Tug
 2.0;J;0;1.0;8.0;Tug
 2.0;K;0;1.0;8.0;Tug
@@ -3016,13 +2591,66 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;C;0;2.0;8.0;Tug
 2.0;D;0;2.0;8.0;Tug
 2.0;E;0;2.0;8.0;Tug
-2.0;F;0;2.0;8.0;Tug
-2.0;G;0;2.0;8.0;Tug
-2.0;I;0;2.0;8.0;Tug
-2.0;J;0;2.0;8.0;Tug
-2.0;K;0;2.0;8.0;Tug
-2.0;L;0;2.0;8.0;Tug
-2.0;M;0;2.0;8.0;Tug
+2.0;F;0;2.0;8.0;Vessel
+2.0;G;0;2.0;8.0;Vessel
+2.0;H;0;2.0;8.0;Vessel
+2.0;I;0;2.0;8.0;Vessel
+2.0;J;0;2.0;8.0;Vessel
+2.0;K;0;2.0;8.0;Vessel
+2.0;L;0;2.0;8.0;Vessel
+2.0;M;0;2.0;8.0;Vessel
+1.0;A;0;1.0;8.0;Vessel
+1.0;B;0;1.0;8.0;Vessel
+1.0;C;0;1.0;8.0;Vessel
+1.0;D;0;1.0;8.0;Vessel
+1.0;E;0;1.0;8.0;Vessel
+1.0;F;0;1.0;8.0;Vessel
+1.0;G;0;1.0;8.0;Vessel
+1.0;H;0;1.0;8.0;Vessel
+1.0;I;0;1.0;8.0;Vessel
+1.0;J;0;1.0;8.0;Vessel
+1.0;K;0;1.0;8.0;Vessel
+1.0;L;0;1.0;8.0;Vessel
+1.0;M;0;1.0;8.0;Vessel
+1.0;A;0;2.0;8.0;Vessel
+1.0;B;0;2.0;8.0;Vessel
+1.0;C;0;2.0;8.0;Vessel
+1.0;D;0;2.0;8.0;Vessel
+1.0;E;0;2.0;8.0;Vessel
+1.0;F;0;2.0;8.0;Vessel
+1.0;G;0;2.0;8.0;Vessel
+1.0;H;0;2.0;8.0;Vessel
+1.0;I;0;2.0;8.0;Vessel
+1.0;J;0;2.0;8.0;Vessel
+1.0;K;0;2.0;8.0;Vessel
+1.0;L;0;2.0;8.0;Vessel
+1.0;M;0;2.0;8.0;Vessel
+2.0;A;0;1.0;8.0;Vessel
+2.0;B;0;1.0;8.0;Vessel
+2.0;C;0;1.0;8.0;Vessel
+2.0;D;0;1.0;8.0;Vessel
+2.0;E;0;1.0;8.0;Vessel
+2.0;F;0;1.0;8.0;Vessel
+2.0;G;0;1.0;8.0;Vessel
+2.0;H;0;1.0;8.0;Vessel
+2.0;I;0;1.0;8.0;Vessel
+2.0;J;0;1.0;8.0;Vessel
+2.0;K;0;1.0;8.0;Vessel
+2.0;L;0;1.0;8.0;Vessel
+2.0;M;0;1.0;8.0;Vessel
+2.0;A;0;2.0;8.0;Vessel
+2.0;B;0;2.0;8.0;Barge
+2.0;C;0;2.0;8.0;Barge
+2.0;D;0;2.0;8.0;Barge
+2.0;E;0;2.0;8.0;Barge
+2.0;F;0;2.0;8.0;Barge
+2.0;G;0;2.0;8.0;Barge
+2.0;H;0;2.0;8.0;Barge
+2.0;I;0;2.0;8.0;Barge
+2.0;J;0;2.0;8.0;Barge
+2.0;K;0;2.0;8.0;Barge
+2.0;L;0;2.0;8.0;Barge
+2.0;M;0;2.0;8.0;Barge
 1.0;A;0;1.0;8.0;Barge
 1.0;B;0;1.0;8.0;Barge
 1.0;C;0;1.0;8.0;Barge
@@ -3030,6 +2658,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;8.0;Barge
 1.0;F;0;1.0;8.0;Barge
 1.0;G;0;1.0;8.0;Barge
+1.0;H;0;1.0;8.0;Barge
 1.0;I;0;1.0;8.0;Barge
 1.0;J;0;1.0;8.0;Barge
 1.0;K;0;1.0;8.0;Barge
@@ -3042,6 +2671,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;8.0;Barge
 1.0;F;0;2.0;8.0;Barge
 1.0;G;0;2.0;8.0;Barge
+1.0;H;0;2.0;8.0;Barge
 1.0;I;0;2.0;8.0;Barge
 1.0;J;0;2.0;8.0;Barge
 1.0;K;0;2.0;8.0;Barge
@@ -3054,282 +2684,254 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;8.0;Barge
 2.0;F;0;1.0;8.0;Barge
 2.0;G;0;1.0;8.0;Barge
+2.0;H;0;1.0;8.0;Barge
 2.0;I;0;1.0;8.0;Barge
 2.0;J;0;1.0;8.0;Barge
-2.0;K;0;1.0;8.0;Barge
-2.0;L;0;1.0;8.0;Barge
-2.0;M;0;1.0;8.0;Barge
-2.0;A;0;2.0;8.0;Barge
-2.0;B;0;2.0;8.0;Barge
-2.0;C;0;2.0;8.0;Barge
-2.0;D;0;2.0;8.0;Barge
-2.0;E;0;2.0;8.0;Barge
-2.0;F;0;2.0;8.0;Barge
-2.0;G;0;2.0;8.0;Barge
-2.0;I;0;2.0;8.0;Barge
-2.0;J;0;2.0;8.0;Barge
-2.0;K;0;2.0;8.0;Barge
-2.0;L;0;2.0;8.0;Barge
-2.0;M;0;2.0;8.0;Barge
-1.0;A;0;1.0;9.0;Carrier
-1.0;B;0;1.0;9.0;Carrier
-1.0;C;0;1.0;9.0;Carrier
-1.0;D;0;1.0;9.0;Carrier
-1.0;E;0;1.0;9.0;Carrier
-1.0;F;0;1.0;9.0;Carrier
-1.0;G;0;1.0;9.0;Carrier
-1.0;I;0;1.0;9.0;Carrier
-1.0;J;0;1.0;9.0;Carrier
-1.0;K;0;1.0;9.0;Carrier
-1.0;L;0;1.0;9.0;Carrier
-1.0;M;0;1.0;9.0;Carrier
-1.0;A;0;2.0;9.0;Carrier
-1.0;B;0;2.0;9.0;Carrier
-1.0;C;0;2.0;9.0;Carrier
-1.0;D;0;2.0;9.0;Carrier
-1.0;E;0;2.0;9.0;Carrier
-1.0;F;0;2.0;9.0;Carrier
-1.0;G;0;2.0;9.0;Carrier
-1.0;I;0;2.0;9.0;Carrier
-1.0;J;0;2.0;9.0;Carrier
-1.0;K;0;2.0;9.0;Carrier
-1.0;L;0;2.0;9.0;Carrier
-1.0;M;0;2.0;9.0;Carrier
-2.0;A;0;1.0;9.0;Carrier
-2.0;B;0;1.0;9.0;Carrier
-2.0;C;0;1.0;9.0;Carrier
-2.0;D;0;1.0;9.0;Carrier
-2.0;E;0;1.0;9.0;Carrier
-2.0;F;0;1.0;9.0;Carrier
-2.0;G;1;1.0;9.0;Carrier
-2.0;I;4;1.0;9.0;Carrier
-2.0;J;0;1.0;9.0;Carrier
-2.0;K;0;1.0;9.0;Carrier
-2.0;L;0;1.0;9.0;Carrier
-2.0;M;0;1.0;9.0;Carrier
-2.0;A;0;2.0;9.0;Carrier
-2.0;B;0;2.0;9.0;Carrier
-2.0;C;0;2.0;9.0;Carrier
-2.0;D;1;2.0;9.0;Carrier
-2.0;E;1;2.0;9.0;Carrier
-2.0;F;1;2.0;9.0;Carrier
-2.0;G;0;2.0;9.0;Carrier
-2.0;I;1;2.0;9.0;Carrier
-2.0;J;2;2.0;9.0;Carrier
-2.0;K;2;2.0;9.0;Carrier
-2.0;L;0;2.0;9.0;Carrier
-2.0;M;0;2.0;9.0;Carrier
-1.0;A;0;1.0;9.0;Tanker
-1.0;B;0;1.0;9.0;Tanker
-1.0;C;0;1.0;9.0;Tanker
-1.0;D;0;1.0;9.0;Tanker
-1.0;E;0;1.0;9.0;Tanker
-1.0;F;0;1.0;9.0;Tanker
-1.0;G;0;1.0;9.0;Tanker
-1.0;I;0;1.0;9.0;Tanker
-1.0;J;0;1.0;9.0;Tanker
-1.0;K;0;1.0;9.0;Tanker
-1.0;L;0;1.0;9.0;Tanker
-1.0;M;0;1.0;9.0;Tanker
-1.0;A;0;2.0;9.0;Tanker
-1.0;B;0;2.0;9.0;Tanker
-1.0;C;0;2.0;9.0;Tanker
-1.0;D;0;2.0;9.0;Tanker
-1.0;E;0;2.0;9.0;Tanker
-1.0;F;0;2.0;9.0;Tanker
-1.0;G;0;2.0;9.0;Tanker
-1.0;I;0;2.0;9.0;Tanker
-1.0;J;0;2.0;9.0;Tanker
-1.0;K;0;2.0;9.0;Tanker
-1.0;L;0;2.0;9.0;Tanker
-1.0;M;0;2.0;9.0;Tanker
-2.0;A;0;1.0;9.0;Tanker
-2.0;B;1;1.0;9.0;Tanker
-2.0;C;0;1.0;9.0;Tanker
-2.0;D;0;1.0;9.0;Tanker
-2.0;E;0;1.0;9.0;Tanker
-2.0;F;0;1.0;9.0;Tanker
-2.0;G;1;1.0;9.0;Tanker
-2.0;I;3;1.0;9.0;Tanker
-2.0;J;1;1.0;9.0;Tanker
-2.0;K;0;1.0;9.0;Tanker
-2.0;L;0;1.0;9.0;Tanker
-2.0;M;0;1.0;9.0;Tanker
-2.0;A;1;2.0;9.0;Tanker
-2.0;B;2;2.0;9.0;Tanker
-2.0;C;0;2.0;9.0;Tanker
-2.0;D;0;2.0;9.0;Tanker
-2.0;E;0;2.0;9.0;Tanker
-2.0;F;0;2.0;9.0;Tanker
-2.0;G;0;2.0;9.0;Tanker
-2.0;I;2;2.0;9.0;Tanker
-2.0;J;1;2.0;9.0;Tanker
-2.0;K;1;2.0;9.0;Tanker
-2.0;L;0;2.0;9.0;Tanker
-2.0;M;0;2.0;9.0;Tanker
-1.0;A;0;1.0;9.0;Other
-1.0;B;0;1.0;9.0;Other
-1.0;C;0;1.0;9.0;Other
-1.0;D;0;1.0;9.0;Other
-1.0;E;0;1.0;9.0;Other
-1.0;F;0;1.0;9.0;Other
-1.0;G;0;1.0;9.0;Other
-1.0;I;0;1.0;9.0;Other
-1.0;J;0;1.0;9.0;Other
-1.0;K;0;1.0;9.0;Other
-1.0;L;0;1.0;9.0;Other
-1.0;M;0;1.0;9.0;Other
-1.0;A;0;2.0;9.0;Other
-1.0;B;0;2.0;9.0;Other
-1.0;C;0;2.0;9.0;Other
-1.0;D;0;2.0;9.0;Other
-1.0;E;0;2.0;9.0;Other
-1.0;F;0;2.0;9.0;Other
-1.0;G;0;2.0;9.0;Other
-1.0;I;0;2.0;9.0;Other
-1.0;J;0;2.0;9.0;Other
-1.0;K;0;2.0;9.0;Other
-1.0;L;0;2.0;9.0;Other
-1.0;M;0;2.0;9.0;Other
-2.0;A;0;1.0;9.0;Other
-2.0;B;0;1.0;9.0;Other
-2.0;C;0;1.0;9.0;Other
-2.0;D;1;1.0;9.0;Other
-2.0;E;0;1.0;9.0;Other
-2.0;F;0;1.0;9.0;Other
-2.0;G;1;1.0;9.0;Other
-2.0;I;0;1.0;9.0;Other
-2.0;J;1;1.0;9.0;Other
-2.0;K;1;1.0;9.0;Other
-2.0;L;0;1.0;9.0;Other
-2.0;M;1;1.0;9.0;Other
-2.0;A;0;2.0;9.0;Other
-2.0;B;1;2.0;9.0;Other
-2.0;C;0;2.0;9.0;Other
-2.0;D;0;2.0;9.0;Other
-2.0;E;0;2.0;9.0;Other
-2.0;F;0;2.0;9.0;Other
-2.0;G;0;2.0;9.0;Other
-2.0;I;0;2.0;9.0;Other
-2.0;J;2;2.0;9.0;Other
-2.0;K;0;2.0;9.0;Other
-2.0;L;0;2.0;9.0;Other
-2.0;M;0;2.0;9.0;Other
-1.0;A;0;1.0;9.0;Cargo
-1.0;B;0;1.0;9.0;Cargo
-1.0;C;0;1.0;9.0;Cargo
-1.0;D;0;1.0;9.0;Cargo
-1.0;E;0;1.0;9.0;Cargo
-1.0;F;0;1.0;9.0;Cargo
-1.0;G;0;1.0;9.0;Cargo
-1.0;I;0;1.0;9.0;Cargo
-1.0;J;0;1.0;9.0;Cargo
-1.0;K;0;1.0;9.0;Cargo
-1.0;L;0;1.0;9.0;Cargo
-1.0;M;0;1.0;9.0;Cargo
-1.0;A;0;2.0;9.0;Cargo
-1.0;B;0;2.0;9.0;Cargo
-1.0;C;0;2.0;9.0;Cargo
-1.0;D;0;2.0;9.0;Cargo
-1.0;E;0;2.0;9.0;Cargo
-1.0;F;0;2.0;9.0;Cargo
-1.0;G;0;2.0;9.0;Cargo
-1.0;I;0;2.0;9.0;Cargo
-1.0;J;0;2.0;9.0;Cargo
-1.0;K;0;2.0;9.0;Cargo
-1.0;L;0;2.0;9.0;Cargo
-1.0;M;0;2.0;9.0;Cargo
-2.0;A;0;1.0;9.0;Cargo
-2.0;B;0;1.0;9.0;Cargo
-2.0;C;0;1.0;9.0;Cargo
-2.0;D;0;1.0;9.0;Cargo
-2.0;E;0;1.0;9.0;Cargo
-2.0;F;0;1.0;9.0;Cargo
-2.0;G;0;1.0;9.0;Cargo
-2.0;I;2;1.0;9.0;Cargo
-2.0;J;1;1.0;9.0;Cargo
-2.0;K;0;1.0;9.0;Cargo
-2.0;L;0;1.0;9.0;Cargo
-2.0;M;0;1.0;9.0;Cargo
-2.0;A;0;2.0;9.0;Cargo
-2.0;B;1;2.0;9.0;Cargo
-2.0;C;0;2.0;9.0;Cargo
-2.0;D;0;2.0;9.0;Cargo
-2.0;E;0;2.0;9.0;Cargo
-2.0;F;0;2.0;9.0;Cargo
-2.0;G;0;2.0;9.0;Cargo
-2.0;I;1;2.0;9.0;Cargo
-2.0;J;0;2.0;9.0;Cargo
-2.0;K;0;2.0;9.0;Cargo
-2.0;L;0;2.0;9.0;Cargo
-2.0;M;0;2.0;9.0;Cargo
-1.0;A;0;1.0;9.0;Ro-Ro
-1.0;B;0;1.0;9.0;Ro-Ro
-1.0;C;0;1.0;9.0;Ro-Ro
-1.0;D;0;1.0;9.0;Ro-Ro
-1.0;E;0;1.0;9.0;Ro-Ro
-1.0;F;0;1.0;9.0;Ro-Ro
-1.0;G;0;1.0;9.0;Ro-Ro
-1.0;I;0;1.0;9.0;Ro-Ro
-1.0;J;0;1.0;9.0;Ro-Ro
-1.0;K;0;1.0;9.0;Ro-Ro
-1.0;L;0;1.0;9.0;Ro-Ro
-1.0;M;0;1.0;9.0;Ro-Ro
-1.0;A;0;2.0;9.0;Ro-Ro
-1.0;B;0;2.0;9.0;Ro-Ro
-1.0;C;0;2.0;9.0;Ro-Ro
-1.0;D;0;2.0;9.0;Ro-Ro
-1.0;E;0;2.0;9.0;Ro-Ro
-1.0;F;0;2.0;9.0;Ro-Ro
-1.0;G;0;2.0;9.0;Ro-Ro
-1.0;I;0;2.0;9.0;Ro-Ro
-1.0;J;0;2.0;9.0;Ro-Ro
-1.0;K;0;2.0;9.0;Ro-Ro
-1.0;L;0;2.0;9.0;Ro-Ro
-1.0;M;0;2.0;9.0;Ro-Ro
-2.0;A;0;1.0;9.0;Ro-Ro
-2.0;B;0;1.0;9.0;Ro-Ro
-2.0;C;0;1.0;9.0;Ro-Ro
-2.0;D;0;1.0;9.0;Ro-Ro
-2.0;E;0;1.0;9.0;Ro-Ro
-2.0;F;0;1.0;9.0;Ro-Ro
-2.0;G;0;1.0;9.0;Ro-Ro
-2.0;I;0;1.0;9.0;Ro-Ro
-2.0;J;0;1.0;9.0;Ro-Ro
-2.0;K;0;1.0;9.0;Ro-Ro
-2.0;L;0;1.0;9.0;Ro-Ro
-2.0;M;0;1.0;9.0;Ro-Ro
-2.0;A;0;2.0;9.0;Ro-Ro
-2.0;B;0;2.0;9.0;Ro-Ro
-2.0;C;0;2.0;9.0;Ro-Ro
-2.0;D;0;2.0;9.0;Ro-Ro
-2.0;E;0;2.0;9.0;Ro-Ro
-2.0;F;0;2.0;9.0;Ro-Ro
-2.0;G;0;2.0;9.0;Ro-Ro
-2.0;I;0;2.0;9.0;Ro-Ro
-2.0;J;0;2.0;9.0;Ro-Ro
-2.0;K;0;2.0;9.0;Ro-Ro
-2.0;L;0;2.0;9.0;Ro-Ro
-2.0;M;0;2.0;9.0;Ro-Ro
-1.0;A;0;1.0;9.0;Vessel
-1.0;B;0;1.0;9.0;Vessel
-1.0;C;0;1.0;9.0;Vessel
-1.0;D;0;1.0;9.0;Vessel
-1.0;E;0;1.0;9.0;Vessel
-1.0;F;0;1.0;9.0;Vessel
-1.0;G;0;1.0;9.0;Vessel
-1.0;I;0;1.0;9.0;Vessel
-1.0;J;0;1.0;9.0;Vessel
-1.0;K;0;1.0;9.0;Vessel
-1.0;L;0;1.0;9.0;Vessel
-1.0;M;0;1.0;9.0;Vessel
-1.0;A;0;2.0;9.0;Vessel
-1.0;B;0;2.0;9.0;Vessel
-1.0;C;0;2.0;9.0;Vessel
+2.0;K;1;1.0;8.0;Vehicle Carrier
+2.0;L;0;1.0;8.0;Vehicle Carrier
+2.0;M;0;1.0;8.0;Vehicle Carrier
+2.0;A;0;2.0;8.0;Vehicle Carrier
+2.0;B;1;2.0;8.0;Vehicle Carrier
+2.0;C;1;2.0;8.0;Vehicle Carrier
+2.0;D;1;2.0;8.0;Vehicle Carrier
+2.0;E;0;2.0;8.0;Vehicle Carrier
+2.0;F;0;2.0;8.0;Vehicle Carrier
+2.0;G;0;2.0;8.0;Vehicle Carrier
+2.0;H;0;2.0;8.0;Vehicle Carrier
+2.0;I;4;2.0;8.0;Vehicle Carrier
+2.0;J;5;2.0;8.0;Vehicle Carrier
+2.0;K;0;2.0;8.0;Vehicle Carrier
+2.0;L;0;2.0;8.0;Vehicle Carrier
+2.0;M;0;2.0;8.0;Vehicle Carrier
+1.0;A;0;1.0;8.0;Vehicle Carrier
+1.0;B;0;1.0;8.0;Vehicle Carrier
+1.0;C;0;1.0;8.0;Vehicle Carrier
+1.0;D;0;1.0;8.0;Vehicle Carrier
+1.0;E;0;1.0;8.0;Vehicle Carrier
+1.0;F;0;1.0;8.0;Vehicle Carrier
+1.0;G;0;1.0;8.0;Vehicle Carrier
+1.0;H;0;1.0;8.0;Vehicle Carrier
+1.0;I;0;1.0;8.0;Vehicle Carrier
+1.0;J;0;1.0;8.0;Vehicle Carrier
+1.0;K;0;1.0;8.0;Vehicle Carrier
+1.0;L;0;1.0;8.0;Vehicle Carrier
+1.0;M;0;1.0;8.0;Vehicle Carrier
+1.0;A;0;2.0;8.0;Vehicle Carrier
+1.0;B;0;2.0;8.0;Vehicle Carrier
+1.0;C;0;2.0;8.0;Vehicle Carrier
+1.0;D;0;2.0;8.0;Vehicle Carrier
+1.0;E;0;2.0;8.0;Vehicle Carrier
+1.0;F;0;2.0;8.0;Vehicle Carrier
+1.0;G;0;2.0;8.0;Vehicle Carrier
+1.0;H;0;2.0;8.0;Vehicle Carrier
+1.0;I;0;2.0;8.0;Vehicle Carrier
+1.0;J;0;2.0;8.0;Vehicle Carrier
+1.0;K;0;2.0;8.0;Vehicle Carrier
+1.0;L;0;2.0;8.0;Vehicle Carrier
+1.0;M;0;2.0;8.0;Vehicle Carrier
+2.0;A;2;1.0;8.0;Vehicle Carrier
+2.0;B;0;1.0;8.0;Vehicle Carrier
+2.0;C;2;1.0;8.0;Vehicle Carrier
+2.0;D;1;1.0;8.0;Vehicle Carrier
+2.0;E;0;1.0;8.0;Vehicle Carrier
+2.0;F;1;1.0;8.0;Vehicle Carrier
+2.0;G;0;1.0;8.0;Tanker
+2.0;H;0;1.0;8.0;Tanker
+2.0;I;1;1.0;8.0;Tanker
+2.0;J;0;1.0;8.0;Tanker
+2.0;K;0;1.0;8.0;Tanker
+2.0;L;0;1.0;8.0;Tanker
+2.0;M;0;1.0;8.0;Tanker
+2.0;A;0;2.0;8.0;Tanker
+2.0;B;0;2.0;8.0;Tanker
+2.0;C;0;2.0;8.0;Tanker
+2.0;D;0;2.0;8.0;Tanker
+2.0;E;1;2.0;8.0;Tanker
+2.0;F;0;2.0;8.0;Tanker
+2.0;G;1;2.0;8.0;Tanker
+2.0;H;0;2.0;8.0;Tanker
+2.0;I;1;2.0;8.0;Tanker
+2.0;J;1;2.0;8.0;Tanker
+2.0;K;0;2.0;8.0;Tanker
+2.0;L;2;2.0;8.0;Tanker
+2.0;M;0;2.0;8.0;Tanker
+1.0;A;0;1.0;8.0;Tanker
+1.0;B;0;1.0;8.0;Tanker
+1.0;C;0;1.0;8.0;Tanker
+1.0;D;0;1.0;8.0;Tanker
+1.0;E;0;1.0;8.0;Tanker
+1.0;F;0;1.0;8.0;Tanker
+1.0;G;0;1.0;8.0;Tanker
+1.0;H;0;1.0;8.0;Tanker
+1.0;I;0;1.0;8.0;Tanker
+1.0;J;0;1.0;8.0;Tanker
+1.0;K;0;1.0;8.0;Tanker
+1.0;L;0;1.0;8.0;Tanker
+1.0;M;0;1.0;8.0;Tanker
+1.0;A;0;2.0;8.0;Tanker
+1.0;B;0;2.0;8.0;Tanker
+1.0;C;0;2.0;8.0;Tanker
+1.0;D;0;2.0;8.0;Tanker
+1.0;E;0;2.0;8.0;Tanker
+1.0;F;0;2.0;8.0;Tanker
+1.0;G;0;2.0;8.0;Tanker
+1.0;H;0;2.0;8.0;Tanker
+1.0;I;0;2.0;8.0;Tanker
+1.0;J;0;2.0;8.0;Tanker
+1.0;K;0;2.0;8.0;Tanker
+1.0;L;0;2.0;8.0;Tanker
+1.0;M;0;2.0;8.0;Tanker
+2.0;A;0;1.0;8.0;Tanker
+2.0;B;1;1.0;8.0;Tanker
+2.0;C;0;1.0;8.0;Offshore Exploitation
+2.0;D;0;1.0;8.0;Offshore Exploitation
+2.0;E;0;1.0;8.0;Offshore Exploitation
+2.0;F;0;1.0;8.0;Offshore Exploitation
+2.0;G;0;1.0;8.0;Offshore Exploitation
+2.0;H;0;1.0;8.0;Offshore Exploitation
+2.0;I;0;1.0;8.0;Offshore Exploitation
+2.0;J;0;1.0;8.0;Offshore Exploitation
+2.0;K;0;1.0;8.0;Offshore Exploitation
+2.0;L;0;1.0;8.0;Offshore Exploitation
+2.0;M;0;1.0;8.0;Offshore Exploitation
+2.0;A;0;2.0;8.0;Offshore Exploitation
+2.0;B;0;2.0;8.0;Offshore Exploitation
+2.0;C;0;2.0;8.0;Offshore Exploitation
+2.0;D;0;2.0;8.0;Offshore Exploitation
+2.0;E;0;2.0;8.0;Offshore Exploitation
+2.0;F;0;2.0;8.0;Offshore Exploitation
+2.0;G;0;2.0;8.0;Offshore Exploitation
+2.0;H;0;2.0;8.0;Offshore Exploitation
+2.0;I;0;2.0;8.0;Offshore Exploitation
+2.0;J;0;2.0;8.0;Offshore Exploitation
+2.0;K;0;2.0;8.0;Offshore Exploitation
+2.0;L;0;2.0;8.0;Offshore Exploitation
+2.0;M;0;2.0;8.0;Offshore Exploitation
+1.0;A;0;1.0;8.0;Offshore Exploitation
+1.0;B;0;1.0;8.0;Offshore Exploitation
+1.0;C;0;1.0;8.0;Offshore Exploitation
+1.0;D;0;1.0;8.0;Offshore Exploitation
+1.0;E;0;1.0;8.0;Offshore Exploitation
+1.0;F;0;1.0;8.0;Offshore Exploitation
+1.0;G;0;1.0;8.0;Offshore Exploitation
+1.0;H;0;1.0;8.0;Offshore Exploitation
+1.0;I;0;1.0;8.0;Offshore Exploitation
+1.0;J;0;1.0;8.0;Offshore Exploitation
+1.0;K;0;1.0;8.0;Offshore Exploitation
+1.0;L;0;1.0;8.0;Offshore Exploitation
+1.0;M;0;1.0;8.0;Offshore Exploitation
+1.0;A;0;2.0;8.0;Offshore Exploitation
+1.0;B;0;2.0;8.0;Offshore Exploitation
+1.0;C;0;2.0;8.0;Offshore Exploitation
+1.0;D;0;2.0;8.0;Offshore Exploitation
+1.0;E;0;2.0;8.0;Offshore Exploitation
+1.0;F;0;2.0;8.0;Offshore Exploitation
+1.0;G;0;2.0;8.0;Offshore Exploitation
+1.0;H;0;2.0;8.0;Offshore Exploitation
+1.0;I;0;2.0;8.0;Offshore Exploitation
+1.0;J;0;2.0;8.0;Offshore Exploitation
+1.0;K;0;2.0;8.0;Offshore Exploitation
+1.0;L;0;2.0;8.0;Other
+1.0;M;0;2.0;8.0;Other
+2.0;A;0;1.0;8.0;Other
+2.0;B;0;1.0;8.0;Other
+2.0;C;0;1.0;8.0;Other
+2.0;D;0;1.0;8.0;Other
+2.0;E;0;1.0;8.0;Other
+2.0;F;0;1.0;8.0;Other
+2.0;G;0;1.0;8.0;Other
+2.0;H;0;1.0;8.0;Other
+2.0;I;0;1.0;8.0;Other
+2.0;J;0;1.0;8.0;Other
+2.0;K;0;1.0;8.0;Other
+2.0;L;0;1.0;8.0;Other
+2.0;M;0;1.0;8.0;Other
+2.0;A;0;2.0;8.0;Other
+2.0;B;0;2.0;8.0;Other
+2.0;C;0;2.0;8.0;Other
+2.0;D;0;2.0;8.0;Other
+2.0;E;0;2.0;8.0;Other
+2.0;F;0;2.0;8.0;Other
+2.0;G;0;2.0;8.0;Other
+2.0;H;0;2.0;8.0;Other
+2.0;I;1;2.0;8.0;Other
+2.0;J;1;2.0;8.0;Other
+2.0;K;0;2.0;8.0;Other
+2.0;L;0;2.0;8.0;Other
+2.0;M;0;2.0;8.0;Other
+1.0;A;0;1.0;8.0;Other
+1.0;B;0;1.0;8.0;Other
+1.0;C;0;1.0;8.0;Other
+1.0;D;0;1.0;8.0;Other
+1.0;E;0;1.0;8.0;Other
+1.0;F;0;1.0;8.0;Other
+1.0;G;0;1.0;8.0;Other
+1.0;H;0;1.0;8.0;Other
+1.0;I;0;1.0;8.0;Other
+1.0;J;0;1.0;8.0;Other
+1.0;K;0;1.0;8.0;Other
+1.0;L;0;1.0;8.0;Other
+1.0;M;0;1.0;8.0;Other
+1.0;A;0;2.0;8.0;Other
+1.0;B;0;2.0;8.0;Other
+1.0;C;0;2.0;8.0;Other
+1.0;D;0;2.0;8.0;Other
+1.0;E;0;2.0;8.0;Other
+1.0;F;0;2.0;8.0;Other
+1.0;G;0;2.0;8.0;Other
+1.0;H;0;2.0;8.0;Tug
+1.0;I;0;2.0;8.0;Tug
+1.0;J;0;2.0;8.0;Tug
+1.0;K;0;2.0;8.0;Tug
+1.0;L;0;2.0;8.0;Tug
+1.0;M;0;2.0;8.0;Tug
+2.0;A;0;1.0;8.0;Tug
+2.0;B;0;1.0;8.0;Tug
+2.0;C;0;1.0;8.0;Tug
+2.0;D;0;1.0;8.0;Tug
+2.0;E;0;1.0;8.0;Tug
+2.0;F;0;1.0;8.0;Tug
+2.0;G;0;1.0;8.0;Tug
+2.0;H;0;1.0;8.0;Tug
+2.0;I;0;1.0;8.0;Tug
+2.0;J;0;1.0;8.0;Tug
+2.0;K;0;1.0;8.0;Tug
+2.0;L;0;1.0;8.0;Tug
+2.0;M;0;1.0;8.0;Tug
+2.0;A;0;2.0;8.0;Tug
+2.0;B;0;2.0;8.0;Tug
+2.0;C;0;2.0;8.0;Tug
+2.0;D;0;2.0;8.0;Tug
+2.0;E;0;2.0;8.0;Tug
+2.0;F;0;2.0;8.0;Tug
+2.0;G;0;2.0;8.0;Tug
+2.0;H;0;2.0;8.0;Tug
+2.0;I;0;2.0;8.0;Tug
+2.0;J;0;2.0;8.0;Tug
+2.0;K;0;2.0;8.0;Tug
+2.0;L;0;2.0;8.0;Tug
+2.0;M;0;2.0;8.0;Tug
+1.0;A;0;1.0;9.0;Tug
+1.0;B;0;1.0;9.0;Tug
+1.0;C;0;1.0;9.0;Tug
+1.0;D;0;1.0;9.0;Tug
+1.0;E;0;1.0;9.0;Tug
+1.0;F;0;1.0;9.0;Tug
+1.0;G;0;1.0;9.0;Tug
+1.0;H;0;1.0;9.0;Tug
+1.0;I;0;1.0;9.0;Tug
+1.0;J;0;1.0;9.0;Tug
+1.0;K;0;1.0;9.0;Tug
+1.0;L;0;1.0;9.0;Tug
+1.0;M;0;1.0;9.0;Tug
+1.0;A;0;2.0;9.0;Tug
+1.0;B;0;2.0;9.0;Tug
+1.0;C;0;2.0;9.0;Tug
 1.0;D;0;2.0;9.0;Vessel
 1.0;E;0;2.0;9.0;Vessel
 1.0;F;0;2.0;9.0;Vessel
 1.0;G;0;2.0;9.0;Vessel
+1.0;H;0;2.0;9.0;Vessel
 1.0;I;0;2.0;9.0;Vessel
 1.0;J;0;2.0;9.0;Vessel
 1.0;K;0;2.0;9.0;Vessel
@@ -3342,6 +2944,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;9.0;Vessel
 2.0;F;0;1.0;9.0;Vessel
 2.0;G;0;1.0;9.0;Vessel
+2.0;H;0;1.0;9.0;Vessel
 2.0;I;0;1.0;9.0;Vessel
 2.0;J;0;1.0;9.0;Vessel
 2.0;K;0;1.0;9.0;Vessel
@@ -3354,70 +2957,24 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;9.0;Vessel
 2.0;F;0;2.0;9.0;Vessel
 2.0;G;0;2.0;9.0;Vessel
+2.0;H;0;2.0;9.0;Vessel
 2.0;I;0;2.0;9.0;Vessel
 2.0;J;0;2.0;9.0;Vessel
 2.0;K;0;2.0;9.0;Vessel
 2.0;L;0;2.0;9.0;Vessel
 2.0;M;0;2.0;9.0;Vessel
-1.0;A;0;1.0;9.0;Tug
-1.0;B;0;1.0;9.0;Tug
-1.0;C;0;1.0;9.0;Tug
-1.0;D;0;1.0;9.0;Tug
-1.0;E;0;1.0;9.0;Tug
-1.0;F;0;1.0;9.0;Tug
-1.0;G;0;1.0;9.0;Tug
-1.0;I;0;1.0;9.0;Tug
-1.0;J;0;1.0;9.0;Tug
-1.0;K;0;1.0;9.0;Tug
-1.0;L;0;1.0;9.0;Tug
-1.0;M;0;1.0;9.0;Tug
-1.0;A;0;2.0;9.0;Tug
-1.0;B;0;2.0;9.0;Tug
-1.0;C;0;2.0;9.0;Tug
-1.0;D;0;2.0;9.0;Tug
-1.0;E;0;2.0;9.0;Tug
-1.0;F;0;2.0;9.0;Tug
-1.0;G;0;2.0;9.0;Tug
-1.0;I;0;2.0;9.0;Tug
-1.0;J;0;2.0;9.0;Tug
-1.0;K;0;2.0;9.0;Tug
-1.0;L;0;2.0;9.0;Tug
-1.0;M;0;2.0;9.0;Tug
-2.0;A;0;1.0;9.0;Tug
-2.0;B;0;1.0;9.0;Tug
-2.0;C;0;1.0;9.0;Tug
-2.0;D;0;1.0;9.0;Tug
-2.0;E;0;1.0;9.0;Tug
-2.0;F;0;1.0;9.0;Tug
-2.0;G;0;1.0;9.0;Tug
-2.0;I;0;1.0;9.0;Tug
-2.0;J;0;1.0;9.0;Tug
-2.0;K;0;1.0;9.0;Tug
-2.0;L;0;1.0;9.0;Tug
-2.0;M;0;1.0;9.0;Tug
-2.0;A;0;2.0;9.0;Tug
-2.0;B;0;2.0;9.0;Tug
-2.0;C;0;2.0;9.0;Tug
-2.0;D;0;2.0;9.0;Tug
-2.0;E;0;2.0;9.0;Tug
-2.0;F;0;2.0;9.0;Tug
-2.0;G;0;2.0;9.0;Tug
-2.0;I;0;2.0;9.0;Tug
-2.0;J;0;2.0;9.0;Tug
-2.0;K;0;2.0;9.0;Tug
-2.0;L;0;2.0;9.0;Tug
-2.0;M;0;2.0;9.0;Tug
-1.0;A;0;1.0;9.0;Barge
-1.0;B;0;1.0;9.0;Barge
-1.0;C;0;1.0;9.0;Barge
-1.0;D;0;1.0;9.0;Barge
-1.0;E;0;1.0;9.0;Barge
-1.0;F;0;1.0;9.0;Barge
-1.0;G;0;1.0;9.0;Barge
-1.0;I;0;1.0;9.0;Barge
-1.0;J;0;1.0;9.0;Barge
-1.0;K;0;1.0;9.0;Barge
-1.0;L;0;1.0;9.0;Barge
+1.0;A;0;1.0;9.0;Vessel
+1.0;B;0;1.0;9.0;Vessel
+1.0;C;0;1.0;9.0;Vessel
+1.0;D;0;1.0;9.0;Vessel
+1.0;E;0;1.0;9.0;Vessel
+1.0;F;0;1.0;9.0;Vessel
+1.0;G;0;1.0;9.0;Vessel
+1.0;H;0;1.0;9.0;Vessel
+1.0;I;0;1.0;9.0;Vessel
+1.0;J;0;1.0;9.0;Vessel
+1.0;K;0;1.0;9.0;Vessel
+1.0;L;0;1.0;9.0;Vessel
 1.0;M;0;1.0;9.0;Barge
 1.0;A;0;2.0;9.0;Barge
 1.0;B;0;2.0;9.0;Barge
@@ -3426,6 +2983,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;9.0;Barge
 1.0;F;0;2.0;9.0;Barge
 1.0;G;0;2.0;9.0;Barge
+1.0;H;0;2.0;9.0;Barge
 1.0;I;0;2.0;9.0;Barge
 1.0;J;0;2.0;9.0;Barge
 1.0;K;0;2.0;9.0;Barge
@@ -3438,11 +2996,12 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;9.0;Barge
 2.0;F;0;1.0;9.0;Barge
 2.0;G;0;1.0;9.0;Barge
+2.0;H;0;1.0;9.0;Barge
 2.0;I;0;1.0;9.0;Barge
 2.0;J;0;1.0;9.0;Barge
-2.0;K;0;1.0;9.0;Barge
+2.0;K;1;1.0;9.0;Barge
 2.0;L;0;1.0;9.0;Barge
-2.0;M;0;1.0;9.0;Barge
+2.0;M;1;1.0;9.0;Barge
 2.0;A;0;2.0;9.0;Barge
 2.0;B;0;2.0;9.0;Barge
 2.0;C;0;2.0;9.0;Barge
@@ -3450,251 +3009,272 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;9.0;Barge
 2.0;F;0;2.0;9.0;Barge
 2.0;G;0;2.0;9.0;Barge
+2.0;H;0;2.0;9.0;Barge
 2.0;I;0;2.0;9.0;Barge
 2.0;J;0;2.0;9.0;Barge
 2.0;K;0;2.0;9.0;Barge
 2.0;L;0;2.0;9.0;Barge
 2.0;M;0;2.0;9.0;Barge
-1.0;A;0;1.0;10.0;Carrier
-1.0;B;0;1.0;10.0;Carrier
-1.0;C;0;1.0;10.0;Carrier
-1.0;D;0;1.0;10.0;Carrier
-1.0;E;0;1.0;10.0;Carrier
-1.0;F;0;1.0;10.0;Carrier
-1.0;G;0;1.0;10.0;Carrier
-1.0;I;0;1.0;10.0;Carrier
-1.0;J;0;1.0;10.0;Carrier
-1.0;K;0;1.0;10.0;Carrier
-1.0;L;0;1.0;10.0;Carrier
-1.0;M;0;1.0;10.0;Carrier
-1.0;A;0;2.0;10.0;Carrier
-1.0;B;0;2.0;10.0;Carrier
-1.0;C;0;2.0;10.0;Carrier
-1.0;D;0;2.0;10.0;Carrier
-1.0;E;0;2.0;10.0;Carrier
-1.0;F;0;2.0;10.0;Carrier
-1.0;G;0;2.0;10.0;Carrier
-1.0;I;0;2.0;10.0;Carrier
-1.0;J;0;2.0;10.0;Carrier
-1.0;K;0;2.0;10.0;Carrier
-1.0;L;0;2.0;10.0;Carrier
-1.0;M;0;2.0;10.0;Carrier
-2.0;A;0;1.0;10.0;Carrier
-2.0;B;0;1.0;10.0;Carrier
-2.0;C;0;1.0;10.0;Carrier
-2.0;D;0;1.0;10.0;Carrier
-2.0;E;0;1.0;10.0;Carrier
-2.0;F;0;1.0;10.0;Carrier
-2.0;G;0;1.0;10.0;Carrier
-2.0;I;3;1.0;10.0;Carrier
-2.0;J;0;1.0;10.0;Carrier
-2.0;K;2;1.0;10.0;Carrier
-2.0;L;0;1.0;10.0;Carrier
-2.0;M;0;1.0;10.0;Carrier
-2.0;A;0;2.0;10.0;Carrier
-2.0;B;0;2.0;10.0;Carrier
-2.0;C;0;2.0;10.0;Carrier
-2.0;D;0;2.0;10.0;Carrier
-2.0;E;0;2.0;10.0;Carrier
-2.0;F;0;2.0;10.0;Carrier
-2.0;G;1;2.0;10.0;Carrier
-2.0;I;0;2.0;10.0;Carrier
-2.0;J;2;2.0;10.0;Carrier
-2.0;K;0;2.0;10.0;Carrier
-2.0;L;1;2.0;10.0;Carrier
-2.0;M;0;2.0;10.0;Carrier
-1.0;A;0;1.0;10.0;Tanker
-1.0;B;0;1.0;10.0;Tanker
-1.0;C;0;1.0;10.0;Tanker
-1.0;D;0;1.0;10.0;Tanker
-1.0;E;0;1.0;10.0;Tanker
-1.0;F;0;1.0;10.0;Tanker
-1.0;G;0;1.0;10.0;Tanker
-1.0;I;0;1.0;10.0;Tanker
-1.0;J;0;1.0;10.0;Tanker
-1.0;K;0;1.0;10.0;Tanker
-1.0;L;0;1.0;10.0;Tanker
-1.0;M;0;1.0;10.0;Tanker
-1.0;A;0;2.0;10.0;Tanker
-1.0;B;0;2.0;10.0;Tanker
-1.0;C;0;2.0;10.0;Tanker
-1.0;D;0;2.0;10.0;Tanker
-1.0;E;0;2.0;10.0;Tanker
-1.0;F;0;2.0;10.0;Tanker
-1.0;G;0;2.0;10.0;Tanker
-1.0;I;0;2.0;10.0;Tanker
-1.0;J;0;2.0;10.0;Tanker
-1.0;K;0;2.0;10.0;Tanker
-1.0;L;0;2.0;10.0;Tanker
-1.0;M;0;2.0;10.0;Tanker
-2.0;A;0;1.0;10.0;Tanker
-2.0;B;0;1.0;10.0;Tanker
-2.0;C;0;1.0;10.0;Tanker
-2.0;D;0;1.0;10.0;Tanker
-2.0;E;0;1.0;10.0;Tanker
-2.0;F;1;1.0;10.0;Tanker
-2.0;G;0;1.0;10.0;Tanker
-2.0;I;3;1.0;10.0;Tanker
-2.0;J;1;1.0;10.0;Tanker
-2.0;K;0;1.0;10.0;Tanker
-2.0;L;0;1.0;10.0;Tanker
-2.0;M;0;1.0;10.0;Tanker
-2.0;A;0;2.0;10.0;Tanker
-2.0;B;0;2.0;10.0;Tanker
-2.0;C;0;2.0;10.0;Tanker
-2.0;D;0;2.0;10.0;Tanker
-2.0;E;0;2.0;10.0;Tanker
-2.0;F;2;2.0;10.0;Tanker
-2.0;G;2;2.0;10.0;Tanker
-2.0;I;2;2.0;10.0;Tanker
-2.0;J;0;2.0;10.0;Tanker
-2.0;K;0;2.0;10.0;Tanker
-2.0;L;0;2.0;10.0;Tanker
-2.0;M;0;2.0;10.0;Tanker
-1.0;A;0;1.0;10.0;Other
-1.0;B;0;1.0;10.0;Other
-1.0;C;0;1.0;10.0;Other
-1.0;D;0;1.0;10.0;Other
-1.0;E;0;1.0;10.0;Other
-1.0;F;0;1.0;10.0;Other
-1.0;G;0;1.0;10.0;Other
-1.0;I;0;1.0;10.0;Other
-1.0;J;0;1.0;10.0;Other
-1.0;K;0;1.0;10.0;Other
-1.0;L;0;1.0;10.0;Other
-1.0;M;0;1.0;10.0;Other
-1.0;A;0;2.0;10.0;Other
-1.0;B;0;2.0;10.0;Other
-1.0;C;0;2.0;10.0;Other
-1.0;D;0;2.0;10.0;Other
-1.0;E;0;2.0;10.0;Other
-1.0;F;0;2.0;10.0;Other
-1.0;G;0;2.0;10.0;Other
-1.0;I;0;2.0;10.0;Other
-1.0;J;0;2.0;10.0;Other
-1.0;K;0;2.0;10.0;Other
-1.0;L;0;2.0;10.0;Other
-1.0;M;0;2.0;10.0;Other
-2.0;A;0;1.0;10.0;Other
-2.0;B;0;1.0;10.0;Other
-2.0;C;0;1.0;10.0;Other
-2.0;D;0;1.0;10.0;Other
-2.0;E;0;1.0;10.0;Other
-2.0;F;0;1.0;10.0;Other
-2.0;G;0;1.0;10.0;Other
-2.0;I;2;1.0;10.0;Other
-2.0;J;0;1.0;10.0;Other
-2.0;K;0;1.0;10.0;Other
-2.0;L;0;1.0;10.0;Other
-2.0;M;0;1.0;10.0;Other
-2.0;A;0;2.0;10.0;Other
-2.0;B;0;2.0;10.0;Other
-2.0;C;0;2.0;10.0;Other
-2.0;D;0;2.0;10.0;Other
-2.0;E;0;2.0;10.0;Other
-2.0;F;0;2.0;10.0;Other
-2.0;G;0;2.0;10.0;Other
-2.0;I;1;2.0;10.0;Other
-2.0;J;0;2.0;10.0;Other
-2.0;K;0;2.0;10.0;Other
-2.0;L;0;2.0;10.0;Other
-2.0;M;1;2.0;10.0;Other
-1.0;A;0;1.0;10.0;Cargo
-1.0;B;0;1.0;10.0;Cargo
-1.0;C;0;1.0;10.0;Cargo
-1.0;D;0;1.0;10.0;Cargo
-1.0;E;0;1.0;10.0;Cargo
-1.0;F;0;1.0;10.0;Cargo
-1.0;G;0;1.0;10.0;Cargo
-1.0;I;0;1.0;10.0;Cargo
-1.0;J;0;1.0;10.0;Cargo
-1.0;K;0;1.0;10.0;Cargo
-1.0;L;0;1.0;10.0;Cargo
-1.0;M;0;1.0;10.0;Cargo
-1.0;A;0;2.0;10.0;Cargo
-1.0;B;0;2.0;10.0;Cargo
-1.0;C;0;2.0;10.0;Cargo
-1.0;D;0;2.0;10.0;Cargo
-1.0;E;0;2.0;10.0;Cargo
-1.0;F;0;2.0;10.0;Cargo
-1.0;G;0;2.0;10.0;Cargo
-1.0;I;0;2.0;10.0;Cargo
-1.0;J;0;2.0;10.0;Cargo
-1.0;K;0;2.0;10.0;Cargo
-1.0;L;0;2.0;10.0;Cargo
-1.0;M;0;2.0;10.0;Cargo
-2.0;A;0;1.0;10.0;Cargo
-2.0;B;0;1.0;10.0;Cargo
-2.0;C;0;1.0;10.0;Cargo
-2.0;D;0;1.0;10.0;Cargo
-2.0;E;1;1.0;10.0;Cargo
-2.0;F;0;1.0;10.0;Cargo
-2.0;G;0;1.0;10.0;Cargo
-2.0;I;0;1.0;10.0;Cargo
-2.0;J;0;1.0;10.0;Cargo
-2.0;K;1;1.0;10.0;Cargo
-2.0;L;0;1.0;10.0;Cargo
-2.0;M;0;1.0;10.0;Cargo
-2.0;A;0;2.0;10.0;Cargo
-2.0;B;0;2.0;10.0;Cargo
-2.0;C;0;2.0;10.0;Cargo
-2.0;D;0;2.0;10.0;Cargo
-2.0;E;0;2.0;10.0;Cargo
-2.0;F;0;2.0;10.0;Cargo
-2.0;G;0;2.0;10.0;Cargo
-2.0;I;2;2.0;10.0;Cargo
-2.0;J;0;2.0;10.0;Cargo
-2.0;K;1;2.0;10.0;Cargo
-2.0;L;1;2.0;10.0;Cargo
-2.0;M;0;2.0;10.0;Cargo
-1.0;A;0;1.0;10.0;Ro-Ro
-1.0;B;0;1.0;10.0;Ro-Ro
-1.0;C;0;1.0;10.0;Ro-Ro
-1.0;D;0;1.0;10.0;Ro-Ro
-1.0;E;0;1.0;10.0;Ro-Ro
-1.0;F;0;1.0;10.0;Ro-Ro
-1.0;G;0;1.0;10.0;Ro-Ro
-1.0;I;0;1.0;10.0;Ro-Ro
-1.0;J;0;1.0;10.0;Ro-Ro
-1.0;K;0;1.0;10.0;Ro-Ro
-1.0;L;0;1.0;10.0;Ro-Ro
-1.0;M;0;1.0;10.0;Ro-Ro
-1.0;A;0;2.0;10.0;Ro-Ro
-1.0;B;0;2.0;10.0;Ro-Ro
-1.0;C;0;2.0;10.0;Ro-Ro
-1.0;D;0;2.0;10.0;Ro-Ro
-1.0;E;0;2.0;10.0;Ro-Ro
-1.0;F;0;2.0;10.0;Ro-Ro
-1.0;G;0;2.0;10.0;Ro-Ro
-1.0;I;0;2.0;10.0;Ro-Ro
-1.0;J;0;2.0;10.0;Ro-Ro
-1.0;K;0;2.0;10.0;Ro-Ro
-1.0;L;0;2.0;10.0;Ro-Ro
-1.0;M;0;2.0;10.0;Ro-Ro
-2.0;A;0;1.0;10.0;Ro-Ro
-2.0;B;0;1.0;10.0;Ro-Ro
-2.0;C;0;1.0;10.0;Ro-Ro
-2.0;D;0;1.0;10.0;Ro-Ro
-2.0;E;0;1.0;10.0;Ro-Ro
-2.0;F;0;1.0;10.0;Ro-Ro
-2.0;G;0;1.0;10.0;Ro-Ro
-2.0;I;0;1.0;10.0;Ro-Ro
-2.0;J;0;1.0;10.0;Ro-Ro
-2.0;K;0;1.0;10.0;Ro-Ro
-2.0;L;0;1.0;10.0;Ro-Ro
-2.0;M;0;1.0;10.0;Ro-Ro
-2.0;A;0;2.0;10.0;Ro-Ro
-2.0;B;0;2.0;10.0;Ro-Ro
-2.0;C;0;2.0;10.0;Ro-Ro
-2.0;D;0;2.0;10.0;Ro-Ro
-2.0;E;0;2.0;10.0;Ro-Ro
-2.0;F;0;2.0;10.0;Ro-Ro
-2.0;G;0;2.0;10.0;Ro-Ro
-2.0;I;0;2.0;10.0;Ro-Ro
-2.0;J;0;2.0;10.0;Ro-Ro
-2.0;K;0;2.0;10.0;Ro-Ro
-2.0;L;0;2.0;10.0;Ro-Ro
-2.0;M;0;2.0;10.0;Ro-Ro
+1.0;A;0;1.0;9.0;Barge
+1.0;B;0;1.0;9.0;Barge
+1.0;C;0;1.0;9.0;Barge
+1.0;D;0;1.0;9.0;Barge
+1.0;E;0;1.0;9.0;Barge
+1.0;F;0;1.0;9.0;Barge
+1.0;G;0;1.0;9.0;Barge
+1.0;H;0;1.0;9.0;Barge
+1.0;I;0;1.0;9.0;Vehicle Carrier
+1.0;J;0;1.0;9.0;Vehicle Carrier
+1.0;K;0;1.0;9.0;Vehicle Carrier
+1.0;L;0;1.0;9.0;Vehicle Carrier
+1.0;M;0;1.0;9.0;Vehicle Carrier
+1.0;A;0;2.0;9.0;Vehicle Carrier
+1.0;B;0;2.0;9.0;Vehicle Carrier
+1.0;C;0;2.0;9.0;Vehicle Carrier
+1.0;D;0;2.0;9.0;Vehicle Carrier
+1.0;E;0;2.0;9.0;Vehicle Carrier
+1.0;F;0;2.0;9.0;Vehicle Carrier
+1.0;G;0;2.0;9.0;Vehicle Carrier
+1.0;H;0;2.0;9.0;Vehicle Carrier
+1.0;I;0;2.0;9.0;Vehicle Carrier
+1.0;J;0;2.0;9.0;Vehicle Carrier
+1.0;K;0;2.0;9.0;Vehicle Carrier
+1.0;L;0;2.0;9.0;Vehicle Carrier
+1.0;M;0;2.0;9.0;Vehicle Carrier
+2.0;A;0;1.0;9.0;Vehicle Carrier
+2.0;B;0;1.0;9.0;Vehicle Carrier
+2.0;C;0;1.0;9.0;Vehicle Carrier
+2.0;D;0;1.0;9.0;Vehicle Carrier
+2.0;E;0;1.0;9.0;Vehicle Carrier
+2.0;F;0;1.0;9.0;Vehicle Carrier
+2.0;G;1;1.0;9.0;Vehicle Carrier
+2.0;H;1;1.0;9.0;Vehicle Carrier
+2.0;I;5;1.0;9.0;Vehicle Carrier
+2.0;J;1;1.0;9.0;Vehicle Carrier
+2.0;K;0;1.0;9.0;Vehicle Carrier
+2.0;L;0;1.0;9.0;Vehicle Carrier
+2.0;M;0;1.0;9.0;Vehicle Carrier
+2.0;A;0;2.0;9.0;Vehicle Carrier
+2.0;B;1;2.0;9.0;Vehicle Carrier
+2.0;C;0;2.0;9.0;Vehicle Carrier
+2.0;D;1;2.0;9.0;Vehicle Carrier
+2.0;E;1;2.0;9.0;Vehicle Carrier
+2.0;F;1;2.0;9.0;Vehicle Carrier
+2.0;G;0;2.0;9.0;Vehicle Carrier
+2.0;H;0;2.0;9.0;Vehicle Carrier
+2.0;I;2;2.0;9.0;Vehicle Carrier
+2.0;J;2;2.0;9.0;Vehicle Carrier
+2.0;K;2;2.0;9.0;Vehicle Carrier
+2.0;L;0;2.0;9.0;Vehicle Carrier
+2.0;M;0;2.0;9.0;Vehicle Carrier
+1.0;A;0;1.0;9.0;Vehicle Carrier
+1.0;B;0;1.0;9.0;Vehicle Carrier
+1.0;C;0;1.0;9.0;Vehicle Carrier
+1.0;D;0;1.0;9.0;Vehicle Carrier
+1.0;E;0;1.0;9.0;Tanker
+1.0;F;0;1.0;9.0;Tanker
+1.0;G;0;1.0;9.0;Tanker
+1.0;H;0;1.0;9.0;Tanker
+1.0;I;0;1.0;9.0;Tanker
+1.0;J;0;1.0;9.0;Tanker
+1.0;K;0;1.0;9.0;Tanker
+1.0;L;0;1.0;9.0;Tanker
+1.0;M;0;1.0;9.0;Tanker
+1.0;A;0;2.0;9.0;Tanker
+1.0;B;0;2.0;9.0;Tanker
+1.0;C;0;2.0;9.0;Tanker
+1.0;D;0;2.0;9.0;Tanker
+1.0;E;0;2.0;9.0;Tanker
+1.0;F;0;2.0;9.0;Tanker
+1.0;G;0;2.0;9.0;Tanker
+1.0;H;0;2.0;9.0;Tanker
+1.0;I;0;2.0;9.0;Tanker
+1.0;J;0;2.0;9.0;Tanker
+1.0;K;0;2.0;9.0;Tanker
+1.0;L;0;2.0;9.0;Tanker
+1.0;M;0;2.0;9.0;Tanker
+2.0;A;0;1.0;9.0;Tanker
+2.0;B;1;1.0;9.0;Tanker
+2.0;C;0;1.0;9.0;Tanker
+2.0;D;0;1.0;9.0;Tanker
+2.0;E;0;1.0;9.0;Tanker
+2.0;F;0;1.0;9.0;Tanker
+2.0;G;1;1.0;9.0;Tanker
+2.0;H;2;1.0;9.0;Tanker
+2.0;I;1;1.0;9.0;Tanker
+2.0;J;1;1.0;9.0;Tanker
+2.0;K;0;1.0;9.0;Tanker
+2.0;L;0;1.0;9.0;Tanker
+2.0;M;0;1.0;9.0;Tanker
+2.0;A;1;2.0;9.0;Tanker
+2.0;B;2;2.0;9.0;Tanker
+2.0;C;0;2.0;9.0;Tanker
+2.0;D;0;2.0;9.0;Tanker
+2.0;E;0;2.0;9.0;Tanker
+2.0;F;0;2.0;9.0;Tanker
+2.0;G;0;2.0;9.0;Tanker
+2.0;H;0;2.0;9.0;Tanker
+2.0;I;2;2.0;9.0;Tanker
+2.0;J;1;2.0;9.0;Tanker
+2.0;K;1;2.0;9.0;Tanker
+2.0;L;0;2.0;9.0;Tanker
+2.0;M;0;2.0;9.0;Tanker
+1.0;A;0;1.0;9.0;Offshore Exploitation
+1.0;B;0;1.0;9.0;Offshore Exploitation
+1.0;C;0;1.0;9.0;Offshore Exploitation
+1.0;D;0;1.0;9.0;Offshore Exploitation
+1.0;E;0;1.0;9.0;Offshore Exploitation
+1.0;F;0;1.0;9.0;Offshore Exploitation
+1.0;G;0;1.0;9.0;Offshore Exploitation
+1.0;H;0;1.0;9.0;Offshore Exploitation
+1.0;I;0;1.0;9.0;Offshore Exploitation
+1.0;J;0;1.0;9.0;Offshore Exploitation
+1.0;K;0;1.0;9.0;Offshore Exploitation
+1.0;L;0;1.0;9.0;Offshore Exploitation
+1.0;M;0;1.0;9.0;Offshore Exploitation
+1.0;A;0;2.0;9.0;Offshore Exploitation
+1.0;B;0;2.0;9.0;Offshore Exploitation
+1.0;C;0;2.0;9.0;Offshore Exploitation
+1.0;D;0;2.0;9.0;Offshore Exploitation
+1.0;E;0;2.0;9.0;Offshore Exploitation
+1.0;F;0;2.0;9.0;Offshore Exploitation
+1.0;G;0;2.0;9.0;Offshore Exploitation
+1.0;H;0;2.0;9.0;Offshore Exploitation
+1.0;I;0;2.0;9.0;Offshore Exploitation
+1.0;J;0;2.0;9.0;Offshore Exploitation
+1.0;K;0;2.0;9.0;Offshore Exploitation
+1.0;L;0;2.0;9.0;Offshore Exploitation
+1.0;M;0;2.0;9.0;Offshore Exploitation
+2.0;A;0;1.0;9.0;Offshore Exploitation
+2.0;B;0;1.0;9.0;Offshore Exploitation
+2.0;C;0;1.0;9.0;Offshore Exploitation
+2.0;D;0;1.0;9.0;Offshore Exploitation
+2.0;E;0;1.0;9.0;Offshore Exploitation
+2.0;F;0;1.0;9.0;Offshore Exploitation
+2.0;G;0;1.0;9.0;Offshore Exploitation
+2.0;H;0;1.0;9.0;Offshore Exploitation
+2.0;I;0;1.0;9.0;Offshore Exploitation
+2.0;J;0;1.0;9.0;Offshore Exploitation
+2.0;K;0;1.0;9.0;Offshore Exploitation
+2.0;L;0;1.0;9.0;Offshore Exploitation
+2.0;M;0;1.0;9.0;Offshore Exploitation
+2.0;A;0;2.0;9.0;Offshore Exploitation
+2.0;B;0;2.0;9.0;Offshore Exploitation
+2.0;C;0;2.0;9.0;Offshore Exploitation
+2.0;D;0;2.0;9.0;Offshore Exploitation
+2.0;E;0;2.0;9.0;Offshore Exploitation
+2.0;F;0;2.0;9.0;Offshore Exploitation
+2.0;G;0;2.0;9.0;Offshore Exploitation
+2.0;H;0;2.0;9.0;Offshore Exploitation
+2.0;I;0;2.0;9.0;Offshore Exploitation
+2.0;J;2;2.0;9.0;Other
+2.0;K;0;2.0;9.0;Other
+2.0;L;0;2.0;9.0;Other
+2.0;M;0;2.0;9.0;Other
+1.0;A;0;1.0;9.0;Other
+1.0;B;0;1.0;9.0;Other
+1.0;C;0;1.0;9.0;Other
+1.0;D;0;1.0;9.0;Other
+1.0;E;0;1.0;9.0;Other
+1.0;F;0;1.0;9.0;Other
+1.0;G;0;1.0;9.0;Other
+1.0;H;0;1.0;9.0;Other
+1.0;I;0;1.0;9.0;Other
+1.0;J;0;1.0;9.0;Other
+1.0;K;0;1.0;9.0;Other
+1.0;L;0;1.0;9.0;Other
+1.0;M;0;1.0;9.0;Other
+1.0;A;0;2.0;9.0;Other
+1.0;B;0;2.0;9.0;Other
+1.0;C;0;2.0;9.0;Other
+1.0;D;0;2.0;9.0;Other
+1.0;E;0;2.0;9.0;Other
+1.0;F;0;2.0;9.0;Other
+1.0;G;0;2.0;9.0;Other
+1.0;H;0;2.0;9.0;Other
+1.0;I;0;2.0;9.0;Other
+1.0;J;0;2.0;9.0;Other
+1.0;K;0;2.0;9.0;Other
+1.0;L;0;2.0;9.0;Other
+1.0;M;0;2.0;9.0;Other
+2.0;A;0;1.0;9.0;Other
+2.0;B;0;1.0;9.0;Other
+2.0;C;0;1.0;9.0;Other
+2.0;D;1;1.0;9.0;Other
+2.0;E;0;1.0;9.0;Other
+2.0;F;0;1.0;9.0;Other
+2.0;G;1;1.0;9.0;Other
+2.0;H;0;1.0;9.0;Other
+2.0;I;0;1.0;9.0;Other
+2.0;J;1;1.0;9.0;Other
+2.0;K;0;1.0;9.0;Other
+2.0;L;0;1.0;9.0;Other
+2.0;M;0;1.0;9.0;Other
+2.0;A;0;2.0;9.0;Other
+2.0;B;1;2.0;9.0;Other
+2.0;C;0;2.0;9.0;Other
+2.0;D;0;2.0;9.0;Other
+2.0;E;0;2.0;9.0;Other
+2.0;F;0;2.0;9.0;Tug
+2.0;G;0;2.0;9.0;Tug
+2.0;H;0;2.0;9.0;Tug
+2.0;I;0;2.0;9.0;Tug
+2.0;J;0;2.0;9.0;Tug
+2.0;K;0;2.0;9.0;Tug
+2.0;L;0;2.0;9.0;Tug
+2.0;M;0;2.0;9.0;Tug
+1.0;A;0;1.0;9.0;Tug
+1.0;B;0;1.0;9.0;Tug
+1.0;C;0;1.0;9.0;Tug
+1.0;D;0;1.0;9.0;Tug
+1.0;E;0;1.0;9.0;Tug
+1.0;F;0;1.0;9.0;Tug
+1.0;G;0;1.0;9.0;Tug
+1.0;H;0;1.0;9.0;Tug
+1.0;I;0;1.0;9.0;Tug
+1.0;J;0;1.0;9.0;Tug
+1.0;K;0;1.0;9.0;Tug
+1.0;L;0;1.0;9.0;Tug
+1.0;M;0;1.0;9.0;Tug
+1.0;A;0;2.0;9.0;Tug
+1.0;B;0;2.0;9.0;Tug
+1.0;C;0;2.0;9.0;Tug
+1.0;D;0;2.0;9.0;Tug
+1.0;E;0;2.0;9.0;Tug
+1.0;F;0;2.0;9.0;Tug
+1.0;G;0;2.0;9.0;Tug
+1.0;H;0;2.0;9.0;Tug
+1.0;I;0;2.0;9.0;Tug
+1.0;J;0;2.0;9.0;Tug
+1.0;K;0;2.0;9.0;Tug
+1.0;L;0;2.0;9.0;Tug
+1.0;M;0;2.0;9.0;Tug
+2.0;A;0;1.0;9.0;Tug
+2.0;B;0;1.0;9.0;Tug
+2.0;C;0;1.0;9.0;Tug
+2.0;D;0;1.0;9.0;Tug
+2.0;E;0;1.0;9.0;Tug
+2.0;F;0;1.0;9.0;Tug
+2.0;G;0;1.0;9.0;Tug
+2.0;H;0;1.0;9.0;Tug
+2.0;I;0;1.0;9.0;Tug
+2.0;J;0;1.0;9.0;Tug
+2.0;K;0;1.0;9.0;Tug
+2.0;L;0;1.0;9.0;Tug
+2.0;M;0;1.0;9.0;Tug
+2.0;A;0;2.0;9.0;Tug
+2.0;B;0;2.0;9.0;Vessel
+2.0;C;0;2.0;9.0;Vessel
+2.0;D;0;2.0;9.0;Vessel
+2.0;E;0;2.0;9.0;Vessel
+2.0;F;0;2.0;9.0;Vessel
+2.0;G;0;2.0;9.0;Vessel
+2.0;H;0;2.0;9.0;Vessel
+2.0;I;0;2.0;9.0;Vessel
+2.0;J;0;2.0;9.0;Vessel
+2.0;K;0;2.0;9.0;Vessel
+2.0;L;0;2.0;9.0;Vessel
+2.0;M;0;2.0;9.0;Vessel
 1.0;A;0;1.0;10.0;Vessel
 1.0;B;0;1.0;10.0;Vessel
 1.0;C;0;1.0;10.0;Vessel
@@ -3702,6 +3282,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;10.0;Vessel
 1.0;F;0;1.0;10.0;Vessel
 1.0;G;0;1.0;10.0;Vessel
+1.0;H;0;1.0;10.0;Vessel
 1.0;I;0;1.0;10.0;Vessel
 1.0;J;0;1.0;10.0;Vessel
 1.0;K;0;1.0;10.0;Vessel
@@ -3714,6 +3295,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;10.0;Vessel
 1.0;F;0;2.0;10.0;Vessel
 1.0;G;0;2.0;10.0;Vessel
+1.0;H;0;2.0;10.0;Vessel
 1.0;I;0;2.0;10.0;Vessel
 1.0;J;0;2.0;10.0;Vessel
 1.0;K;0;2.0;10.0;Vessel
@@ -3726,71 +3308,25 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;10.0;Vessel
 2.0;F;0;1.0;10.0;Vessel
 2.0;G;0;1.0;10.0;Vessel
+2.0;H;0;1.0;10.0;Vessel
 2.0;I;0;1.0;10.0;Vessel
 2.0;J;0;1.0;10.0;Vessel
-2.0;K;0;1.0;10.0;Vessel
-2.0;L;0;1.0;10.0;Vessel
-2.0;M;0;1.0;10.0;Vessel
-2.0;A;0;2.0;10.0;Vessel
-2.0;B;0;2.0;10.0;Vessel
-2.0;C;0;2.0;10.0;Vessel
-2.0;D;0;2.0;10.0;Vessel
-2.0;E;0;2.0;10.0;Vessel
-2.0;F;0;2.0;10.0;Vessel
-2.0;G;0;2.0;10.0;Vessel
-2.0;I;0;2.0;10.0;Vessel
-2.0;J;0;2.0;10.0;Vessel
-2.0;K;0;2.0;10.0;Vessel
-2.0;L;0;2.0;10.0;Vessel
-2.0;M;0;2.0;10.0;Vessel
-1.0;A;0;1.0;10.0;Tug
-1.0;B;0;1.0;10.0;Tug
-1.0;C;0;1.0;10.0;Tug
-1.0;D;0;1.0;10.0;Tug
-1.0;E;0;1.0;10.0;Tug
-1.0;F;0;1.0;10.0;Tug
-1.0;G;0;1.0;10.0;Tug
-1.0;I;0;1.0;10.0;Tug
-1.0;J;0;1.0;10.0;Tug
-1.0;K;0;1.0;10.0;Tug
-1.0;L;0;1.0;10.0;Tug
-1.0;M;0;1.0;10.0;Tug
-1.0;A;0;2.0;10.0;Tug
-1.0;B;0;2.0;10.0;Tug
-1.0;C;0;2.0;10.0;Tug
-1.0;D;0;2.0;10.0;Tug
-1.0;E;0;2.0;10.0;Tug
-1.0;F;0;2.0;10.0;Tug
-1.0;G;0;2.0;10.0;Tug
-1.0;I;0;2.0;10.0;Tug
-1.0;J;0;2.0;10.0;Tug
-1.0;K;0;2.0;10.0;Tug
-1.0;L;0;2.0;10.0;Tug
-1.0;M;0;2.0;10.0;Tug
-2.0;A;0;1.0;10.0;Tug
-2.0;B;0;1.0;10.0;Tug
-2.0;C;0;1.0;10.0;Tug
-2.0;D;0;1.0;10.0;Tug
-2.0;E;0;1.0;10.0;Tug
-2.0;F;0;1.0;10.0;Tug
-2.0;G;0;1.0;10.0;Tug
-2.0;I;0;1.0;10.0;Tug
-2.0;J;0;1.0;10.0;Tug
-2.0;K;0;1.0;10.0;Tug
-2.0;L;0;1.0;10.0;Tug
-2.0;M;0;1.0;10.0;Tug
-2.0;A;0;2.0;10.0;Tug
-2.0;B;0;2.0;10.0;Tug
-2.0;C;0;2.0;10.0;Tug
-2.0;D;0;2.0;10.0;Tug
-2.0;E;0;2.0;10.0;Tug
-2.0;F;0;2.0;10.0;Tug
-2.0;G;0;2.0;10.0;Tug
-2.0;I;0;2.0;10.0;Tug
-2.0;J;0;2.0;10.0;Tug
-2.0;K;0;2.0;10.0;Tug
-2.0;L;0;2.0;10.0;Tug
-2.0;M;0;2.0;10.0;Tug
+2.0;K;0;1.0;10.0;Barge
+2.0;L;0;1.0;10.0;Barge
+2.0;M;0;1.0;10.0;Barge
+2.0;A;0;2.0;10.0;Barge
+2.0;B;0;2.0;10.0;Barge
+2.0;C;0;2.0;10.0;Barge
+2.0;D;0;2.0;10.0;Barge
+2.0;E;0;2.0;10.0;Barge
+2.0;F;0;2.0;10.0;Barge
+2.0;G;0;2.0;10.0;Barge
+2.0;H;0;2.0;10.0;Barge
+2.0;I;0;2.0;10.0;Barge
+2.0;J;0;2.0;10.0;Barge
+2.0;K;0;2.0;10.0;Barge
+2.0;L;0;2.0;10.0;Barge
+2.0;M;0;2.0;10.0;Barge
 1.0;A;0;1.0;10.0;Barge
 1.0;B;0;1.0;10.0;Barge
 1.0;C;0;1.0;10.0;Barge
@@ -3798,6 +3334,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;10.0;Barge
 1.0;F;0;1.0;10.0;Barge
 1.0;G;0;1.0;10.0;Barge
+1.0;H;0;1.0;10.0;Barge
 1.0;I;0;1.0;10.0;Barge
 1.0;J;0;1.0;10.0;Barge
 1.0;K;0;1.0;10.0;Barge
@@ -3810,6 +3347,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;10.0;Barge
 1.0;F;0;2.0;10.0;Barge
 1.0;G;0;2.0;10.0;Barge
+1.0;H;0;2.0;10.0;Barge
 1.0;I;0;2.0;10.0;Barge
 1.0;J;0;2.0;10.0;Barge
 1.0;K;0;2.0;10.0;Barge
@@ -3821,264 +3359,286 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;D;0;1.0;10.0;Barge
 2.0;E;0;1.0;10.0;Barge
 2.0;F;0;1.0;10.0;Barge
-2.0;G;0;1.0;10.0;Barge
-2.0;I;0;1.0;10.0;Barge
-2.0;J;0;1.0;10.0;Barge
-2.0;K;0;1.0;10.0;Barge
-2.0;L;0;1.0;10.0;Barge
-2.0;M;0;1.0;10.0;Barge
-2.0;A;0;2.0;10.0;Barge
-2.0;B;0;2.0;10.0;Barge
-2.0;C;0;2.0;10.0;Barge
-2.0;D;0;2.0;10.0;Barge
-2.0;E;0;2.0;10.0;Barge
-2.0;F;0;2.0;10.0;Barge
-2.0;G;0;2.0;10.0;Barge
-2.0;I;0;2.0;10.0;Barge
-2.0;J;0;2.0;10.0;Barge
-2.0;K;0;2.0;10.0;Barge
-2.0;L;0;2.0;10.0;Barge
-2.0;M;0;2.0;10.0;Barge
-1.0;A;0;1.0;11.0;Carrier
-1.0;B;0;1.0;11.0;Carrier
-1.0;C;0;1.0;11.0;Carrier
-1.0;D;0;1.0;11.0;Carrier
-1.0;E;0;1.0;11.0;Carrier
-1.0;F;0;1.0;11.0;Carrier
-1.0;G;0;1.0;11.0;Carrier
-1.0;I;0;1.0;11.0;Carrier
-1.0;J;0;1.0;11.0;Carrier
-1.0;K;0;1.0;11.0;Carrier
-1.0;L;0;1.0;11.0;Carrier
-1.0;M;0;1.0;11.0;Carrier
-1.0;A;0;2.0;11.0;Carrier
-1.0;B;0;2.0;11.0;Carrier
-1.0;C;0;2.0;11.0;Carrier
-1.0;D;0;2.0;11.0;Carrier
-1.0;E;0;2.0;11.0;Carrier
-1.0;F;0;2.0;11.0;Carrier
-1.0;G;0;2.0;11.0;Carrier
-1.0;I;0;2.0;11.0;Carrier
-1.0;J;0;2.0;11.0;Carrier
-1.0;K;0;2.0;11.0;Carrier
-1.0;L;0;2.0;11.0;Carrier
-1.0;M;0;2.0;11.0;Carrier
-2.0;A;0;1.0;11.0;Carrier
-2.0;B;0;1.0;11.0;Carrier
-2.0;C;0;1.0;11.0;Carrier
-2.0;D;0;1.0;11.0;Carrier
-2.0;E;0;1.0;11.0;Carrier
-2.0;F;0;1.0;11.0;Carrier
-2.0;G;1;1.0;11.0;Carrier
-2.0;I;2;1.0;11.0;Carrier
-2.0;J;0;1.0;11.0;Carrier
-2.0;K;0;1.0;11.0;Carrier
-2.0;L;2;1.0;11.0;Carrier
-2.0;M;0;1.0;11.0;Carrier
-2.0;A;0;2.0;11.0;Carrier
-2.0;B;0;2.0;11.0;Carrier
-2.0;C;0;2.0;11.0;Carrier
-2.0;D;0;2.0;11.0;Carrier
-2.0;E;3;2.0;11.0;Carrier
-2.0;F;0;2.0;11.0;Carrier
-2.0;G;0;2.0;11.0;Carrier
-2.0;I;1;2.0;11.0;Carrier
-2.0;J;1;2.0;11.0;Carrier
-2.0;K;1;2.0;11.0;Carrier
-2.0;L;0;2.0;11.0;Carrier
-2.0;M;0;2.0;11.0;Carrier
-1.0;A;0;1.0;11.0;Tanker
-1.0;B;0;1.0;11.0;Tanker
-1.0;C;0;1.0;11.0;Tanker
-1.0;D;0;1.0;11.0;Tanker
-1.0;E;0;1.0;11.0;Tanker
-1.0;F;0;1.0;11.0;Tanker
-1.0;G;0;1.0;11.0;Tanker
-1.0;I;0;1.0;11.0;Tanker
-1.0;J;0;1.0;11.0;Tanker
-1.0;K;0;1.0;11.0;Tanker
-1.0;L;0;1.0;11.0;Tanker
-1.0;M;0;1.0;11.0;Tanker
-1.0;A;0;2.0;11.0;Tanker
-1.0;B;0;2.0;11.0;Tanker
-1.0;C;0;2.0;11.0;Tanker
-1.0;D;0;2.0;11.0;Tanker
-1.0;E;0;2.0;11.0;Tanker
-1.0;F;0;2.0;11.0;Tanker
-1.0;G;0;2.0;11.0;Tanker
-1.0;I;0;2.0;11.0;Tanker
-1.0;J;0;2.0;11.0;Tanker
-1.0;K;0;2.0;11.0;Tanker
-1.0;L;0;2.0;11.0;Tanker
-1.0;M;0;2.0;11.0;Tanker
-2.0;A;0;1.0;11.0;Tanker
-2.0;B;0;1.0;11.0;Tanker
-2.0;C;0;1.0;11.0;Tanker
-2.0;D;0;1.0;11.0;Tanker
-2.0;E;0;1.0;11.0;Tanker
-2.0;F;1;1.0;11.0;Tanker
-2.0;G;2;1.0;11.0;Tanker
-2.0;I;2;1.0;11.0;Tanker
-2.0;J;0;1.0;11.0;Tanker
-2.0;K;0;1.0;11.0;Tanker
-2.0;L;0;1.0;11.0;Tanker
-2.0;M;0;1.0;11.0;Tanker
-2.0;A;0;2.0;11.0;Tanker
-2.0;B;0;2.0;11.0;Tanker
-2.0;C;0;2.0;11.0;Tanker
-2.0;D;0;2.0;11.0;Tanker
-2.0;E;0;2.0;11.0;Tanker
-2.0;F;0;2.0;11.0;Tanker
-2.0;G;1;2.0;11.0;Tanker
-2.0;I;2;2.0;11.0;Tanker
-2.0;J;1;2.0;11.0;Tanker
-2.0;K;0;2.0;11.0;Tanker
-2.0;L;1;2.0;11.0;Tanker
-2.0;M;0;2.0;11.0;Tanker
-1.0;A;0;1.0;11.0;Other
-1.0;B;0;1.0;11.0;Other
-1.0;C;0;1.0;11.0;Other
-1.0;D;0;1.0;11.0;Other
-1.0;E;0;1.0;11.0;Other
-1.0;F;0;1.0;11.0;Other
-1.0;G;0;1.0;11.0;Other
-1.0;I;0;1.0;11.0;Other
-1.0;J;0;1.0;11.0;Other
-1.0;K;0;1.0;11.0;Other
-1.0;L;0;1.0;11.0;Other
-1.0;M;0;1.0;11.0;Other
-1.0;A;0;2.0;11.0;Other
-1.0;B;0;2.0;11.0;Other
-1.0;C;0;2.0;11.0;Other
-1.0;D;0;2.0;11.0;Other
-1.0;E;0;2.0;11.0;Other
-1.0;F;0;2.0;11.0;Other
-1.0;G;0;2.0;11.0;Other
-1.0;I;0;2.0;11.0;Other
-1.0;J;0;2.0;11.0;Other
-1.0;K;0;2.0;11.0;Other
-1.0;L;0;2.0;11.0;Other
-1.0;M;0;2.0;11.0;Other
-2.0;A;0;1.0;11.0;Other
-2.0;B;0;1.0;11.0;Other
-2.0;C;0;1.0;11.0;Other
-2.0;D;0;1.0;11.0;Other
-2.0;E;0;1.0;11.0;Other
-2.0;F;0;1.0;11.0;Other
-2.0;G;0;1.0;11.0;Other
-2.0;I;0;1.0;11.0;Other
-2.0;J;0;1.0;11.0;Other
-2.0;K;0;1.0;11.0;Other
-2.0;L;0;1.0;11.0;Other
-2.0;M;0;1.0;11.0;Other
-2.0;A;0;2.0;11.0;Other
-2.0;B;0;2.0;11.0;Other
-2.0;C;0;2.0;11.0;Other
-2.0;D;0;2.0;11.0;Other
-2.0;E;0;2.0;11.0;Other
-2.0;F;0;2.0;11.0;Other
-2.0;G;0;2.0;11.0;Other
-2.0;I;0;2.0;11.0;Other
-2.0;J;1;2.0;11.0;Other
-2.0;K;0;2.0;11.0;Other
-2.0;L;1;2.0;11.0;Other
-2.0;M;0;2.0;11.0;Other
-1.0;A;0;1.0;11.0;Cargo
-1.0;B;0;1.0;11.0;Cargo
-1.0;C;0;1.0;11.0;Cargo
-1.0;D;0;1.0;11.0;Cargo
-1.0;E;0;1.0;11.0;Cargo
-1.0;F;0;1.0;11.0;Cargo
-1.0;G;0;1.0;11.0;Cargo
-1.0;I;0;1.0;11.0;Cargo
-1.0;J;0;1.0;11.0;Cargo
-1.0;K;0;1.0;11.0;Cargo
-1.0;L;0;1.0;11.0;Cargo
-1.0;M;0;1.0;11.0;Cargo
-1.0;A;0;2.0;11.0;Cargo
-1.0;B;0;2.0;11.0;Cargo
-1.0;C;0;2.0;11.0;Cargo
-1.0;D;0;2.0;11.0;Cargo
-1.0;E;0;2.0;11.0;Cargo
-1.0;F;0;2.0;11.0;Cargo
-1.0;G;0;2.0;11.0;Cargo
-1.0;I;0;2.0;11.0;Cargo
-1.0;J;0;2.0;11.0;Cargo
-1.0;K;0;2.0;11.0;Cargo
-1.0;L;0;2.0;11.0;Cargo
-1.0;M;0;2.0;11.0;Cargo
-2.0;A;0;1.0;11.0;Cargo
-2.0;B;0;1.0;11.0;Cargo
-2.0;C;0;1.0;11.0;Cargo
-2.0;D;0;1.0;11.0;Cargo
-2.0;E;0;1.0;11.0;Cargo
-2.0;F;0;1.0;11.0;Cargo
-2.0;G;1;1.0;11.0;Cargo
-2.0;I;1;1.0;11.0;Cargo
-2.0;J;0;1.0;11.0;Cargo
-2.0;K;1;1.0;11.0;Cargo
-2.0;L;0;1.0;11.0;Cargo
-2.0;M;0;1.0;11.0;Cargo
-2.0;A;0;2.0;11.0;Cargo
-2.0;B;0;2.0;11.0;Cargo
-2.0;C;0;2.0;11.0;Cargo
-2.0;D;0;2.0;11.0;Cargo
-2.0;E;0;2.0;11.0;Cargo
-2.0;F;0;2.0;11.0;Cargo
-2.0;G;0;2.0;11.0;Cargo
-2.0;I;1;2.0;11.0;Cargo
-2.0;J;0;2.0;11.0;Cargo
-2.0;K;0;2.0;11.0;Cargo
-2.0;L;0;2.0;11.0;Cargo
-2.0;M;0;2.0;11.0;Cargo
-1.0;A;0;1.0;11.0;Ro-Ro
-1.0;B;0;1.0;11.0;Ro-Ro
-1.0;C;0;1.0;11.0;Ro-Ro
-1.0;D;0;1.0;11.0;Ro-Ro
-1.0;E;0;1.0;11.0;Ro-Ro
-1.0;F;0;1.0;11.0;Ro-Ro
-1.0;G;0;1.0;11.0;Ro-Ro
-1.0;I;0;1.0;11.0;Ro-Ro
-1.0;J;0;1.0;11.0;Ro-Ro
-1.0;K;0;1.0;11.0;Ro-Ro
-1.0;L;0;1.0;11.0;Ro-Ro
-1.0;M;0;1.0;11.0;Ro-Ro
-1.0;A;0;2.0;11.0;Ro-Ro
-1.0;B;0;2.0;11.0;Ro-Ro
-1.0;C;0;2.0;11.0;Ro-Ro
-1.0;D;0;2.0;11.0;Ro-Ro
-1.0;E;0;2.0;11.0;Ro-Ro
-1.0;F;0;2.0;11.0;Ro-Ro
-1.0;G;0;2.0;11.0;Ro-Ro
-1.0;I;0;2.0;11.0;Ro-Ro
-1.0;J;0;2.0;11.0;Ro-Ro
-1.0;K;0;2.0;11.0;Ro-Ro
-1.0;L;0;2.0;11.0;Ro-Ro
-1.0;M;0;2.0;11.0;Ro-Ro
-2.0;A;0;1.0;11.0;Ro-Ro
-2.0;B;0;1.0;11.0;Ro-Ro
-2.0;C;0;1.0;11.0;Ro-Ro
-2.0;D;0;1.0;11.0;Ro-Ro
-2.0;E;0;1.0;11.0;Ro-Ro
-2.0;F;0;1.0;11.0;Ro-Ro
-2.0;G;0;1.0;11.0;Ro-Ro
-2.0;I;0;1.0;11.0;Ro-Ro
-2.0;J;0;1.0;11.0;Ro-Ro
-2.0;K;0;1.0;11.0;Ro-Ro
-2.0;L;0;1.0;11.0;Ro-Ro
-2.0;M;0;1.0;11.0;Ro-Ro
-2.0;A;0;2.0;11.0;Ro-Ro
-2.0;B;0;2.0;11.0;Ro-Ro
-2.0;C;0;2.0;11.0;Ro-Ro
-2.0;D;0;2.0;11.0;Ro-Ro
-2.0;E;0;2.0;11.0;Ro-Ro
-2.0;F;0;2.0;11.0;Ro-Ro
-2.0;G;0;2.0;11.0;Ro-Ro
-2.0;I;0;2.0;11.0;Ro-Ro
-2.0;J;0;2.0;11.0;Ro-Ro
-2.0;K;0;2.0;11.0;Ro-Ro
-2.0;L;0;2.0;11.0;Ro-Ro
-2.0;M;0;2.0;11.0;Ro-Ro
+2.0;G;0;1.0;10.0;Vehicle Carrier
+2.0;H;0;1.0;10.0;Vehicle Carrier
+2.0;I;3;1.0;10.0;Vehicle Carrier
+2.0;J;0;1.0;10.0;Vehicle Carrier
+2.0;K;3;1.0;10.0;Vehicle Carrier
+2.0;L;0;1.0;10.0;Vehicle Carrier
+2.0;M;0;1.0;10.0;Vehicle Carrier
+2.0;A;0;2.0;10.0;Vehicle Carrier
+2.0;B;0;2.0;10.0;Vehicle Carrier
+2.0;C;0;2.0;10.0;Vehicle Carrier
+2.0;D;0;2.0;10.0;Vehicle Carrier
+2.0;E;0;2.0;10.0;Vehicle Carrier
+2.0;F;0;2.0;10.0;Vehicle Carrier
+2.0;G;1;2.0;10.0;Vehicle Carrier
+2.0;H;0;2.0;10.0;Vehicle Carrier
+2.0;I;2;2.0;10.0;Vehicle Carrier
+2.0;J;2;2.0;10.0;Vehicle Carrier
+2.0;K;1;2.0;10.0;Vehicle Carrier
+2.0;L;2;2.0;10.0;Vehicle Carrier
+2.0;M;0;2.0;10.0;Vehicle Carrier
+1.0;A;0;1.0;10.0;Vehicle Carrier
+1.0;B;0;1.0;10.0;Vehicle Carrier
+1.0;C;0;1.0;10.0;Vehicle Carrier
+1.0;D;0;1.0;10.0;Vehicle Carrier
+1.0;E;0;1.0;10.0;Vehicle Carrier
+1.0;F;0;1.0;10.0;Vehicle Carrier
+1.0;G;0;1.0;10.0;Vehicle Carrier
+1.0;H;0;1.0;10.0;Vehicle Carrier
+1.0;I;0;1.0;10.0;Vehicle Carrier
+1.0;J;0;1.0;10.0;Vehicle Carrier
+1.0;K;0;1.0;10.0;Vehicle Carrier
+1.0;L;0;1.0;10.0;Vehicle Carrier
+1.0;M;0;1.0;10.0;Vehicle Carrier
+1.0;A;0;2.0;10.0;Vehicle Carrier
+1.0;B;0;2.0;10.0;Vehicle Carrier
+1.0;C;0;2.0;10.0;Vehicle Carrier
+1.0;D;0;2.0;10.0;Vehicle Carrier
+1.0;E;0;2.0;10.0;Vehicle Carrier
+1.0;F;0;2.0;10.0;Vehicle Carrier
+1.0;G;0;2.0;10.0;Vehicle Carrier
+1.0;H;0;2.0;10.0;Vehicle Carrier
+1.0;I;0;2.0;10.0;Vehicle Carrier
+1.0;J;0;2.0;10.0;Vehicle Carrier
+1.0;K;0;2.0;10.0;Vehicle Carrier
+1.0;L;0;2.0;10.0;Vehicle Carrier
+1.0;M;0;2.0;10.0;Vehicle Carrier
+2.0;A;0;1.0;10.0;Vehicle Carrier
+2.0;B;0;1.0;10.0;Vehicle Carrier
+2.0;C;0;1.0;10.0;Tanker
+2.0;D;0;1.0;10.0;Tanker
+2.0;E;0;1.0;10.0;Tanker
+2.0;F;1;1.0;10.0;Tanker
+2.0;G;0;1.0;10.0;Tanker
+2.0;H;2;1.0;10.0;Tanker
+2.0;I;1;1.0;10.0;Tanker
+2.0;J;1;1.0;10.0;Tanker
+2.0;K;0;1.0;10.0;Tanker
+2.0;L;0;1.0;10.0;Tanker
+2.0;M;0;1.0;10.0;Tanker
+2.0;A;0;2.0;10.0;Tanker
+2.0;B;0;2.0;10.0;Tanker
+2.0;C;0;2.0;10.0;Tanker
+2.0;D;0;2.0;10.0;Tanker
+2.0;E;0;2.0;10.0;Tanker
+2.0;F;2;2.0;10.0;Tanker
+2.0;G;2;2.0;10.0;Tanker
+2.0;H;0;2.0;10.0;Tanker
+2.0;I;2;2.0;10.0;Tanker
+2.0;J;0;2.0;10.0;Tanker
+2.0;K;0;2.0;10.0;Tanker
+2.0;L;0;2.0;10.0;Tanker
+2.0;M;0;2.0;10.0;Tanker
+1.0;A;0;1.0;10.0;Tanker
+1.0;B;0;1.0;10.0;Tanker
+1.0;C;0;1.0;10.0;Tanker
+1.0;D;0;1.0;10.0;Tanker
+1.0;E;0;1.0;10.0;Tanker
+1.0;F;0;1.0;10.0;Tanker
+1.0;G;0;1.0;10.0;Tanker
+1.0;H;0;1.0;10.0;Tanker
+1.0;I;0;1.0;10.0;Tanker
+1.0;J;0;1.0;10.0;Tanker
+1.0;K;0;1.0;10.0;Tanker
+1.0;L;0;1.0;10.0;Tanker
+1.0;M;0;1.0;10.0;Tanker
+1.0;A;0;2.0;10.0;Tanker
+1.0;B;0;2.0;10.0;Tanker
+1.0;C;0;2.0;10.0;Tanker
+1.0;D;0;2.0;10.0;Tanker
+1.0;E;0;2.0;10.0;Tanker
+1.0;F;0;2.0;10.0;Tanker
+1.0;G;0;2.0;10.0;Tanker
+1.0;H;0;2.0;10.0;Tanker
+1.0;I;0;2.0;10.0;Tanker
+1.0;J;0;2.0;10.0;Tanker
+1.0;K;0;2.0;10.0;Tanker
+1.0;L;0;2.0;10.0;Offshore Exploitation
+1.0;M;0;2.0;10.0;Offshore Exploitation
+2.0;A;0;1.0;10.0;Offshore Exploitation
+2.0;B;0;1.0;10.0;Offshore Exploitation
+2.0;C;0;1.0;10.0;Offshore Exploitation
+2.0;D;0;1.0;10.0;Offshore Exploitation
+2.0;E;0;1.0;10.0;Offshore Exploitation
+2.0;F;0;1.0;10.0;Offshore Exploitation
+2.0;G;0;1.0;10.0;Offshore Exploitation
+2.0;H;0;1.0;10.0;Offshore Exploitation
+2.0;I;0;1.0;10.0;Offshore Exploitation
+2.0;J;0;1.0;10.0;Offshore Exploitation
+2.0;K;0;1.0;10.0;Offshore Exploitation
+2.0;L;0;1.0;10.0;Offshore Exploitation
+2.0;M;0;1.0;10.0;Offshore Exploitation
+2.0;A;0;2.0;10.0;Offshore Exploitation
+2.0;B;0;2.0;10.0;Offshore Exploitation
+2.0;C;0;2.0;10.0;Offshore Exploitation
+2.0;D;0;2.0;10.0;Offshore Exploitation
+2.0;E;0;2.0;10.0;Offshore Exploitation
+2.0;F;0;2.0;10.0;Offshore Exploitation
+2.0;G;0;2.0;10.0;Offshore Exploitation
+2.0;H;0;2.0;10.0;Offshore Exploitation
+2.0;I;0;2.0;10.0;Offshore Exploitation
+2.0;J;0;2.0;10.0;Offshore Exploitation
+2.0;K;0;2.0;10.0;Offshore Exploitation
+2.0;L;0;2.0;10.0;Offshore Exploitation
+2.0;M;0;2.0;10.0;Offshore Exploitation
+1.0;A;0;1.0;10.0;Offshore Exploitation
+1.0;B;0;1.0;10.0;Offshore Exploitation
+1.0;C;0;1.0;10.0;Offshore Exploitation
+1.0;D;0;1.0;10.0;Offshore Exploitation
+1.0;E;0;1.0;10.0;Offshore Exploitation
+1.0;F;0;1.0;10.0;Offshore Exploitation
+1.0;G;0;1.0;10.0;Offshore Exploitation
+1.0;H;0;1.0;10.0;Offshore Exploitation
+1.0;I;0;1.0;10.0;Offshore Exploitation
+1.0;J;0;1.0;10.0;Offshore Exploitation
+1.0;K;0;1.0;10.0;Offshore Exploitation
+1.0;L;0;1.0;10.0;Offshore Exploitation
+1.0;M;0;1.0;10.0;Offshore Exploitation
+1.0;A;0;2.0;10.0;Offshore Exploitation
+1.0;B;0;2.0;10.0;Offshore Exploitation
+1.0;C;0;2.0;10.0;Offshore Exploitation
+1.0;D;0;2.0;10.0;Offshore Exploitation
+1.0;E;0;2.0;10.0;Offshore Exploitation
+1.0;F;0;2.0;10.0;Offshore Exploitation
+1.0;G;0;2.0;10.0;Offshore Exploitation
+1.0;H;0;2.0;10.0;Other
+1.0;I;0;2.0;10.0;Other
+1.0;J;0;2.0;10.0;Other
+1.0;K;0;2.0;10.0;Other
+1.0;L;0;2.0;10.0;Other
+1.0;M;0;2.0;10.0;Other
+2.0;A;0;1.0;10.0;Other
+2.0;B;0;1.0;10.0;Other
+2.0;C;0;1.0;10.0;Other
+2.0;D;0;1.0;10.0;Other
+2.0;E;0;1.0;10.0;Other
+2.0;F;0;1.0;10.0;Other
+2.0;G;0;1.0;10.0;Other
+2.0;H;0;1.0;10.0;Other
+2.0;I;2;1.0;10.0;Other
+2.0;J;0;1.0;10.0;Other
+2.0;K;0;1.0;10.0;Other
+2.0;L;0;1.0;10.0;Other
+2.0;M;0;1.0;10.0;Other
+2.0;A;0;2.0;10.0;Other
+2.0;B;0;2.0;10.0;Other
+2.0;C;0;2.0;10.0;Other
+2.0;D;0;2.0;10.0;Other
+2.0;E;0;2.0;10.0;Other
+2.0;F;0;2.0;10.0;Other
+2.0;G;0;2.0;10.0;Other
+2.0;H;0;2.0;10.0;Other
+2.0;I;1;2.0;10.0;Other
+2.0;J;0;2.0;10.0;Other
+2.0;K;0;2.0;10.0;Other
+2.0;L;0;2.0;10.0;Other
+2.0;M;1;2.0;10.0;Other
+1.0;A;0;1.0;10.0;Other
+1.0;B;0;1.0;10.0;Other
+1.0;C;0;1.0;10.0;Other
+1.0;D;0;1.0;10.0;Other
+1.0;E;0;1.0;10.0;Other
+1.0;F;0;1.0;10.0;Other
+1.0;G;0;1.0;10.0;Other
+1.0;H;0;1.0;10.0;Other
+1.0;I;0;1.0;10.0;Other
+1.0;J;0;1.0;10.0;Other
+1.0;K;0;1.0;10.0;Other
+1.0;L;0;1.0;10.0;Other
+1.0;M;0;1.0;10.0;Other
+1.0;A;0;2.0;10.0;Other
+1.0;B;0;2.0;10.0;Other
+1.0;C;0;2.0;10.0;Other
+1.0;D;0;2.0;10.0;Tug
+1.0;E;0;2.0;10.0;Tug
+1.0;F;0;2.0;10.0;Tug
+1.0;G;0;2.0;10.0;Tug
+1.0;H;0;2.0;10.0;Tug
+1.0;I;0;2.0;10.0;Tug
+1.0;J;0;2.0;10.0;Tug
+1.0;K;0;2.0;10.0;Tug
+1.0;L;0;2.0;10.0;Tug
+1.0;M;0;2.0;10.0;Tug
+2.0;A;0;1.0;10.0;Tug
+2.0;B;0;1.0;10.0;Tug
+2.0;C;0;1.0;10.0;Tug
+2.0;D;0;1.0;10.0;Tug
+2.0;E;0;1.0;10.0;Tug
+2.0;F;0;1.0;10.0;Tug
+2.0;G;0;1.0;10.0;Tug
+2.0;H;0;1.0;10.0;Tug
+2.0;I;0;1.0;10.0;Tug
+2.0;J;0;1.0;10.0;Tug
+2.0;K;0;1.0;10.0;Tug
+2.0;L;0;1.0;10.0;Tug
+2.0;M;0;1.0;10.0;Tug
+2.0;A;0;2.0;10.0;Tug
+2.0;B;0;2.0;10.0;Tug
+2.0;C;0;2.0;10.0;Tug
+2.0;D;0;2.0;10.0;Tug
+2.0;E;0;2.0;10.0;Tug
+2.0;F;0;2.0;10.0;Tug
+2.0;G;0;2.0;10.0;Tug
+2.0;H;0;2.0;10.0;Tug
+2.0;I;0;2.0;10.0;Tug
+2.0;J;0;2.0;10.0;Tug
+2.0;K;0;2.0;10.0;Tug
+2.0;L;0;2.0;10.0;Tug
+2.0;M;0;2.0;10.0;Tug
+1.0;A;0;1.0;10.0;Tug
+1.0;B;0;1.0;10.0;Tug
+1.0;C;0;1.0;10.0;Tug
+1.0;D;0;1.0;10.0;Tug
+1.0;E;0;1.0;10.0;Tug
+1.0;F;0;1.0;10.0;Tug
+1.0;G;0;1.0;10.0;Tug
+1.0;H;0;1.0;10.0;Tug
+1.0;I;0;1.0;10.0;Tug
+1.0;J;0;1.0;10.0;Tug
+1.0;K;0;1.0;10.0;Tug
+1.0;L;0;1.0;10.0;Tug
+1.0;M;0;1.0;10.0;Vessel
+1.0;A;0;2.0;10.0;Vessel
+1.0;B;0;2.0;10.0;Vessel
+1.0;C;0;2.0;10.0;Vessel
+1.0;D;0;2.0;10.0;Vessel
+1.0;E;0;2.0;10.0;Vessel
+1.0;F;0;2.0;10.0;Vessel
+1.0;G;0;2.0;10.0;Vessel
+1.0;H;0;2.0;10.0;Vessel
+1.0;I;0;2.0;10.0;Vessel
+1.0;J;0;2.0;10.0;Vessel
+1.0;K;0;2.0;10.0;Vessel
+1.0;L;0;2.0;10.0;Vessel
+1.0;M;0;2.0;10.0;Vessel
+2.0;A;0;1.0;10.0;Vessel
+2.0;B;0;1.0;10.0;Vessel
+2.0;C;0;1.0;10.0;Vessel
+2.0;D;0;1.0;10.0;Vessel
+2.0;E;0;1.0;10.0;Vessel
+2.0;F;0;1.0;10.0;Vessel
+2.0;G;0;1.0;10.0;Vessel
+2.0;H;0;1.0;10.0;Vessel
+2.0;I;0;1.0;10.0;Vessel
+2.0;J;0;1.0;10.0;Vessel
+2.0;K;0;1.0;10.0;Vessel
+2.0;L;0;1.0;10.0;Vessel
+2.0;M;0;1.0;10.0;Vessel
+2.0;A;0;2.0;10.0;Vessel
+2.0;B;0;2.0;10.0;Vessel
+2.0;C;0;2.0;10.0;Vessel
+2.0;D;0;2.0;10.0;Vessel
+2.0;E;0;2.0;10.0;Vessel
+2.0;F;0;2.0;10.0;Vessel
+2.0;G;0;2.0;10.0;Vessel
+2.0;H;0;2.0;10.0;Vessel
+2.0;I;0;2.0;10.0;Vessel
+2.0;J;0;2.0;10.0;Vessel
+2.0;K;0;2.0;10.0;Vessel
+2.0;L;0;2.0;10.0;Vessel
+2.0;M;0;2.0;10.0;Vessel
 1.0;A;0;1.0;11.0;Vessel
 1.0;B;0;1.0;11.0;Vessel
 1.0;C;0;1.0;11.0;Vessel
@@ -4086,102 +3646,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;11.0;Vessel
 1.0;F;0;1.0;11.0;Vessel
 1.0;G;0;1.0;11.0;Vessel
-1.0;I;0;1.0;11.0;Vessel
-1.0;J;0;1.0;11.0;Vessel
-1.0;K;0;1.0;11.0;Vessel
-1.0;L;0;1.0;11.0;Vessel
-1.0;M;0;1.0;11.0;Vessel
-1.0;A;0;2.0;11.0;Vessel
-1.0;B;0;2.0;11.0;Vessel
-1.0;C;0;2.0;11.0;Vessel
-1.0;D;0;2.0;11.0;Vessel
-1.0;E;0;2.0;11.0;Vessel
-1.0;F;0;2.0;11.0;Vessel
-1.0;G;0;2.0;11.0;Vessel
-1.0;I;0;2.0;11.0;Vessel
-1.0;J;0;2.0;11.0;Vessel
-1.0;K;0;2.0;11.0;Vessel
-1.0;L;0;2.0;11.0;Vessel
-1.0;M;0;2.0;11.0;Vessel
-2.0;A;0;1.0;11.0;Vessel
-2.0;B;0;1.0;11.0;Vessel
-2.0;C;0;1.0;11.0;Vessel
-2.0;D;0;1.0;11.0;Vessel
-2.0;E;0;1.0;11.0;Vessel
-2.0;F;0;1.0;11.0;Vessel
-2.0;G;0;1.0;11.0;Vessel
-2.0;I;1;1.0;11.0;Vessel
-2.0;J;0;1.0;11.0;Vessel
-2.0;K;0;1.0;11.0;Vessel
-2.0;L;0;1.0;11.0;Vessel
-2.0;M;0;1.0;11.0;Vessel
-2.0;A;0;2.0;11.0;Vessel
-2.0;B;0;2.0;11.0;Vessel
-2.0;C;0;2.0;11.0;Vessel
-2.0;D;0;2.0;11.0;Vessel
-2.0;E;0;2.0;11.0;Vessel
-2.0;F;0;2.0;11.0;Vessel
-2.0;G;0;2.0;11.0;Vessel
-2.0;I;0;2.0;11.0;Vessel
-2.0;J;1;2.0;11.0;Vessel
-2.0;K;0;2.0;11.0;Vessel
-2.0;L;0;2.0;11.0;Vessel
-2.0;M;0;2.0;11.0;Vessel
-1.0;A;0;1.0;11.0;Tug
-1.0;B;0;1.0;11.0;Tug
-1.0;C;0;1.0;11.0;Tug
-1.0;D;0;1.0;11.0;Tug
-1.0;E;0;1.0;11.0;Tug
-1.0;F;0;1.0;11.0;Tug
-1.0;G;0;1.0;11.0;Tug
-1.0;I;0;1.0;11.0;Tug
-1.0;J;0;1.0;11.0;Tug
-1.0;K;0;1.0;11.0;Tug
-1.0;L;0;1.0;11.0;Tug
-1.0;M;0;1.0;11.0;Tug
-1.0;A;0;2.0;11.0;Tug
-1.0;B;0;2.0;11.0;Tug
-1.0;C;0;2.0;11.0;Tug
-1.0;D;0;2.0;11.0;Tug
-1.0;E;0;2.0;11.0;Tug
-1.0;F;0;2.0;11.0;Tug
-1.0;G;0;2.0;11.0;Tug
-1.0;I;0;2.0;11.0;Tug
-1.0;J;0;2.0;11.0;Tug
-1.0;K;0;2.0;11.0;Tug
-1.0;L;0;2.0;11.0;Tug
-1.0;M;0;2.0;11.0;Tug
-2.0;A;0;1.0;11.0;Tug
-2.0;B;0;1.0;11.0;Tug
-2.0;C;0;1.0;11.0;Tug
-2.0;D;0;1.0;11.0;Tug
-2.0;E;0;1.0;11.0;Tug
-2.0;F;0;1.0;11.0;Tug
-2.0;G;0;1.0;11.0;Tug
-2.0;I;0;1.0;11.0;Tug
-2.0;J;0;1.0;11.0;Tug
-2.0;K;0;1.0;11.0;Tug
-2.0;L;0;1.0;11.0;Tug
-2.0;M;0;1.0;11.0;Tug
-2.0;A;0;2.0;11.0;Tug
-2.0;B;0;2.0;11.0;Tug
-2.0;C;0;2.0;11.0;Tug
-2.0;D;0;2.0;11.0;Tug
-2.0;E;0;2.0;11.0;Tug
-2.0;F;0;2.0;11.0;Tug
-2.0;G;0;2.0;11.0;Tug
-2.0;I;0;2.0;11.0;Tug
-2.0;J;0;2.0;11.0;Tug
-2.0;K;0;2.0;11.0;Tug
-2.0;L;0;2.0;11.0;Tug
-2.0;M;0;2.0;11.0;Tug
-1.0;A;0;1.0;11.0;Barge
-1.0;B;0;1.0;11.0;Barge
-1.0;C;0;1.0;11.0;Barge
-1.0;D;0;1.0;11.0;Barge
-1.0;E;0;1.0;11.0;Barge
-1.0;F;0;1.0;11.0;Barge
-1.0;G;0;1.0;11.0;Barge
+1.0;H;0;1.0;11.0;Vessel
 1.0;I;0;1.0;11.0;Barge
 1.0;J;0;1.0;11.0;Barge
 1.0;K;0;1.0;11.0;Barge
@@ -4194,6 +3659,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;11.0;Barge
 1.0;F;0;2.0;11.0;Barge
 1.0;G;0;2.0;11.0;Barge
+1.0;H;0;2.0;11.0;Barge
 1.0;I;0;2.0;11.0;Barge
 1.0;J;0;2.0;11.0;Barge
 1.0;K;0;2.0;11.0;Barge
@@ -4206,6 +3672,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;11.0;Barge
 2.0;F;0;1.0;11.0;Barge
 2.0;G;0;1.0;11.0;Barge
+2.0;H;0;1.0;11.0;Barge
 2.0;I;0;1.0;11.0;Barge
 2.0;J;0;1.0;11.0;Barge
 2.0;K;0;1.0;11.0;Barge
@@ -4218,347 +3685,324 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;11.0;Barge
 2.0;F;0;2.0;11.0;Barge
 2.0;G;0;2.0;11.0;Barge
+2.0;H;0;2.0;11.0;Barge
 2.0;I;0;2.0;11.0;Barge
 2.0;J;0;2.0;11.0;Barge
 2.0;K;0;2.0;11.0;Barge
 2.0;L;0;2.0;11.0;Barge
 2.0;M;0;2.0;11.0;Barge
-1.0;A;0;1.0;12.0;Carrier
-1.0;B;0;1.0;12.0;Carrier
-1.0;C;0;1.0;12.0;Carrier
-1.0;D;0;1.0;12.0;Carrier
-1.0;E;0;1.0;12.0;Carrier
-1.0;F;0;1.0;12.0;Carrier
-1.0;G;0;1.0;12.0;Carrier
-1.0;I;0;1.0;12.0;Carrier
-1.0;J;0;1.0;12.0;Carrier
-1.0;K;0;1.0;12.0;Carrier
-1.0;L;0;1.0;12.0;Carrier
-1.0;M;0;1.0;12.0;Carrier
-1.0;A;0;2.0;12.0;Carrier
-1.0;B;0;2.0;12.0;Carrier
-1.0;C;0;2.0;12.0;Carrier
-1.0;D;0;2.0;12.0;Carrier
-1.0;E;0;2.0;12.0;Carrier
-1.0;F;0;2.0;12.0;Carrier
-1.0;G;0;2.0;12.0;Carrier
-1.0;I;0;2.0;12.0;Carrier
-1.0;J;0;2.0;12.0;Carrier
-1.0;K;0;2.0;12.0;Carrier
-1.0;L;0;2.0;12.0;Carrier
-1.0;M;0;2.0;12.0;Carrier
-2.0;A;0;1.0;12.0;Carrier
-2.0;B;0;1.0;12.0;Carrier
-2.0;C;0;1.0;12.0;Carrier
-2.0;D;0;1.0;12.0;Carrier
-2.0;E;0;1.0;12.0;Carrier
-2.0;F;0;1.0;12.0;Carrier
-2.0;G;0;1.0;12.0;Carrier
-2.0;I;1;1.0;12.0;Carrier
-2.0;J;0;1.0;12.0;Carrier
-2.0;K;1;1.0;12.0;Carrier
-2.0;L;0;1.0;12.0;Carrier
-2.0;M;0;1.0;12.0;Carrier
-2.0;A;0;2.0;12.0;Carrier
-2.0;B;0;2.0;12.0;Carrier
-2.0;C;0;2.0;12.0;Carrier
-2.0;D;0;2.0;12.0;Carrier
-2.0;E;0;2.0;12.0;Carrier
-2.0;F;0;2.0;12.0;Carrier
-2.0;G;0;2.0;12.0;Carrier
-2.0;I;1;2.0;12.0;Carrier
-2.0;J;0;2.0;12.0;Carrier
-2.0;K;2;2.0;12.0;Carrier
-2.0;L;0;2.0;12.0;Carrier
-2.0;M;0;2.0;12.0;Carrier
-1.0;A;0;1.0;12.0;Tanker
-1.0;B;0;1.0;12.0;Tanker
-1.0;C;0;1.0;12.0;Tanker
-1.0;D;0;1.0;12.0;Tanker
-1.0;E;0;1.0;12.0;Tanker
-1.0;F;0;1.0;12.0;Tanker
-1.0;G;0;1.0;12.0;Tanker
-1.0;I;0;1.0;12.0;Tanker
-1.0;J;0;1.0;12.0;Tanker
-1.0;K;0;1.0;12.0;Tanker
-1.0;L;0;1.0;12.0;Tanker
-1.0;M;0;1.0;12.0;Tanker
-1.0;A;0;2.0;12.0;Tanker
-1.0;B;0;2.0;12.0;Tanker
-1.0;C;0;2.0;12.0;Tanker
-1.0;D;0;2.0;12.0;Tanker
-1.0;E;0;2.0;12.0;Tanker
-1.0;F;0;2.0;12.0;Tanker
-1.0;G;0;2.0;12.0;Tanker
-1.0;I;0;2.0;12.0;Tanker
-1.0;J;0;2.0;12.0;Tanker
-1.0;K;0;2.0;12.0;Tanker
-1.0;L;0;2.0;12.0;Tanker
-1.0;M;0;2.0;12.0;Tanker
-2.0;A;0;1.0;12.0;Tanker
-2.0;B;0;1.0;12.0;Tanker
-2.0;C;0;1.0;12.0;Tanker
-2.0;D;0;1.0;12.0;Tanker
-2.0;E;0;1.0;12.0;Tanker
-2.0;F;0;1.0;12.0;Tanker
-2.0;G;0;1.0;12.0;Tanker
-2.0;I;5;1.0;12.0;Tanker
-2.0;J;0;1.0;12.0;Tanker
-2.0;K;0;1.0;12.0;Tanker
-2.0;L;0;1.0;12.0;Tanker
-2.0;M;0;1.0;12.0;Tanker
-2.0;A;1;2.0;12.0;Tanker
-2.0;B;0;2.0;12.0;Tanker
-2.0;C;0;2.0;12.0;Tanker
-2.0;D;0;2.0;12.0;Tanker
-2.0;E;0;2.0;12.0;Tanker
-2.0;F;0;2.0;12.0;Tanker
-2.0;G;0;2.0;12.0;Tanker
-2.0;I;2;2.0;12.0;Tanker
-2.0;J;0;2.0;12.0;Tanker
-2.0;K;0;2.0;12.0;Tanker
-2.0;L;0;2.0;12.0;Tanker
-2.0;M;0;2.0;12.0;Tanker
-1.0;A;0;1.0;12.0;Other
-1.0;B;0;1.0;12.0;Other
-1.0;C;0;1.0;12.0;Other
-1.0;D;0;1.0;12.0;Other
-1.0;E;0;1.0;12.0;Other
-1.0;F;0;1.0;12.0;Other
-1.0;G;0;1.0;12.0;Other
-1.0;I;0;1.0;12.0;Other
-1.0;J;0;1.0;12.0;Other
-1.0;K;0;1.0;12.0;Other
-1.0;L;0;1.0;12.0;Other
-1.0;M;0;1.0;12.0;Other
-1.0;A;0;2.0;12.0;Other
-1.0;B;0;2.0;12.0;Other
-1.0;C;0;2.0;12.0;Other
-1.0;D;0;2.0;12.0;Other
-1.0;E;0;2.0;12.0;Other
-1.0;F;0;2.0;12.0;Other
-1.0;G;0;2.0;12.0;Other
-1.0;I;0;2.0;12.0;Other
-1.0;J;0;2.0;12.0;Other
-1.0;K;0;2.0;12.0;Other
-1.0;L;0;2.0;12.0;Other
-1.0;M;0;2.0;12.0;Other
-2.0;A;0;1.0;12.0;Other
-2.0;B;0;1.0;12.0;Other
-2.0;C;0;1.0;12.0;Other
-2.0;D;0;1.0;12.0;Other
-2.0;E;0;1.0;12.0;Other
-2.0;F;0;1.0;12.0;Other
-2.0;G;0;1.0;12.0;Other
-2.0;I;0;1.0;12.0;Other
-2.0;J;0;1.0;12.0;Other
-2.0;K;0;1.0;12.0;Other
-2.0;L;0;1.0;12.0;Other
-2.0;M;0;1.0;12.0;Other
-2.0;A;0;2.0;12.0;Other
-2.0;B;0;2.0;12.0;Other
-2.0;C;0;2.0;12.0;Other
-2.0;D;0;2.0;12.0;Other
-2.0;E;0;2.0;12.0;Other
-2.0;F;0;2.0;12.0;Other
-2.0;G;0;2.0;12.0;Other
-2.0;I;0;2.0;12.0;Other
-2.0;J;0;2.0;12.0;Other
-2.0;K;0;2.0;12.0;Other
-2.0;L;0;2.0;12.0;Other
-2.0;M;0;2.0;12.0;Other
-1.0;A;0;1.0;12.0;Cargo
-1.0;B;0;1.0;12.0;Cargo
-1.0;C;0;1.0;12.0;Cargo
-1.0;D;0;1.0;12.0;Cargo
-1.0;E;0;1.0;12.0;Cargo
-1.0;F;0;1.0;12.0;Cargo
-1.0;G;0;1.0;12.0;Cargo
-1.0;I;0;1.0;12.0;Cargo
-1.0;J;0;1.0;12.0;Cargo
-1.0;K;0;1.0;12.0;Cargo
-1.0;L;0;1.0;12.0;Cargo
-1.0;M;0;1.0;12.0;Cargo
-1.0;A;0;2.0;12.0;Cargo
-1.0;B;0;2.0;12.0;Cargo
-1.0;C;0;2.0;12.0;Cargo
-1.0;D;0;2.0;12.0;Cargo
-1.0;E;0;2.0;12.0;Cargo
-1.0;F;0;2.0;12.0;Cargo
-1.0;G;0;2.0;12.0;Cargo
-1.0;I;0;2.0;12.0;Cargo
-1.0;J;0;2.0;12.0;Cargo
-1.0;K;0;2.0;12.0;Cargo
-1.0;L;0;2.0;12.0;Cargo
-1.0;M;0;2.0;12.0;Cargo
-2.0;A;0;1.0;12.0;Cargo
-2.0;B;0;1.0;12.0;Cargo
-2.0;C;0;1.0;12.0;Cargo
-2.0;D;0;1.0;12.0;Cargo
-2.0;E;0;1.0;12.0;Cargo
-2.0;F;0;1.0;12.0;Cargo
-2.0;G;0;1.0;12.0;Cargo
-2.0;I;2;1.0;12.0;Cargo
-2.0;J;0;1.0;12.0;Cargo
-2.0;K;0;1.0;12.0;Cargo
-2.0;L;1;1.0;12.0;Cargo
-2.0;M;0;1.0;12.0;Cargo
-2.0;A;0;2.0;12.0;Cargo
-2.0;B;0;2.0;12.0;Cargo
-2.0;C;0;2.0;12.0;Cargo
-2.0;D;0;2.0;12.0;Cargo
-2.0;E;0;2.0;12.0;Cargo
-2.0;F;0;2.0;12.0;Cargo
-2.0;G;0;2.0;12.0;Cargo
-2.0;I;1;2.0;12.0;Cargo
-2.0;J;0;2.0;12.0;Cargo
-2.0;K;0;2.0;12.0;Cargo
-2.0;L;0;2.0;12.0;Cargo
-2.0;M;1;2.0;12.0;Cargo
-1.0;A;0;1.0;12.0;Ro-Ro
-1.0;B;0;1.0;12.0;Ro-Ro
-1.0;C;0;1.0;12.0;Ro-Ro
-1.0;D;0;1.0;12.0;Ro-Ro
-1.0;E;0;1.0;12.0;Ro-Ro
-1.0;F;0;1.0;12.0;Ro-Ro
-1.0;G;0;1.0;12.0;Ro-Ro
-1.0;I;0;1.0;12.0;Ro-Ro
-1.0;J;0;1.0;12.0;Ro-Ro
-1.0;K;0;1.0;12.0;Ro-Ro
-1.0;L;0;1.0;12.0;Ro-Ro
-1.0;M;0;1.0;12.0;Ro-Ro
-1.0;A;0;2.0;12.0;Ro-Ro
-1.0;B;0;2.0;12.0;Ro-Ro
-1.0;C;0;2.0;12.0;Ro-Ro
-1.0;D;0;2.0;12.0;Ro-Ro
-1.0;E;0;2.0;12.0;Ro-Ro
-1.0;F;0;2.0;12.0;Ro-Ro
-1.0;G;0;2.0;12.0;Ro-Ro
-1.0;I;0;2.0;12.0;Ro-Ro
-1.0;J;0;2.0;12.0;Ro-Ro
-1.0;K;0;2.0;12.0;Ro-Ro
-1.0;L;0;2.0;12.0;Ro-Ro
-1.0;M;0;2.0;12.0;Ro-Ro
-2.0;A;0;1.0;12.0;Ro-Ro
-2.0;B;0;1.0;12.0;Ro-Ro
-2.0;C;0;1.0;12.0;Ro-Ro
-2.0;D;0;1.0;12.0;Ro-Ro
-2.0;E;0;1.0;12.0;Ro-Ro
-2.0;F;0;1.0;12.0;Ro-Ro
-2.0;G;0;1.0;12.0;Ro-Ro
-2.0;I;0;1.0;12.0;Ro-Ro
-2.0;J;0;1.0;12.0;Ro-Ro
-2.0;K;0;1.0;12.0;Ro-Ro
-2.0;L;0;1.0;12.0;Ro-Ro
-2.0;M;0;1.0;12.0;Ro-Ro
-2.0;A;0;2.0;12.0;Ro-Ro
-2.0;B;0;2.0;12.0;Ro-Ro
-2.0;C;0;2.0;12.0;Ro-Ro
-2.0;D;0;2.0;12.0;Ro-Ro
-2.0;E;0;2.0;12.0;Ro-Ro
-2.0;F;0;2.0;12.0;Ro-Ro
-2.0;G;0;2.0;12.0;Ro-Ro
-2.0;I;0;2.0;12.0;Ro-Ro
-2.0;J;0;2.0;12.0;Ro-Ro
-2.0;K;0;2.0;12.0;Ro-Ro
-2.0;L;0;2.0;12.0;Ro-Ro
-2.0;M;0;2.0;12.0;Ro-Ro
-1.0;A;0;1.0;12.0;Vessel
-1.0;B;0;1.0;12.0;Vessel
-1.0;C;0;1.0;12.0;Vessel
-1.0;D;0;1.0;12.0;Vessel
-1.0;E;0;1.0;12.0;Vessel
-1.0;F;0;1.0;12.0;Vessel
-1.0;G;0;1.0;12.0;Vessel
-1.0;I;0;1.0;12.0;Vessel
-1.0;J;0;1.0;12.0;Vessel
-1.0;K;0;1.0;12.0;Vessel
-1.0;L;0;1.0;12.0;Vessel
-1.0;M;0;1.0;12.0;Vessel
-1.0;A;0;2.0;12.0;Vessel
-1.0;B;0;2.0;12.0;Vessel
-1.0;C;0;2.0;12.0;Vessel
-1.0;D;0;2.0;12.0;Vessel
-1.0;E;0;2.0;12.0;Vessel
-1.0;F;0;2.0;12.0;Vessel
-1.0;G;0;2.0;12.0;Vessel
-1.0;I;0;2.0;12.0;Vessel
-1.0;J;0;2.0;12.0;Vessel
-1.0;K;0;2.0;12.0;Vessel
-1.0;L;0;2.0;12.0;Vessel
-1.0;M;0;2.0;12.0;Vessel
-2.0;A;0;1.0;12.0;Vessel
-2.0;B;0;1.0;12.0;Vessel
-2.0;C;0;1.0;12.0;Vessel
-2.0;D;0;1.0;12.0;Vessel
-2.0;E;0;1.0;12.0;Vessel
-2.0;F;0;1.0;12.0;Vessel
-2.0;G;0;1.0;12.0;Vessel
-2.0;I;0;1.0;12.0;Vessel
-2.0;J;0;1.0;12.0;Vessel
-2.0;K;0;1.0;12.0;Vessel
-2.0;L;0;1.0;12.0;Vessel
-2.0;M;0;1.0;12.0;Vessel
-2.0;A;0;2.0;12.0;Vessel
-2.0;B;0;2.0;12.0;Vessel
-2.0;C;0;2.0;12.0;Vessel
-2.0;D;0;2.0;12.0;Vessel
-2.0;E;0;2.0;12.0;Vessel
-2.0;F;0;2.0;12.0;Vessel
-2.0;G;0;2.0;12.0;Vessel
-2.0;I;0;2.0;12.0;Vessel
-2.0;J;0;2.0;12.0;Vessel
-2.0;K;0;2.0;12.0;Vessel
-2.0;L;0;2.0;12.0;Vessel
-2.0;M;0;2.0;12.0;Vessel
-1.0;A;0;1.0;12.0;Tug
-1.0;B;0;1.0;12.0;Tug
-1.0;C;0;1.0;12.0;Tug
-1.0;D;0;1.0;12.0;Tug
-1.0;E;0;1.0;12.0;Tug
-1.0;F;0;1.0;12.0;Tug
-1.0;G;0;1.0;12.0;Tug
-1.0;I;0;1.0;12.0;Tug
-1.0;J;0;1.0;12.0;Tug
-1.0;K;0;1.0;12.0;Tug
-1.0;L;0;1.0;12.0;Tug
-1.0;M;0;1.0;12.0;Tug
-1.0;A;0;2.0;12.0;Tug
-1.0;B;0;2.0;12.0;Tug
-1.0;C;0;2.0;12.0;Tug
-1.0;D;0;2.0;12.0;Tug
-1.0;E;0;2.0;12.0;Tug
-1.0;F;0;2.0;12.0;Tug
-1.0;G;0;2.0;12.0;Tug
-1.0;I;0;2.0;12.0;Tug
-1.0;J;0;2.0;12.0;Tug
-1.0;K;0;2.0;12.0;Tug
-1.0;L;0;2.0;12.0;Tug
-1.0;M;0;2.0;12.0;Tug
-2.0;A;0;1.0;12.0;Tug
-2.0;B;0;1.0;12.0;Tug
-2.0;C;0;1.0;12.0;Tug
-2.0;D;0;1.0;12.0;Tug
-2.0;E;0;1.0;12.0;Tug
-2.0;F;0;1.0;12.0;Tug
-2.0;G;0;1.0;12.0;Tug
-2.0;I;0;1.0;12.0;Tug
-2.0;J;0;1.0;12.0;Tug
-2.0;K;0;1.0;12.0;Tug
-2.0;L;0;1.0;12.0;Tug
-2.0;M;0;1.0;12.0;Tug
-2.0;A;0;2.0;12.0;Tug
-2.0;B;0;2.0;12.0;Tug
-2.0;C;0;2.0;12.0;Tug
-2.0;D;0;2.0;12.0;Tug
-2.0;E;0;2.0;12.0;Tug
-2.0;F;0;2.0;12.0;Tug
-2.0;G;0;2.0;12.0;Tug
-2.0;I;0;2.0;12.0;Tug
-2.0;J;1;2.0;12.0;Tug
-2.0;K;0;2.0;12.0;Tug
-2.0;L;0;2.0;12.0;Tug
-2.0;M;0;2.0;12.0;Tug
+1.0;A;0;1.0;11.0;Barge
+1.0;B;0;1.0;11.0;Barge
+1.0;C;0;1.0;11.0;Barge
+1.0;D;0;1.0;11.0;Barge
+1.0;E;0;1.0;11.0;Vehicle Carrier
+1.0;F;0;1.0;11.0;Vehicle Carrier
+1.0;G;0;1.0;11.0;Vehicle Carrier
+1.0;H;0;1.0;11.0;Vehicle Carrier
+1.0;I;0;1.0;11.0;Vehicle Carrier
+1.0;J;0;1.0;11.0;Vehicle Carrier
+1.0;K;0;1.0;11.0;Vehicle Carrier
+1.0;L;0;1.0;11.0;Vehicle Carrier
+1.0;M;0;1.0;11.0;Vehicle Carrier
+1.0;A;0;2.0;11.0;Vehicle Carrier
+1.0;B;0;2.0;11.0;Vehicle Carrier
+1.0;C;0;2.0;11.0;Vehicle Carrier
+1.0;D;0;2.0;11.0;Vehicle Carrier
+1.0;E;0;2.0;11.0;Vehicle Carrier
+1.0;F;0;2.0;11.0;Vehicle Carrier
+1.0;G;0;2.0;11.0;Vehicle Carrier
+1.0;H;0;2.0;11.0;Vehicle Carrier
+1.0;I;0;2.0;11.0;Vehicle Carrier
+1.0;J;0;2.0;11.0;Vehicle Carrier
+1.0;K;0;2.0;11.0;Vehicle Carrier
+1.0;L;0;2.0;11.0;Vehicle Carrier
+1.0;M;0;2.0;11.0;Vehicle Carrier
+2.0;A;0;1.0;11.0;Vehicle Carrier
+2.0;B;0;1.0;11.0;Vehicle Carrier
+2.0;C;0;1.0;11.0;Vehicle Carrier
+2.0;D;0;1.0;11.0;Vehicle Carrier
+2.0;E;0;1.0;11.0;Vehicle Carrier
+2.0;F;0;1.0;11.0;Vehicle Carrier
+2.0;G;2;1.0;11.0;Vehicle Carrier
+2.0;H;1;1.0;11.0;Vehicle Carrier
+2.0;I;2;1.0;11.0;Vehicle Carrier
+2.0;J;0;1.0;11.0;Vehicle Carrier
+2.0;K;1;1.0;11.0;Vehicle Carrier
+2.0;L;2;1.0;11.0;Vehicle Carrier
+2.0;M;0;1.0;11.0;Vehicle Carrier
+2.0;A;0;2.0;11.0;Vehicle Carrier
+2.0;B;0;2.0;11.0;Vehicle Carrier
+2.0;C;0;2.0;11.0;Vehicle Carrier
+2.0;D;0;2.0;11.0;Vehicle Carrier
+2.0;E;3;2.0;11.0;Vehicle Carrier
+2.0;F;0;2.0;11.0;Vehicle Carrier
+2.0;G;0;2.0;11.0;Vehicle Carrier
+2.0;H;1;2.0;11.0;Vehicle Carrier
+2.0;I;1;2.0;11.0;Vehicle Carrier
+2.0;J;1;2.0;11.0;Vehicle Carrier
+2.0;K;1;2.0;11.0;Vehicle Carrier
+2.0;L;0;2.0;11.0;Vehicle Carrier
+2.0;M;0;2.0;11.0;Vehicle Carrier
+1.0;A;0;1.0;11.0;Tanker
+1.0;B;0;1.0;11.0;Tanker
+1.0;C;0;1.0;11.0;Tanker
+1.0;D;0;1.0;11.0;Tanker
+1.0;E;0;1.0;11.0;Tanker
+1.0;F;0;1.0;11.0;Tanker
+1.0;G;0;1.0;11.0;Tanker
+1.0;H;0;1.0;11.0;Tanker
+1.0;I;0;1.0;11.0;Tanker
+1.0;J;0;1.0;11.0;Tanker
+1.0;K;0;1.0;11.0;Tanker
+1.0;L;0;1.0;11.0;Tanker
+1.0;M;0;1.0;11.0;Tanker
+1.0;A;0;2.0;11.0;Tanker
+1.0;B;0;2.0;11.0;Tanker
+1.0;C;0;2.0;11.0;Tanker
+1.0;D;0;2.0;11.0;Tanker
+1.0;E;0;2.0;11.0;Tanker
+1.0;F;0;2.0;11.0;Tanker
+1.0;G;0;2.0;11.0;Tanker
+1.0;H;0;2.0;11.0;Tanker
+1.0;I;0;2.0;11.0;Tanker
+1.0;J;0;2.0;11.0;Tanker
+1.0;K;0;2.0;11.0;Tanker
+1.0;L;0;2.0;11.0;Tanker
+1.0;M;0;2.0;11.0;Tanker
+2.0;A;0;1.0;11.0;Tanker
+2.0;B;0;1.0;11.0;Tanker
+2.0;C;0;1.0;11.0;Tanker
+2.0;D;0;1.0;11.0;Tanker
+2.0;E;0;1.0;11.0;Tanker
+2.0;F;1;1.0;11.0;Tanker
+2.0;G;2;1.0;11.0;Tanker
+2.0;H;1;1.0;11.0;Tanker
+2.0;I;1;1.0;11.0;Tanker
+2.0;J;0;1.0;11.0;Tanker
+2.0;K;0;1.0;11.0;Tanker
+2.0;L;0;1.0;11.0;Tanker
+2.0;M;0;1.0;11.0;Tanker
+2.0;A;0;2.0;11.0;Tanker
+2.0;B;0;2.0;11.0;Tanker
+2.0;C;0;2.0;11.0;Tanker
+2.0;D;0;2.0;11.0;Tanker
+2.0;E;0;2.0;11.0;Tanker
+2.0;F;0;2.0;11.0;Tanker
+2.0;G;1;2.0;11.0;Tanker
+2.0;H;0;2.0;11.0;Tanker
+2.0;I;2;2.0;11.0;Tanker
+2.0;J;0;2.0;11.0;Offshore Exploitation
+2.0;K;0;2.0;11.0;Offshore Exploitation
+2.0;L;0;2.0;11.0;Offshore Exploitation
+2.0;M;0;2.0;11.0;Offshore Exploitation
+1.0;A;0;1.0;11.0;Offshore Exploitation
+1.0;B;0;1.0;11.0;Offshore Exploitation
+1.0;C;0;1.0;11.0;Offshore Exploitation
+1.0;D;0;1.0;11.0;Offshore Exploitation
+1.0;E;0;1.0;11.0;Offshore Exploitation
+1.0;F;0;1.0;11.0;Offshore Exploitation
+1.0;G;0;1.0;11.0;Offshore Exploitation
+1.0;H;0;1.0;11.0;Offshore Exploitation
+1.0;I;0;1.0;11.0;Offshore Exploitation
+1.0;J;0;1.0;11.0;Offshore Exploitation
+1.0;K;0;1.0;11.0;Offshore Exploitation
+1.0;L;0;1.0;11.0;Offshore Exploitation
+1.0;M;0;1.0;11.0;Offshore Exploitation
+1.0;A;0;2.0;11.0;Offshore Exploitation
+1.0;B;0;2.0;11.0;Offshore Exploitation
+1.0;C;0;2.0;11.0;Offshore Exploitation
+1.0;D;0;2.0;11.0;Offshore Exploitation
+1.0;E;0;2.0;11.0;Offshore Exploitation
+1.0;F;0;2.0;11.0;Offshore Exploitation
+1.0;G;0;2.0;11.0;Offshore Exploitation
+1.0;H;0;2.0;11.0;Offshore Exploitation
+1.0;I;0;2.0;11.0;Offshore Exploitation
+1.0;J;0;2.0;11.0;Offshore Exploitation
+1.0;K;0;2.0;11.0;Offshore Exploitation
+1.0;L;0;2.0;11.0;Offshore Exploitation
+1.0;M;0;2.0;11.0;Offshore Exploitation
+2.0;A;0;1.0;11.0;Offshore Exploitation
+2.0;B;0;1.0;11.0;Offshore Exploitation
+2.0;C;0;1.0;11.0;Offshore Exploitation
+2.0;D;0;1.0;11.0;Offshore Exploitation
+2.0;E;0;1.0;11.0;Offshore Exploitation
+2.0;F;0;1.0;11.0;Offshore Exploitation
+2.0;G;0;1.0;11.0;Offshore Exploitation
+2.0;H;0;1.0;11.0;Offshore Exploitation
+2.0;I;0;1.0;11.0;Offshore Exploitation
+2.0;J;0;1.0;11.0;Offshore Exploitation
+2.0;K;0;1.0;11.0;Offshore Exploitation
+2.0;L;0;1.0;11.0;Offshore Exploitation
+2.0;M;0;1.0;11.0;Offshore Exploitation
+2.0;A;0;2.0;11.0;Offshore Exploitation
+2.0;B;0;2.0;11.0;Offshore Exploitation
+2.0;C;0;2.0;11.0;Offshore Exploitation
+2.0;D;0;2.0;11.0;Offshore Exploitation
+2.0;E;0;2.0;11.0;Offshore Exploitation
+2.0;F;0;2.0;11.0;Other
+2.0;G;0;2.0;11.0;Other
+2.0;H;0;2.0;11.0;Other
+2.0;I;0;2.0;11.0;Other
+2.0;J;1;2.0;11.0;Other
+2.0;K;0;2.0;11.0;Other
+2.0;L;1;2.0;11.0;Other
+2.0;M;0;2.0;11.0;Other
+1.0;A;0;1.0;11.0;Other
+1.0;B;0;1.0;11.0;Other
+1.0;C;0;1.0;11.0;Other
+1.0;D;0;1.0;11.0;Other
+1.0;E;0;1.0;11.0;Other
+1.0;F;0;1.0;11.0;Other
+1.0;G;0;1.0;11.0;Other
+1.0;H;0;1.0;11.0;Other
+1.0;I;0;1.0;11.0;Other
+1.0;J;0;1.0;11.0;Other
+1.0;K;0;1.0;11.0;Other
+1.0;L;0;1.0;11.0;Other
+1.0;M;0;1.0;11.0;Other
+1.0;A;0;2.0;11.0;Other
+1.0;B;0;2.0;11.0;Other
+1.0;C;0;2.0;11.0;Other
+1.0;D;0;2.0;11.0;Other
+1.0;E;0;2.0;11.0;Other
+1.0;F;0;2.0;11.0;Other
+1.0;G;0;2.0;11.0;Other
+1.0;H;0;2.0;11.0;Other
+1.0;I;0;2.0;11.0;Other
+1.0;J;0;2.0;11.0;Other
+1.0;K;0;2.0;11.0;Other
+1.0;L;0;2.0;11.0;Other
+1.0;M;0;2.0;11.0;Other
+2.0;A;0;1.0;11.0;Other
+2.0;B;0;1.0;11.0;Other
+2.0;C;0;1.0;11.0;Other
+2.0;D;0;1.0;11.0;Other
+2.0;E;0;1.0;11.0;Other
+2.0;F;0;1.0;11.0;Other
+2.0;G;0;1.0;11.0;Other
+2.0;H;0;1.0;11.0;Other
+2.0;I;0;1.0;11.0;Other
+2.0;J;0;1.0;11.0;Other
+2.0;K;0;1.0;11.0;Other
+2.0;L;0;1.0;11.0;Other
+2.0;M;0;1.0;11.0;Other
+2.0;A;0;2.0;11.0;Other
+2.0;B;0;2.0;11.0;Tug
+2.0;C;0;2.0;11.0;Tug
+2.0;D;0;2.0;11.0;Tug
+2.0;E;0;2.0;11.0;Tug
+2.0;F;0;2.0;11.0;Tug
+2.0;G;0;2.0;11.0;Tug
+2.0;H;0;2.0;11.0;Tug
+2.0;I;0;2.0;11.0;Tug
+2.0;J;0;2.0;11.0;Tug
+2.0;K;0;2.0;11.0;Tug
+2.0;L;0;2.0;11.0;Tug
+2.0;M;0;2.0;11.0;Tug
+1.0;A;0;1.0;11.0;Tug
+1.0;B;0;1.0;11.0;Tug
+1.0;C;0;1.0;11.0;Tug
+1.0;D;0;1.0;11.0;Tug
+1.0;E;0;1.0;11.0;Tug
+1.0;F;0;1.0;11.0;Tug
+1.0;G;0;1.0;11.0;Tug
+1.0;H;0;1.0;11.0;Tug
+1.0;I;0;1.0;11.0;Tug
+1.0;J;0;1.0;11.0;Tug
+1.0;K;0;1.0;11.0;Tug
+1.0;L;0;1.0;11.0;Tug
+1.0;M;0;1.0;11.0;Tug
+1.0;A;0;2.0;11.0;Tug
+1.0;B;0;2.0;11.0;Tug
+1.0;C;0;2.0;11.0;Tug
+1.0;D;0;2.0;11.0;Tug
+1.0;E;0;2.0;11.0;Tug
+1.0;F;0;2.0;11.0;Tug
+1.0;G;0;2.0;11.0;Tug
+1.0;H;0;2.0;11.0;Tug
+1.0;I;0;2.0;11.0;Tug
+1.0;J;0;2.0;11.0;Tug
+1.0;K;0;2.0;11.0;Tug
+1.0;L;0;2.0;11.0;Tug
+1.0;M;0;2.0;11.0;Tug
+2.0;A;0;1.0;11.0;Tug
+2.0;B;0;1.0;11.0;Tug
+2.0;C;0;1.0;11.0;Tug
+2.0;D;0;1.0;11.0;Tug
+2.0;E;0;1.0;11.0;Tug
+2.0;F;0;1.0;11.0;Tug
+2.0;G;0;1.0;11.0;Tug
+2.0;H;0;1.0;11.0;Tug
+2.0;I;0;1.0;11.0;Tug
+2.0;J;0;1.0;11.0;Tug
+2.0;K;0;1.0;11.0;Vessel
+2.0;L;0;1.0;11.0;Vessel
+2.0;M;0;1.0;11.0;Vessel
+2.0;A;0;2.0;11.0;Vessel
+2.0;B;0;2.0;11.0;Vessel
+2.0;C;0;2.0;11.0;Vessel
+2.0;D;0;2.0;11.0;Vessel
+2.0;E;0;2.0;11.0;Vessel
+2.0;F;0;2.0;11.0;Vessel
+2.0;G;0;2.0;11.0;Vessel
+2.0;H;0;2.0;11.0;Vessel
+2.0;I;0;2.0;11.0;Vessel
+2.0;J;1;2.0;11.0;Vessel
+2.0;K;0;2.0;11.0;Vessel
+2.0;L;0;2.0;11.0;Vessel
+2.0;M;0;2.0;11.0;Vessel
+1.0;A;0;1.0;11.0;Vessel
+1.0;B;0;1.0;11.0;Vessel
+1.0;C;0;1.0;11.0;Vessel
+1.0;D;0;1.0;11.0;Vessel
+1.0;E;0;1.0;11.0;Vessel
+1.0;F;0;1.0;11.0;Vessel
+1.0;G;0;1.0;11.0;Vessel
+1.0;H;0;1.0;11.0;Vessel
+1.0;I;0;1.0;11.0;Vessel
+1.0;J;0;1.0;11.0;Vessel
+1.0;K;0;1.0;11.0;Vessel
+1.0;L;0;1.0;11.0;Vessel
+1.0;M;0;1.0;11.0;Vessel
+1.0;A;0;2.0;11.0;Vessel
+1.0;B;0;2.0;11.0;Vessel
+1.0;C;0;2.0;11.0;Vessel
+1.0;D;0;2.0;11.0;Vessel
+1.0;E;0;2.0;11.0;Vessel
+1.0;F;0;2.0;11.0;Vessel
+1.0;G;0;2.0;11.0;Vessel
+1.0;H;0;2.0;11.0;Vessel
+1.0;I;0;2.0;11.0;Vessel
+1.0;J;0;2.0;11.0;Vessel
+1.0;K;0;2.0;11.0;Vessel
+1.0;L;0;2.0;11.0;Vessel
+1.0;M;0;2.0;11.0;Vessel
+2.0;A;0;1.0;11.0;Vessel
+2.0;B;0;1.0;11.0;Vessel
+2.0;C;0;1.0;11.0;Vessel
+2.0;D;0;1.0;11.0;Vessel
+2.0;E;0;1.0;11.0;Vessel
+2.0;F;0;1.0;11.0;Vessel
+2.0;G;0;1.0;11.0;Barge
+2.0;H;0;1.0;11.0;Barge
+2.0;I;0;1.0;11.0;Barge
+2.0;J;0;1.0;11.0;Barge
+2.0;K;0;1.0;11.0;Barge
+2.0;L;0;1.0;11.0;Barge
+2.0;M;0;1.0;11.0;Barge
+2.0;A;0;2.0;11.0;Barge
+2.0;B;0;2.0;11.0;Barge
+2.0;C;0;2.0;11.0;Barge
+2.0;D;0;2.0;11.0;Barge
+2.0;E;0;2.0;11.0;Barge
+2.0;F;0;2.0;11.0;Barge
+2.0;G;0;2.0;11.0;Barge
+2.0;H;0;2.0;11.0;Barge
+2.0;I;0;2.0;11.0;Barge
+2.0;J;0;2.0;11.0;Barge
+2.0;K;0;2.0;11.0;Barge
+2.0;L;0;2.0;11.0;Barge
+2.0;M;0;2.0;11.0;Barge
 1.0;A;0;1.0;12.0;Barge
 1.0;B;0;1.0;12.0;Barge
 1.0;C;0;1.0;12.0;Barge
@@ -4566,6 +4010,7 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;1.0;12.0;Barge
 1.0;F;0;1.0;12.0;Barge
 1.0;G;0;1.0;12.0;Barge
+1.0;H;0;1.0;12.0;Barge
 1.0;I;0;1.0;12.0;Barge
 1.0;J;0;1.0;12.0;Barge
 1.0;K;0;1.0;12.0;Barge
@@ -4578,6 +4023,319 @@ Activity;Area;Count;Fortnight;Month;Type
 1.0;E;0;2.0;12.0;Barge
 1.0;F;0;2.0;12.0;Barge
 1.0;G;0;2.0;12.0;Barge
+1.0;H;0;2.0;12.0;Barge
+1.0;I;0;2.0;12.0;Barge
+1.0;J;0;2.0;12.0;Barge
+1.0;K;0;2.0;12.0;Barge
+1.0;L;0;2.0;12.0;Barge
+1.0;M;0;2.0;12.0;Barge
+2.0;A;0;1.0;12.0;Barge
+2.0;B;0;1.0;12.0;Barge
+2.0;C;0;1.0;12.0;Vehicle Carrier
+2.0;D;0;1.0;12.0;Vehicle Carrier
+2.0;E;0;1.0;12.0;Vehicle Carrier
+2.0;F;0;1.0;12.0;Vehicle Carrier
+2.0;G;0;1.0;12.0;Vehicle Carrier
+2.0;H;0;1.0;12.0;Vehicle Carrier
+2.0;I;3;1.0;12.0;Vehicle Carrier
+2.0;J;0;1.0;12.0;Vehicle Carrier
+2.0;K;1;1.0;12.0;Vehicle Carrier
+2.0;L;1;1.0;12.0;Vehicle Carrier
+2.0;M;0;1.0;12.0;Vehicle Carrier
+2.0;A;1;2.0;12.0;Vehicle Carrier
+2.0;B;0;2.0;12.0;Vehicle Carrier
+2.0;C;0;2.0;12.0;Vehicle Carrier
+2.0;D;0;2.0;12.0;Vehicle Carrier
+2.0;E;0;2.0;12.0;Vehicle Carrier
+2.0;F;0;2.0;12.0;Vehicle Carrier
+2.0;G;0;2.0;12.0;Vehicle Carrier
+2.0;H;1;2.0;12.0;Vehicle Carrier
+2.0;I;1;2.0;12.0;Vehicle Carrier
+2.0;J;0;2.0;12.0;Vehicle Carrier
+2.0;K;2;2.0;12.0;Vehicle Carrier
+2.0;L;0;2.0;12.0;Vehicle Carrier
+2.0;M;1;2.0;12.0;Vehicle Carrier
+1.0;A;0;1.0;12.0;Vehicle Carrier
+1.0;B;0;1.0;12.0;Vehicle Carrier
+1.0;C;0;1.0;12.0;Vehicle Carrier
+1.0;D;0;1.0;12.0;Vehicle Carrier
+1.0;E;0;1.0;12.0;Vehicle Carrier
+1.0;F;0;1.0;12.0;Vehicle Carrier
+1.0;G;0;1.0;12.0;Vehicle Carrier
+1.0;H;0;1.0;12.0;Vehicle Carrier
+1.0;I;0;1.0;12.0;Vehicle Carrier
+1.0;J;0;1.0;12.0;Vehicle Carrier
+1.0;K;0;1.0;12.0;Vehicle Carrier
+1.0;L;0;1.0;12.0;Vehicle Carrier
+1.0;M;0;1.0;12.0;Vehicle Carrier
+1.0;A;0;2.0;12.0;Vehicle Carrier
+1.0;B;0;2.0;12.0;Vehicle Carrier
+1.0;C;0;2.0;12.0;Vehicle Carrier
+1.0;D;0;2.0;12.0;Vehicle Carrier
+1.0;E;0;2.0;12.0;Vehicle Carrier
+1.0;F;0;2.0;12.0;Vehicle Carrier
+1.0;G;0;2.0;12.0;Vehicle Carrier
+1.0;H;0;2.0;12.0;Vehicle Carrier
+1.0;I;0;2.0;12.0;Vehicle Carrier
+1.0;J;0;2.0;12.0;Vehicle Carrier
+1.0;K;0;2.0;12.0;Vehicle Carrier
+1.0;L;0;2.0;12.0;Tanker
+1.0;M;0;2.0;12.0;Tanker
+2.0;A;0;1.0;12.0;Tanker
+2.0;B;0;1.0;12.0;Tanker
+2.0;C;0;1.0;12.0;Tanker
+2.0;D;0;1.0;12.0;Tanker
+2.0;E;0;1.0;12.0;Tanker
+2.0;F;0;1.0;12.0;Tanker
+2.0;G;0;1.0;12.0;Tanker
+2.0;H;2;1.0;12.0;Tanker
+2.0;I;3;1.0;12.0;Tanker
+2.0;J;0;1.0;12.0;Tanker
+2.0;K;0;1.0;12.0;Tanker
+2.0;L;0;1.0;12.0;Tanker
+2.0;M;0;1.0;12.0;Tanker
+2.0;A;0;2.0;12.0;Tanker
+2.0;B;0;2.0;12.0;Tanker
+2.0;C;0;2.0;12.0;Tanker
+2.0;D;0;2.0;12.0;Tanker
+2.0;E;0;2.0;12.0;Tanker
+2.0;F;0;2.0;12.0;Tanker
+2.0;G;0;2.0;12.0;Tanker
+2.0;H;1;2.0;12.0;Tanker
+2.0;I;1;2.0;12.0;Tanker
+2.0;J;0;2.0;12.0;Tanker
+2.0;K;0;2.0;12.0;Tanker
+2.0;L;0;2.0;12.0;Tanker
+2.0;M;0;2.0;12.0;Tanker
+1.0;A;0;1.0;12.0;Tanker
+1.0;B;0;1.0;12.0;Tanker
+1.0;C;0;1.0;12.0;Tanker
+1.0;D;0;1.0;12.0;Tanker
+1.0;E;0;1.0;12.0;Tanker
+1.0;F;0;1.0;12.0;Tanker
+1.0;G;0;1.0;12.0;Tanker
+1.0;H;0;1.0;12.0;Tanker
+1.0;I;0;1.0;12.0;Tanker
+1.0;J;0;1.0;12.0;Tanker
+1.0;K;0;1.0;12.0;Tanker
+1.0;L;0;1.0;12.0;Tanker
+1.0;M;0;1.0;12.0;Tanker
+1.0;A;0;2.0;12.0;Tanker
+1.0;B;0;2.0;12.0;Tanker
+1.0;C;0;2.0;12.0;Tanker
+1.0;D;0;2.0;12.0;Tanker
+1.0;E;0;2.0;12.0;Tanker
+1.0;F;0;2.0;12.0;Tanker
+1.0;G;0;2.0;12.0;Tanker
+1.0;H;0;2.0;12.0;Offshore Exploitation
+1.0;I;0;2.0;12.0;Offshore Exploitation
+1.0;J;0;2.0;12.0;Offshore Exploitation
+1.0;K;0;2.0;12.0;Offshore Exploitation
+1.0;L;0;2.0;12.0;Offshore Exploitation
+1.0;M;0;2.0;12.0;Offshore Exploitation
+2.0;A;0;1.0;12.0;Offshore Exploitation
+2.0;B;0;1.0;12.0;Offshore Exploitation
+2.0;C;0;1.0;12.0;Offshore Exploitation
+2.0;D;0;1.0;12.0;Offshore Exploitation
+2.0;E;0;1.0;12.0;Offshore Exploitation
+2.0;F;0;1.0;12.0;Offshore Exploitation
+2.0;G;0;1.0;12.0;Offshore Exploitation
+2.0;H;0;1.0;12.0;Offshore Exploitation
+2.0;I;0;1.0;12.0;Offshore Exploitation
+2.0;J;0;1.0;12.0;Offshore Exploitation
+2.0;K;0;1.0;12.0;Offshore Exploitation
+2.0;L;0;1.0;12.0;Offshore Exploitation
+2.0;M;0;1.0;12.0;Offshore Exploitation
+2.0;A;0;2.0;12.0;Offshore Exploitation
+2.0;B;0;2.0;12.0;Offshore Exploitation
+2.0;C;0;2.0;12.0;Offshore Exploitation
+2.0;D;0;2.0;12.0;Offshore Exploitation
+2.0;E;0;2.0;12.0;Offshore Exploitation
+2.0;F;0;2.0;12.0;Offshore Exploitation
+2.0;G;0;2.0;12.0;Offshore Exploitation
+2.0;H;0;2.0;12.0;Offshore Exploitation
+2.0;I;0;2.0;12.0;Offshore Exploitation
+2.0;J;0;2.0;12.0;Offshore Exploitation
+2.0;K;0;2.0;12.0;Offshore Exploitation
+2.0;L;0;2.0;12.0;Offshore Exploitation
+2.0;M;0;2.0;12.0;Offshore Exploitation
+1.0;A;0;1.0;12.0;Offshore Exploitation
+1.0;B;0;1.0;12.0;Offshore Exploitation
+1.0;C;0;1.0;12.0;Offshore Exploitation
+1.0;D;0;1.0;12.0;Offshore Exploitation
+1.0;E;0;1.0;12.0;Offshore Exploitation
+1.0;F;0;1.0;12.0;Offshore Exploitation
+1.0;G;0;1.0;12.0;Offshore Exploitation
+1.0;H;0;1.0;12.0;Offshore Exploitation
+1.0;I;0;1.0;12.0;Offshore Exploitation
+1.0;J;0;1.0;12.0;Offshore Exploitation
+1.0;K;0;1.0;12.0;Offshore Exploitation
+1.0;L;0;1.0;12.0;Offshore Exploitation
+1.0;M;0;1.0;12.0;Offshore Exploitation
+1.0;A;0;2.0;12.0;Offshore Exploitation
+1.0;B;0;2.0;12.0;Offshore Exploitation
+1.0;C;0;2.0;12.0;Offshore Exploitation
+1.0;D;0;2.0;12.0;Other
+1.0;E;0;2.0;12.0;Other
+1.0;F;0;2.0;12.0;Other
+1.0;G;0;2.0;12.0;Other
+1.0;H;0;2.0;12.0;Other
+1.0;I;0;2.0;12.0;Other
+1.0;J;0;2.0;12.0;Other
+1.0;K;0;2.0;12.0;Other
+1.0;L;0;2.0;12.0;Other
+1.0;M;0;2.0;12.0;Other
+2.0;A;0;1.0;12.0;Other
+2.0;B;0;1.0;12.0;Other
+2.0;C;0;1.0;12.0;Other
+2.0;D;0;1.0;12.0;Other
+2.0;E;0;1.0;12.0;Other
+2.0;F;0;1.0;12.0;Other
+2.0;G;0;1.0;12.0;Other
+2.0;H;0;1.0;12.0;Other
+2.0;I;0;1.0;12.0;Other
+2.0;J;0;1.0;12.0;Other
+2.0;K;0;1.0;12.0;Other
+2.0;L;0;1.0;12.0;Other
+2.0;M;0;1.0;12.0;Other
+2.0;A;0;2.0;12.0;Other
+2.0;B;0;2.0;12.0;Other
+2.0;C;0;2.0;12.0;Other
+2.0;D;0;2.0;12.0;Other
+2.0;E;0;2.0;12.0;Other
+2.0;F;0;2.0;12.0;Other
+2.0;G;0;2.0;12.0;Other
+2.0;H;0;2.0;12.0;Other
+2.0;I;0;2.0;12.0;Other
+2.0;J;1;2.0;12.0;Other
+2.0;K;0;2.0;12.0;Other
+2.0;L;0;2.0;12.0;Other
+2.0;M;0;2.0;12.0;Other
+1.0;A;0;1.0;12.0;Other
+1.0;B;0;1.0;12.0;Other
+1.0;C;0;1.0;12.0;Other
+1.0;D;0;1.0;12.0;Other
+1.0;E;0;1.0;12.0;Other
+1.0;F;0;1.0;12.0;Other
+1.0;G;0;1.0;12.0;Other
+1.0;H;0;1.0;12.0;Other
+1.0;I;0;1.0;12.0;Other
+1.0;J;0;1.0;12.0;Other
+1.0;K;0;1.0;12.0;Other
+1.0;L;0;1.0;12.0;Other
+1.0;M;0;1.0;12.0;Tug
+1.0;A;0;2.0;12.0;Tug
+1.0;B;0;2.0;12.0;Tug
+1.0;C;0;2.0;12.0;Tug
+1.0;D;0;2.0;12.0;Tug
+1.0;E;0;2.0;12.0;Tug
+1.0;F;0;2.0;12.0;Tug
+1.0;G;0;2.0;12.0;Tug
+1.0;H;0;2.0;12.0;Tug
+1.0;I;0;2.0;12.0;Tug
+1.0;J;0;2.0;12.0;Tug
+1.0;K;0;2.0;12.0;Tug
+1.0;L;0;2.0;12.0;Tug
+1.0;M;0;2.0;12.0;Tug
+2.0;A;0;1.0;12.0;Tug
+2.0;B;0;1.0;12.0;Tug
+2.0;C;0;1.0;12.0;Tug
+2.0;D;0;1.0;12.0;Tug
+2.0;E;0;1.0;12.0;Tug
+2.0;F;0;1.0;12.0;Tug
+2.0;G;0;1.0;12.0;Tug
+2.0;H;0;1.0;12.0;Tug
+2.0;I;0;1.0;12.0;Tug
+2.0;J;0;1.0;12.0;Tug
+2.0;K;0;1.0;12.0;Tug
+2.0;L;0;1.0;12.0;Tug
+2.0;M;0;1.0;12.0;Tug
+2.0;A;0;2.0;12.0;Tug
+2.0;B;0;2.0;12.0;Tug
+2.0;C;0;2.0;12.0;Tug
+2.0;D;0;2.0;12.0;Tug
+2.0;E;0;2.0;12.0;Tug
+2.0;F;0;2.0;12.0;Tug
+2.0;G;0;2.0;12.0;Tug
+2.0;H;0;2.0;12.0;Tug
+2.0;I;0;2.0;12.0;Tug
+2.0;J;1;2.0;12.0;Tug
+2.0;K;0;2.0;12.0;Tug
+2.0;L;0;2.0;12.0;Tug
+2.0;M;0;2.0;12.0;Tug
+1.0;A;0;1.0;12.0;Tug
+1.0;B;0;1.0;12.0;Tug
+1.0;C;0;1.0;12.0;Tug
+1.0;D;0;1.0;12.0;Tug
+1.0;E;0;1.0;12.0;Tug
+1.0;F;0;1.0;12.0;Tug
+1.0;G;0;1.0;12.0;Tug
+1.0;H;0;1.0;12.0;Tug
+1.0;I;0;1.0;12.0;Vessel
+1.0;J;0;1.0;12.0;Vessel
+1.0;K;0;1.0;12.0;Vessel
+1.0;L;0;1.0;12.0;Vessel
+1.0;M;0;1.0;12.0;Vessel
+1.0;A;0;2.0;12.0;Vessel
+1.0;B;0;2.0;12.0;Vessel
+1.0;C;0;2.0;12.0;Vessel
+1.0;D;0;2.0;12.0;Vessel
+1.0;E;0;2.0;12.0;Vessel
+1.0;F;0;2.0;12.0;Vessel
+1.0;G;0;2.0;12.0;Vessel
+1.0;H;0;2.0;12.0;Vessel
+1.0;I;0;2.0;12.0;Vessel
+1.0;J;0;2.0;12.0;Vessel
+1.0;K;0;2.0;12.0;Vessel
+1.0;L;0;2.0;12.0;Vessel
+1.0;M;0;2.0;12.0;Vessel
+2.0;A;0;1.0;12.0;Vessel
+2.0;B;0;1.0;12.0;Vessel
+2.0;C;0;1.0;12.0;Vessel
+2.0;D;0;1.0;12.0;Vessel
+2.0;E;0;1.0;12.0;Vessel
+2.0;F;0;1.0;12.0;Vessel
+2.0;G;0;1.0;12.0;Vessel
+2.0;H;0;1.0;12.0;Vessel
+2.0;I;0;1.0;12.0;Vessel
+2.0;J;0;1.0;12.0;Vessel
+2.0;K;0;1.0;12.0;Vessel
+2.0;L;0;1.0;12.0;Vessel
+2.0;M;0;1.0;12.0;Vessel
+2.0;A;0;2.0;12.0;Vessel
+2.0;B;0;2.0;12.0;Vessel
+2.0;C;0;2.0;12.0;Vessel
+2.0;D;0;2.0;12.0;Vessel
+2.0;E;0;2.0;12.0;Vessel
+2.0;F;0;2.0;12.0;Vessel
+2.0;G;0;2.0;12.0;Vessel
+2.0;H;0;2.0;12.0;Vessel
+2.0;I;0;2.0;12.0;Vessel
+2.0;J;0;2.0;12.0;Vessel
+2.0;K;0;2.0;12.0;Vessel
+2.0;L;0;2.0;12.0;Vessel
+2.0;M;0;2.0;12.0;Vessel
+1.0;A;0;1.0;12.0;Vessel
+1.0;B;0;1.0;12.0;Vessel
+1.0;C;0;1.0;12.0;Vessel
+1.0;D;0;1.0;12.0;Vessel
+1.0;E;0;1.0;12.0;Barge
+1.0;F;0;1.0;12.0;Barge
+1.0;G;0;1.0;12.0;Barge
+1.0;H;0;1.0;12.0;Barge
+1.0;I;0;1.0;12.0;Barge
+1.0;J;0;1.0;12.0;Barge
+1.0;K;0;1.0;12.0;Barge
+1.0;L;0;1.0;12.0;Barge
+1.0;M;0;1.0;12.0;Barge
+1.0;A;0;2.0;12.0;Barge
+1.0;B;0;2.0;12.0;Barge
+1.0;C;0;2.0;12.0;Barge
+1.0;D;0;2.0;12.0;Barge
+1.0;E;0;2.0;12.0;Barge
+1.0;F;0;2.0;12.0;Barge
+1.0;G;0;2.0;12.0;Barge
+1.0;H;0;2.0;12.0;Barge
 1.0;I;0;2.0;12.0;Barge
 1.0;J;0;2.0;12.0;Barge
 1.0;K;0;2.0;12.0;Barge
@@ -4590,6 +4348,7 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;1.0;12.0;Barge
 2.0;F;0;1.0;12.0;Barge
 2.0;G;0;1.0;12.0;Barge
+2.0;H;0;1.0;12.0;Barge
 2.0;I;0;1.0;12.0;Barge
 2.0;J;0;1.0;12.0;Barge
 2.0;K;0;1.0;12.0;Barge
@@ -4602,8 +4361,9 @@ Activity;Area;Count;Fortnight;Month;Type
 2.0;E;0;2.0;12.0;Barge
 2.0;F;0;2.0;12.0;Barge
 2.0;G;0;2.0;12.0;Barge
+2.0;H;0;2.0;12.0;Barge
 2.0;I;0;2.0;12.0;Barge
-2.0;J;1;2.0;12.0;Barge
+2.0;J;0;2.0;12.0;Barge
 2.0;K;0;2.0;12.0;Barge
 2.0;L;0;2.0;12.0;Barge
 2.0;M;0;2.0;12.0;Barge
